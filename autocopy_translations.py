@@ -8,13 +8,11 @@ def kopiere_uebersetzungen(quellordner, zielordner):
     umbenennen_ordner(quellordner, zielordner)
     kopiere_uebersetzungen_in_ordnern(quellordner, zielordner)
 
-def umbenennen_ordner(quellordner, zielordner):
-    for ordnername, _, _ in os.walk(quellordner):
+def umbenennen_ordner(zielordner):
+    for ordnername, _, _ in os.walk(zielordner):
         if ordnername.endswith('en_us'):
             neuer_ordnername = ordnername[:-5] + 'de_de'
-            zielordnername = ordnername.replace(quellordner, zielordner)
-            neuer_zielordnername = zielordnername.replace('en_us', 'de_de')
-            shutil.move(zielordnername, neuer_zielordnername)
+            os.rename(ordnername, neuer_ordnername)
 
 def kopiere_uebersetzungen_in_ordnern(quellordner, zielordner):
     for ordnername, _, dateien in os.walk(quellordner):
