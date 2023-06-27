@@ -18,10 +18,7 @@ $lang['Coupons.!error.used_qty.format'] = "Benutze Menge muss eine Zahl sein.";
 $lang['Coupons.!error.used_qty.length'] = "Die verwendete Mengenlänge darf 10 Zeichen nicht überschreiten.";
 $lang['Coupons.!error.max_qty.format'] = "Maximale Anzahl muss eine Nummer sein.";
 $lang['Coupons.!error.max_qty.length'] = "Die maximale Anzahl darf nicht 10 Zeichen überschreiten.";
-$lang['Coupons.!error.start_date.format'] = "
-
-Ungültiges Startdatumformat
-";
+$lang['Coupons.!error.start_date.format'] = "Ungültiges Startdatumformat";
 $lang['Coupons.!error.end_date.format'] = "Ungültiges Enddatumsformat";
 $lang['Coupons.!error.status.format'] = "Ungültiger Status";
 $lang['Coupons.!error.recurring.format'] = "Wiederkehrende muss eine Zahl sein.";

@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['Taxes.!error.company_id.exists'] = "
-
-Ungültige Firmen-ID
-";
+$lang['Taxes.!error.company_id.exists'] = "Ungültige Firmen-ID";
 $lang['Taxes.!error.level.format'] = "Das Steuerlevel muss eine Nummer sein.";
 $lang['Taxes.!error.level.length'] = "Die Steuerstufenlänge darf 2 Zeichen nicht überschreiten.";
 $lang['Taxes.!error.name.length'] = "Die Länge des Namens der Steuer darf 64 Zeichen nicht überschreiten.";

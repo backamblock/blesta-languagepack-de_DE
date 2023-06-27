@@ -11,8 +11,5 @@
 
 $lang['SystemEvents.!error.event.empty'] = "Bitte geben Sie einen Ereignisnamen ein.";
 $lang['SystemEvents.!error.event.length'] = "Das Ereignis darf %1\$s Zeichen nicht überschreiten."; // %1$s is the maximum number of characters allowed
-$lang['SystemEvents.!error.observer.valid'] = "
-
-Bitte geben Sie einen aufrufbaren Beobachter nach Namespace oder Dateisystempfad an.
-";
+$lang['SystemEvents.!error.observer.valid'] = "Bitte geben Sie einen aufrufbaren Beobachter nach Namespace oder Dateisystempfad an.";
 ?>

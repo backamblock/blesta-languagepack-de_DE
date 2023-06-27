@@ -12,10 +12,7 @@
 $lang['UniversalModule.name'] = "Universalmodul";
 $lang['UniversalModule.module_row'] = "Produkt";
 $lang['UniversalModule.module_row_plural'] = "Produkte";
-$lang['UniversalModule.add_module_row'] = "
-
-Produkt hinzufügen
-";
+$lang['UniversalModule.add_module_row'] = "Produkt hinzufügen";
 $lang['UniversalModule.manage.module_rows_title'] = "Produkte";
 $lang['UniversalModule.manage.module_rows_heading.name'] = "Produktbezeichnung";
 $lang['UniversalModule.manage.module_rows_heading.options'] = "Optionen";
@@ -67,10 +64,7 @@ $lang['UniversalModule.edit_row.notice_notice'] = "Post URL/E-Mail";
 $lang['UniversalModule.edit_row.notice_code'] = "HTTP-Code";
 $lang['UniversalModule.edit_row.notice_response'] = "Antwort enthält";
 $lang['UniversalModule.edit_row.email_notification'] = "Email Benachrichtigung";
-$lang['UniversalModule.edit_row.package_title'] = "
-
-Paketoptionen
-";
+$lang['UniversalModule.edit_row.package_title'] = "Paketoptionen";
 $lang['UniversalModule.edit_row.package_field_btn'] = "Paketoption hinzufügen";
 $lang['UniversalModule.edit_row.package_field_label'] = "Label";
 $lang['UniversalModule.edit_row.package_field_name'] = "Name";
@@ -133,21 +127,12 @@ $lang['UniversalModule.!error.service_field.required'] = "%1\$s ist erforderlich
 $lang['UniversalModule.!error.name.empty'] = "Produktname ist erforderlich.";
 $lang['UniversalModule.!error.package_email_from.required'] = "Absenderadresse ist ein Pflichtfeld für E-Mail Benachrichtigungen.";
 $lang['UniversalModule.!error.service_email_from.required'] = "Von Adresse ist für Service-E-Mail-Benachrichtigung erforderlich.";
-$lang['UniversalModule.!error.module_row.invalid'] = "
-
-Sie müssen ein Universalmodulprodukt angeben.
-";
+$lang['UniversalModule.!error.module_row.invalid'] = "Sie müssen ein Universalmodulprodukt angeben.";
 $lang['UniversalModule.manage.module_rows_no_results'] = "Es gibt keine Produkte.";
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = "Dies ist der Text, der direkt über dem Formularfeld angezeigt wird.";
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = "Dies ist der Name des ausgeblendeten Formularfelds. Verwenden Sie Menge, um ein Mengenfeld zu erstellen.";
-$lang['UniversalModule.!tooltip.option_heading_field_required'] = "
-
-Wählen Sie Ja, um dieses Feld anzufordern. Beachten Sie, dass für dieses Feld unter Eingaberegeln spezielle Validierungsregeln verwendet werden können.
-";
-$lang['UniversalModule.!tooltip.option_heading_field_encrypt'] = "
-
-Wenn Sie Ja wählen, werden die Felddaten verschlüsselt gespeichert. Die Daten werden bei Bedarf automatisch entschlüsselt und angezeigt.
-";
+$lang['UniversalModule.!tooltip.option_heading_field_required'] = "Wählen Sie Ja, um dieses Feld anzufordern. Beachten Sie, dass für dieses Feld unter Eingaberegeln spezielle Validierungsregeln verwendet werden können.";
+$lang['UniversalModule.!tooltip.option_heading_field_encrypt'] = "Wenn Sie Ja wählen, werden die Felddaten verschlüsselt gespeichert. Die Daten werden bei Bedarf automatisch entschlüsselt und angezeigt.";
 $lang['UniversalModule.!tooltip.option_heading_notice_notice'] = "Geben Sie die URL ein, an die die Nachricht gesendet werden soll, oder die E-Mail-Adresse, die für diese Aktion per E-Mail gesendet werden soll.";
 $lang['UniversalModule.!tooltip.option_heading_notice_code'] = "Wenn Sie eine URL veröffentlichen, können Sie einen HTTP-Code eingeben, der eine erfolgreiche Antwort angibt.";
 $lang['UniversalModule.!tooltip.option_heading_notice_response'] = "Wenn Sie eine URL veröffentlichen, können Sie ein Wort oder einen Ausdruck eingeben, die in der Antwort enthalten sind, die auf einen Erfolg hinweist.";

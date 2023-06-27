@@ -12,15 +12,9 @@
 $lang['Domain.lookup.title'] = "Überprüfen Sie die Verfügbarkeit der Domain";
 $lang['Domain.lookup.domain_placeholder'] = "yourdomain.com";
 $lang['Domain.lookup.transfer_btn'] = "Transfer";
-$lang['Domain.lookup.lookup_btn'] = "
-
-Verfügbarkeit prüfen
-";
+$lang['Domain.lookup.lookup_btn'] = "Verfügbarkeit prüfen";
 $lang['Domain.lookup.other_btn'] = "Andere Artikel bestellen";
-$lang['Domain.lookup.domains_header_available'] = "
-
-Glückwunsch, diese Domain ist verfügbar.
-";
+$lang['Domain.lookup.domains_header_available'] = "Glückwunsch, diese Domain ist verfügbar.";
 $lang['Domain.lookup.domains_header_unavailable'] = "Entschuldigung, diese Domain ist nicht verfügbar.";
 $lang['Domain.lookup.domains_domain_name'] = "Domänenname";
 $lang['Domain.lookup.domains_status'] = "Status";

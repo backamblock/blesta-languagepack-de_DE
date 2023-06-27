@@ -9,8 +9,5 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['MassMailerTasks.!error.job_id.valid'] = "
-
-Ungültige Job-ID
-";
+$lang['MassMailerTasks.!error.job_id.valid'] = "Ungültige Job-ID";
 ?>

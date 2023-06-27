@@ -14,10 +14,7 @@ $lang['PackageGroups.!error.company_id.exists'] = "Ungültige Firmen ID.";
 $lang['PackageGroups.!error.parents.format'] = "Mindestens eine übergeordnete Gruppen-ID ist eine nicht standardmäßige Gruppe, die nicht für die Verwendung als übergeordnete Gruppe verfügbar ist.";
 $lang['PackageGroups.gettypes.standard'] = "Standart";
 $lang['PackageGroups.gettypes.addon'] = "Add-on";
-$lang['PackageGroups.!error.allow_upgrades.format'] = "
-
-Ob Pakete innerhalb dieser Gruppe aktualisiert oder heruntergestuft werden können, muss auf 1 oder 0 gesetzt werden.
-";
+$lang['PackageGroups.!error.allow_upgrades.format'] = "Ob Pakete innerhalb dieser Gruppe aktualisiert oder heruntergestuft werden können, muss auf 1 oder 0 gesetzt werden.";
 $lang['PackageGroups.!error.names.format'] = "Die Paketgruppennamen haben ein ungültiges Format.";
 $lang['PackageGroups.!error.names.empty_name'] = "Bitte geben Sie für jede Sprache einen Paketgruppennamen an.";
 $lang['PackageGroups.!error.names.empty_lang'] = "Bitte geben Sie für jeden Namen einen Sprachcode für die Paketgruppe an.";

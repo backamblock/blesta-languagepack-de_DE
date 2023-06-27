@@ -12,34 +12,19 @@
 $lang['PackageOptions.!error.company_id.exists'] = "Ungültige Firmennummer";
 $lang['PackageOptions.!error.label.empty'] = "Bitte geben Sie ein Etikett ein.";
 $lang['PackageOptions.!error.label.length'] = "Das Label darf nicht länger als 128 Zeichen sein.";
-$lang['PackageOptions.!error.name.empty'] = "
-
-Bitte geben Sie einen Namen für diese Option ein.
-";
+$lang['PackageOptions.!error.name.empty'] = "Bitte geben Sie einen Namen für diese Option ein.";
 $lang['PackageOptions.!error.name.length'] = "Der NAme darf 128 Zeichen nicht Überschreiten. ";
-$lang['PackageOptions.!error.values.count'] = "
-
-Es kann nur einen Optionswert für Kontrollkästchen, Anzahl, Text, Textbereich oder Kennworttyp geben.
-";
+$lang['PackageOptions.!error.values.count'] = "Es kann nur einen Optionswert für Kontrollkästchen, Anzahl, Text, Textbereich oder Kennworttyp geben.";
 $lang['PackageOptions.!error.values[][step].valid'] = "Ein Schrittwert darf nur für die Mengenart festgelegt werden und muss mindestens 1 sein.";
 $lang['PackageOptions.!error.values[][min].valid'] = "Ein Mindestgrenzwert darf nur für die Mengenart festgelegt werden und muss einen Wert von 0 oder größer haben.";
 $lang['PackageOptions.!error.values[][max].valid'] = "Der maximale Grenzwert darf nur für die Mengenart festgelegt werden und muss einen Wert von 1 oder größer haben.";
-$lang['PackageOptions.!error.values[][name].empty'] = "
-
-Bitte geben Sie einen Namen für den Optionswert ein.
-";
+$lang['PackageOptions.!error.values[][name].empty'] = "Bitte geben Sie einen Namen für den Optionswert ein.";
 $lang['PackageOptions.!error.values[][name].length'] = "Der Name des Optionswerts darf nicht länger als 128 Zeichen sein.";
 $lang['PackageOptions.!error.values[][value].length'] = "Die Grenze von 255 Zeichen länge darf nicht überschritten werden.";
-$lang['PackageOptions.!error.groups.exists'] = "
-
-Mindestens eine der angegebenen Paketoptionsgruppen-IDs ist nicht vorhanden oder gehört nicht zu derselben Firma.
-";
+$lang['PackageOptions.!error.groups.exists'] = "Mindestens eine der angegebenen Paketoptionsgruppen-IDs ist nicht vorhanden oder gehört nicht zu derselben Firma.";
 $lang['PackageOptions.!error.option_id.exists'] = "Ungültige Paketoptions-ID";
 $lang['PackageOptions.!error.values[][pricing][][term].format'] = "Begriff muss eine Zahl sein.";
-$lang['PackageOptions.!error.values[][pricing][][term].length'] = "
-
-Die Laufzeit darf 5 Zeichen nicht überschreiten.
-";
+$lang['PackageOptions.!error.values[][pricing][][term].length'] = "Die Laufzeit darf 5 Zeichen nicht überschreiten.";
 $lang['PackageOptions.!error.values[][pricing][][term].valid'] = "Der Ausdruck muss größer als 0 sein.";
 $lang['PackageOptions.!error.values[][pricing][][period].format'] = "Ungültiger Periodentyp";
 $lang['PackageOptions.!error.values[][pricing][][price].format'] = "Der Preis muss eine Zahl sein.";
@@ -49,10 +34,7 @@ $lang['PackageOptions.gettypes.checkbox'] = "Kontrollkästchen";
 $lang['PackageOptions.gettypes.select'] = "Dropdown-Liste";
 $lang['PackageOptions.gettypes.quantity'] = "Anzahl";
 $lang['PackageOptions.gettypes.radio'] = "Radio";
-$lang['PackageOptions.getfields.label_quantity'] = "
-
-x %1\$s %2\$s
-"; // %1$s is the option value, %2$s is the option price
+$lang['PackageOptions.getfields.label_quantity'] = "x %1\$s %2\$s"; // %1$s is the option value, %2$s is the option price
 $lang['PackageOptions.getfields.label_quantity_setup'] = "x %1\$s %2\$s + %3\$s Einrichtungsgebühr"; // %1$s is the option value, %2$s is the option price, %3$s is the setup fee
 $lang['PackageOptions.getfields.label_radio'] = "%1\$s (%2\$s)"; // %1$s is the option value, %2$s is the option price
 $lang['PackageOptions.getfields.label_radio_setup'] = "%1\$s (%2\$s + %3\$s Einrichtungsgebühr)"; // %1$s is the option value, %2$s is the option price, %3$s is the setup fee

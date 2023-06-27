@@ -29,10 +29,7 @@ $lang['ClientContacts.add.field_contact_type'] = "Kontaktart";
 $lang['ClientContacts.add.field_addsubmit'] = "Kontakt erstellen";
 $lang['ClientContacts.edit.page_title'] = "Client # %1\$s Kontakt bearbeiten"; // %1$s is the client ID number
 $lang['ClientContacts.edit.boxtitle_edit'] = "Kontakt bearbeiten";
-$lang['ClientContacts.edit.heading_settings'] = "
-
-Zusätzliche Einstellungen
-";
+$lang['ClientContacts.edit.heading_settings'] = "Zusätzliche Einstellungen";
 $lang['ClientContacts.edit.field_contact_type'] = "Kontakt Typ";
 $lang['ClientContacts.edit.field_editsubmit'] = "Kontakt aktualisieren";
 $lang['ClientContacts.setcontactview.text_none'] = "Keiner";
@@ -54,8 +51,7 @@ $lang['ClientContacts.phone_numbers.field_phonelocation'] = "Standort";
 $lang['ClientContacts.phone_numbers.field_phonenumber'] = "Nummer";
 $lang['ClientContacts.phone_numbers.text_remove'] = "Entfernen";
 $lang['ClientContacts.index.no_results'] = "Sie haben keine Kontakte. Klicken Sie auf den Knopf unten, um Kontakte hinzuzufügen.";
-$lang['ClientContacts.!info.no_contacts'] = "Sie haben derzeit keine Kontakte, fügen Sie unten Ihren ersten Kontakt hinzu.
-";
+$lang['ClientContacts.!info.no_contacts'] = "Sie haben derzeit keine Kontakte, fügen Sie unten Ihren ersten Kontakt hinzu.";
 $lang['ClientContacts.contact_info.text_select_contact'] = "Sie können einen bestehenden Vertrag angeben, um dieses Formular mit vorgeschlagenen Werten zu befüllen.";
 $lang['ClientContacts.phone_numbers.field_phoneoptions'] = "Optionen";
 $lang['ClientContacts.phone_numbers.categorylink_number'] = "Zusätzliche hinzufügen";
@@ -74,23 +70,11 @@ $lang['ClientContacts.edit.field_new_password'] = "Neues Kennwort";
 $lang['ClientContacts.edit.field_confirm_password'] = "Passwort bestätigen";
 $lang['ClientContacts.edit.heading_permissions'] = "Berechtigungen";
 $lang['ClientContacts.tooltip.client_invoices'] = "Zeigen Sie Rechnungen auf dem Dashboard an sowie Benachrichtigungen zur Zahlungserinnerung.";
-$lang['ClientContacts.tooltip.client_services'] = "
-
-Zeigen Sie Dienste auf dem Dashboard an, und lassen Sie sie verwalten.
-";
+$lang['ClientContacts.tooltip.client_services'] = "Zeigen Sie Dienste auf dem Dashboard an, und lassen Sie sie verwalten.";
 $lang['ClientContacts.tooltip.client_transactions'] = "Transaktionen im Dashboard anzeigen";
 $lang['ClientContacts.tooltip.client_contacts'] = "Erlaube, dass Kontakte verwaltet werden.";
-$lang['ClientContacts.tooltip.client_accounts'] = "
-
-Verwalten von Zahlungskonten erlauben.
-";
+$lang['ClientContacts.tooltip.client_accounts'] = "Verwalten von Zahlungskonten erlauben.";
 $lang['ClientContacts.tooltip._invoice_delivery'] = "Lassen Sie die Rechnungsanlieferungsmethode angezeigt und geändert werden.";
-$lang['ClientContacts.tooltip._credits'] = "
-
-Erlauben Sie das Anzeigen der Kontoguthaben.
-";
-$lang['ClientContacts.contact_info.field_title'] = "
-
-Titel
-";
+$lang['ClientContacts.tooltip._credits'] = "Erlauben Sie das Anzeigen der Kontoguthaben.";
+$lang['ClientContacts.contact_info.field_title'] = "Titel";
 ?>

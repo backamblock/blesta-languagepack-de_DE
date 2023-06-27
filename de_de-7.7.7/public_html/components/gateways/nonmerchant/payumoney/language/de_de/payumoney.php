@@ -19,21 +19,9 @@ $lang['Payumoney.merchant_salt_note'] = "Merchant-Salz kann auf dem Payumoney-Da
 $lang['Payumoney.test_mode'] = "Sandbox-Modus";
 $lang['Payumoney.test_mode_note'] = "Wenn Sie diese Option aktivieren, wird die Payumoney-Sandbox verwendet. Aktivieren Sie diese Option nur, wenn Sie mit einem Payumoney-Sandbox-Konto testen.";
 $lang['Payumoney.buildprocess.submit'] = "Mit Payumoney bezahlen";
-$lang['Payumoney.!error.merchant_key.valid'] = "
-
-Bitte geben Sie einen gültigen Händlerschlüssel ein.
-";
+$lang['Payumoney.!error.merchant_key.valid'] = "Bitte geben Sie einen gültigen Händlerschlüssel ein.";
 $lang['Payumoney.!error.merchant_salt.valid'] = "Bitte geben Sie ein gültiges Salz ein.";
-$lang['Payumoney.!error.auth_header.valid'] = "
-
-Bitte geben Sie einen gültigen Berechtigungskopf ein.
-";
-$lang['Payumoney.!error.key.valid'] = "
-
-Ungültiger Händlerschlüssel
-";
-$lang['Payumoney.!error.invalid_token.response'] = "
-
-Payumoney antwortete mit einem ungültigen Token.
-";
+$lang['Payumoney.!error.auth_header.valid'] = "Bitte geben Sie einen gültigen Berechtigungskopf ein.";
+$lang['Payumoney.!error.key.valid'] = "Ungültiger Händlerschlüssel";
+$lang['Payumoney.!error.invalid_token.response'] = "Payumoney antwortete mit einem ungültigen Token.";
 ?>

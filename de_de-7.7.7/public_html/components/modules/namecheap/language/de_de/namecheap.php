@@ -15,10 +15,7 @@ $lang['Namecheap.module_row_plural'] = "Accounts";
 $lang['Namecheap.add_module_row'] = "Account hinzufügen";
 $lang['Namecheap.manage.module_rows_title'] = "Account";
 $lang['Namecheap.manage.module_rows_heading.user'] = "Benutzer";
-$lang['Namecheap.manage.module_rows_heading.key'] = "
-
-API-Schlüssel
-";
+$lang['Namecheap.manage.module_rows_heading.key'] = "API-Schlüssel";
 $lang['Namecheap.manage.module_rows_heading.sandbox'] = "Sandkasten";
 $lang['Namecheap.manage.module_rows_heading.options'] = "Optionen";
 $lang['Namecheap.manage.module_rows.edit'] = "Bearbeiten";
@@ -33,18 +30,12 @@ $lang['Namecheap.row_meta.sandbox_false'] = "Nein";
 $lang['Namecheap.add_row.box_title'] = "Namecheap Account hinzufügen";
 $lang['Namecheap.add_row.basic_title'] = "Grundeinstellungen";
 $lang['Namecheap.add_row.add_btn'] = "Account hinzufügen";
-$lang['Namecheap.edit_row.box_title'] = "
-
-Namecheap-Konto bearbeiten
-";
+$lang['Namecheap.edit_row.box_title'] = "Namecheap-Konto bearbeiten";
 $lang['Namecheap.edit_row.basic_title'] = "Grundeinstellungen";
 $lang['Namecheap.edit_row.add_btn'] = "Account aktualisieren";
 $lang['Namecheap.package_fields.type'] = "Typ";
 $lang['Namecheap.package_fields.type_domain'] = "Domain Registrierung";
-$lang['Namecheap.package_fields.type_ssl'] = "
-
-SSL-Zertifikat
-";
+$lang['Namecheap.package_fields.type_ssl'] = "SSL-Zertifikat";
 $lang['Namecheap.package_fields.tld_options'] = "TLDs";
 $lang['Namecheap.tab_whois.title'] = "Whois";
 $lang['Namecheap.tab_whois.section_Registrant'] = "Registrant";
@@ -63,10 +54,7 @@ $lang['Namecheap.tab_settings.field_request_epp'] = "EPP-Code/Übertragungsschl�
 $lang['Namecheap.tab_settings.field_submit'] = "Einstellungen aktualisieren";
 $lang['Namecheap.!error.user.valid'] = "Bitte geben Sie einen Benutzer ein";
 $lang['Namecheap.!error.key.valid'] = "Bitte geben Sie einen Schlüssel ein";
-$lang['Namecheap.!error.key.valid_connection'] = "
-
-Der Benutzer und die Tastenkombination scheinen ungültig zu sein, oder Ihr Namecheap-Konto ist möglicherweise nicht für den API-Zugriff konfiguriert.
-";
+$lang['Namecheap.!error.key.valid_connection'] = "Der Benutzer und die Tastenkombination scheinen ungültig zu sein, oder Ihr Namecheap-Konto ist möglicherweise nicht für den API-Zugriff konfiguriert.";
 $lang['Namecheap.transfer.DomainName'] = "Domänenname";
 $lang['Namecheap.transfer.EPPCode'] = "EPP Code";
 $lang['Namecheap.domain.DomainName'] = "Domänenname";
@@ -113,16 +101,10 @@ $lang['Namecheap.whois.AuxBillingPhone'] = "Telefon";
 $lang['Namecheap.whois.AuxBillingEmailAddress'] = "E-Mail";
 $lang['Namecheap.domain.RegistrantNexus'] = "Registratorentyp";
 $lang['Namecheap.domain.RegistrantNexus.c11'] = "US Bürger";
-$lang['Namecheap.domain.RegistrantNexus.c12'] = "
-
-Ständiger Wohnsitz in den USA
-";
+$lang['Namecheap.domain.RegistrantNexus.c12'] = "Ständiger Wohnsitz in den USA";
 $lang['Namecheap.domain.RegistrantNexus.c21'] = "US-amerikanische Einheit oder Organisation";
 $lang['Namecheap.domain.RegistrantNexus.c31'] = "Ausländische Organisation";
-$lang['Namecheap.domain.RegistrantNexus.c32'] = "
-
-Ausländische Organisation mit einem Büro in den USA
-";
+$lang['Namecheap.domain.RegistrantNexus.c32'] = "Ausländische Organisation mit einem Büro in den USA";
 $lang['Namecheap.domain.RegistrantPurpose'] = "Zweck";
 $lang['Namecheap.domain.RegistrantPurpose.p1'] = "Firma";
 $lang['Namecheap.domain.RegistrantPurpose.p2'] = "Nonprofit";
@@ -136,10 +118,7 @@ $lang['Namecheap.domain.EUAgreeDeletePolicy.yes'] = "Ich stimme den besonderen V
 $lang['Namecheap.domain.CIRALegalType'] = "Gesetzlicher Typ";
 $lang['Namecheap.domain.RegistrantPurpose.cco'] = "Konzern";
 $lang['Namecheap.domain.RegistrantPurpose.cct'] = "Kanadischer Staatsbürger";
-$lang['Namecheap.domain.RegistrantPurpose.res'] = "
-
-Kanadischer Wohnsitz
-";
+$lang['Namecheap.domain.RegistrantPurpose.res'] = "Kanadischer Wohnsitz";
 $lang['Namecheap.domain.RegistrantPurpose.gov'] = "Regierungsinstanz";
 $lang['Namecheap.domain.RegistrantPurpose.edu'] = "Bildungsbereich";
 $lang['Namecheap.domain.RegistrantPurpose.ass'] = "Nicht eingetragener Verein";
@@ -153,10 +132,7 @@ $lang['Namecheap.domain.RegistrantPurpose.trs'] = "Vertrauen";
 $lang['Namecheap.domain.RegistrantPurpose.abo'] = "Ureinwohner";
 $lang['Namecheap.domain.RegistrantPurpose.inb'] = "Indische Band";
 $lang['Namecheap.domain.RegistrantPurpose.lgr'] = "Gesetzlicher Vertreter";
-$lang['Namecheap.domain.RegistrantPurpose.omk'] = "
-
-Offizielle Marke
-";
+$lang['Namecheap.domain.RegistrantPurpose.omk'] = "Offizielle Marke";
 $lang['Namecheap.domain.RegistrantPurpose.maj'] = "Die Königin";
 $lang['Namecheap.domain.CIRAWhoisDisplay'] = "Whois";
 $lang['Namecheap.domain.CIRAWhoisDisplay.full'] = "Publizieren";
@@ -177,32 +153,20 @@ $lang['Namecheap.domain.COUKLegalType.other'] = "UK Entity (andere)";
 $lang['Namecheap.domain.COUKLegalType.crc'] = "UK Corporation von Royal Charter";
 $lang['Namecheap.domain.COUKLegalType.fcorp'] = "Ausländische Organisation";
 $lang['Namecheap.domain.COUKLegalType.stat'] = "UK Statutory Body FIND";
-$lang['Namecheap.domain.COUKLegalType.fother'] = "
-
-Andere ausländische Organisationen
-";
+$lang['Namecheap.domain.COUKLegalType.fother'] = "Andere ausländische Organisationen";
 $lang['Namecheap.domain.COUKCompanyID'] = "Firmennummer";
 $lang['Namecheap.domain.COUKRegisteredfor'] = "Registrant Namen";
 $lang['Namecheap.domain.MEUKLegalType'] = "Gesetzlicher Typ";
 $lang['Namecheap.domain.MEUKLegalType.ind'] = "GB individuell";
-$lang['Namecheap.domain.MEUKLegalType.find'] = "
-
-Nicht-UK-Person
-";
+$lang['Namecheap.domain.MEUKLegalType.find'] = "Nicht-UK-Person";
 $lang['Namecheap.domain.MEUKLegalType.ltd'] = "UK Limited Company";
-$lang['Namecheap.domain.MEUKLegalType.plc'] = "
-
-Britische Aktiengesellschaft
-";
+$lang['Namecheap.domain.MEUKLegalType.plc'] = "Britische Aktiengesellschaft";
 $lang['Namecheap.domain.MEUKLegalType.ptnr'] = "UK-Partnerschaft";
 $lang['Namecheap.domain.MEUKLegalType.llp'] = "Partnerschaft mit beschränkter Haftung im Vereinigten Königreich";
 $lang['Namecheap.domain.MEUKLegalType.ip'] = "Britische Industrie- / Provident-registrierte Firma";
 $lang['Namecheap.domain.MEUKLegalType.stra'] = "UK Einzelhändler";
 $lang['Namecheap.domain.MEUKLegalType.sch'] = "Britische Schule";
-$lang['Namecheap.domain.MEUKLegalType.rchar'] = "
-
-In Großbritannien eingetragene Wohltätigkeitsorganisation
-";
+$lang['Namecheap.domain.MEUKLegalType.rchar'] = "In Großbritannien eingetragene Wohltätigkeitsorganisation";
 $lang['Namecheap.domain.MEUKLegalType.gov'] = "Britische Regierungsbehörde";
 $lang['Namecheap.domain.MEUKLegalType.other'] = "UK Entity (andere)";
 $lang['Namecheap.domain.MEUKLegalType.crc'] = "UK Corporation von Royal Charter";
@@ -216,39 +180,21 @@ $lang['Namecheap.domain.ORGUKLegalType.ind'] = "UK individuell";
 $lang['Namecheap.domain.ORGUKLegalType.find'] = "Nicht-UK-Person";
 $lang['Namecheap.domain.ORGUKLegalType.ltd'] = "UK Limited Company";
 $lang['Namecheap.domain.ORGUKLegalType.plc'] = "Britische Aktiengesellschaft";
-$lang['Namecheap.domain.ORGUKLegalType.ptnr'] = "
-
-Britische Partnerschaft
-";
-$lang['Namecheap.domain.ORGUKLegalType.llp'] = "
-
-Partnerschaft mit beschränkter Haftung im Vereinigten Königreich
-";
+$lang['Namecheap.domain.ORGUKLegalType.ptnr'] = "Britische Partnerschaft";
+$lang['Namecheap.domain.ORGUKLegalType.llp'] = "Partnerschaft mit beschränkter Haftung im Vereinigten Königreich";
 $lang['Namecheap.domain.ORGUKLegalType.ip'] = "Britische Industrie- / Provident-registrierte Firma";
 $lang['Namecheap.domain.ORGUKLegalType.stra'] = "GB Einzelhändler";
-$lang['Namecheap.domain.ORGUKLegalType.sch'] = "
-
-Britische Schule
-";
+$lang['Namecheap.domain.ORGUKLegalType.sch'] = "Britische Schule";
 $lang['Namecheap.domain.ORGUKLegalType.rchar'] = "UK Registered Charity";
 $lang['Namecheap.domain.ORGUKLegalType.gov'] = "Britische Regierungsbehörde";
-$lang['Namecheap.domain.ORGUKLegalType.other'] = "
-
-UK Entität (andere)
-";
+$lang['Namecheap.domain.ORGUKLegalType.other'] = "UK Entität (andere)";
 $lang['Namecheap.domain.ORGUKLegalType.crc'] = "UK Corporation von Royal Charter";
 $lang['Namecheap.domain.ORGUKLegalType.fcorp'] = "Ausländische Ortanisation";
-$lang['Namecheap.domain.ORGUKLegalType.stat'] = "
-
-UK Gesetzliche Einrichtung FIND
-";
+$lang['Namecheap.domain.ORGUKLegalType.stat'] = "UK Gesetzliche Einrichtung FIND";
 $lang['Namecheap.domain.ORGUKLegalType.fother'] = "Andere ausländische Organisationen";
 $lang['Namecheap.domain.ORGUKCompanyID'] = "Firmen-ID-Nummer";
 $lang['Namecheap.domain.ORGUKRegisteredfor'] = "Name des Registranten";
-$lang['Namecheap.domain.ASIALegalEntityType'] = "
-
-Gesetzlicher Typ
-";
+$lang['Namecheap.domain.ASIALegalEntityType'] = "Gesetzlicher Typ";
 $lang['Namecheap.domain.ASIALegalEntityType.corporation'] = "Unternehmen";
 $lang['Namecheap.domain.ASIALegalEntityType.cooperative'] = "Genossenschaften";
 $lang['Namecheap.domain.ASIALegalEntityType.partnership'] = "Partnerschaften oder Kollektive";
@@ -267,28 +213,16 @@ $lang['Namecheap.domain.ASIAIdentNumber'] = "Identifikationsnummer";
 $lang['Namecheap.package_fields.ns1'] = "Namenserver 1";
 $lang['Namecheap.package_fields.ns2'] = "Name Server 2";
 $lang['Namecheap.package_fields.ns3'] = "Namenserver 3";
-$lang['Namecheap.package_fields.ns4'] = "
-
-Namenserver 4
-";
+$lang['Namecheap.package_fields.ns4'] = "Namenserver 4";
 $lang['Namecheap.package_fields.ns5'] = "Namenserver 5";
 $lang['Namecheap.nameserver.ns1'] = "Nameserver 1";
 $lang['Namecheap.nameserver.ns2'] = "Namenserver 2";
-$lang['Namecheap.nameserver.ns3'] = "
-
-Namenserver 3
-";
-$lang['Namecheap.nameserver.ns4'] = "
-
-Namenserver 4
-";
+$lang['Namecheap.nameserver.ns3'] = "Namenserver 3";
+$lang['Namecheap.nameserver.ns4'] = "Namenserver 4";
 $lang['Namecheap.nameserver.ns5'] = "Name Server 5";
 $lang['Namecheap.!tooltip.FRRegistrantBirthDate'] = "Stellen Sie Ihr Geburtsdatum im Format ein: JJJJ-MM-TT";
 $lang['Namecheap.!tooltip.FRRegistrantLegalId'] = "Die SIREN-Nummer ist der erste Teil der SIRET-NUMMER und besteht aus 9 Ziffern. Die SIRET-Nummer ist eine eindeutige Identifikationsnummer mit 14 Ziffern.";
-$lang['Namecheap.!tooltip.FRRegistrantDunsNumber'] = "
-
-Die DUNS-Nummer besteht aus 9 Ziffern, die von Dun & Bradstreet ausgegeben werden.
-";
+$lang['Namecheap.!tooltip.FRRegistrantDunsNumber'] = "Die DUNS-Nummer besteht aus 9 Ziffern, die von Dun & Bradstreet ausgegeben werden.";
 $lang['Namecheap.!tooltip.FRRegistrantJoDatePub'] = "Geben Sie das Veröffentlichungsdatum im Journal Officiel im folgenden Format ein: JJJJ-MM-TT";
 $lang['Namecheap.domain.FRLegalType'] = "Gesetzlicher Typ";
 $lang['Namecheap.domain.FRLegalType.individual'] = "Individuell";
@@ -300,14 +234,8 @@ $lang['Namecheap.domain.FRRegistrantTradeNumber'] = "Handelsmarken-Nummer";
 $lang['Namecheap.domain.FRRegistrantDunsNumber'] = "DUNS-Nummer";
 $lang['Namecheap.domain.FRRegistrantLocalId'] = "Europäischer Wirtschaftsraum Lokale ID";
 $lang['Namecheap.domain.FRRegistrantJoDateDec'] = "Das offizielle Datum des Journals";
-$lang['Namecheap.domain.FRRegistrantJoDatePub'] = "
-
-Das offizielle Veröffentlichungsdatum der Zeitschrift
-";
-$lang['Namecheap.domain.FRRegistrantJoNumber'] = "
-
-Die offizielle Journalnummer
-";
+$lang['Namecheap.domain.FRRegistrantJoDatePub'] = "Das offizielle Veröffentlichungsdatum der Zeitschrift";
+$lang['Namecheap.domain.FRRegistrantJoNumber'] = "Die offizielle Journalnummer";
 $lang['Namecheap.domain.FRRegistrantJoPage'] = "Nummer der Zeitschrift Offizielle Ankündigungsseite";
 $lang['Namecheap.!error.FRLegalType.format'] = "Bitte wählen Sie einen gültigen Legal Type";
 $lang['Namecheap.!error.FRRegistrantBirthDate.format'] = "Bitte geben Sie Ihr Geburtsdatum im folgenden Format an: JJJJ-MM-TT";

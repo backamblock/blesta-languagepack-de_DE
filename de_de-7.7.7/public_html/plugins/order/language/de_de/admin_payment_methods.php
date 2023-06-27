@@ -10,7 +10,6 @@
  */
 
 $lang['AdminPaymentMethods.index.page_title'] = "Zahlungsmethoden für Partner";
-$lang['AdminPaymentMethods.index.boxtitle_payment_methods'] = "Affiliate Zahlungs Methode
-";
+$lang['AdminPaymentMethods.index.boxtitle_payment_methods'] = "Affiliate Zahlungs Methode";
 $lang['AdminPaymentMethods.index.heading_options'] = "Optionen";
 ?>

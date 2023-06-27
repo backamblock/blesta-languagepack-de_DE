@@ -12,10 +12,7 @@
 $lang['Enom.name'] = "Enom";
 $lang['Enom.module_row'] = "Konto";
 $lang['Enom.module_row_plural'] = "Konten";
-$lang['Enom.add_module_row'] = "
-
-Konto hinzufügen
-";
+$lang['Enom.add_module_row'] = "Konto hinzufügen";
 $lang['Enom.manage.module_rows_title'] = "Konten";
 $lang['Enom.manage.module_rows_heading.user'] = "Nutzer";
 $lang['Enom.manage.module_rows_heading.key'] = "API Key";
@@ -24,10 +21,7 @@ $lang['Enom.manage.module_rows_heading.options'] = "Optionen";
 $lang['Enom.manage.module_rows.edit'] = "Bearbeiten";
 $lang['Enom.manage.module_rows.delete'] = "Löschen";
 $lang['Enom.manage.module_rows.confirm_delete'] = "Möchten Sie dieses Konto wirklich löschen?";
-$lang['Enom.manage.module_rows_no_results'] = "
-
-Es gibt keine Konten.
-";
+$lang['Enom.manage.module_rows_no_results'] = "Es gibt keine Konten.";
 $lang['Enom.row_meta.user'] = "Benutzer";
 $lang['Enom.row_meta.sandbox'] = "Sandkasten";
 $lang['Enom.row_meta.sandbox_true'] = "Ja";
@@ -52,10 +46,7 @@ $lang['Enom.tab_whois.section_Registrant'] = "Registrant";
 $lang['Enom.tab_whois.section_Admin'] = "Administrativ";
 $lang['Enom.tab_whois.section_Tech'] = "technisch";
 $lang['Enom.tab_whois.section_AuxBilling'] = "Abrechnung";
-$lang['Enom.tab_whois.field_submit'] = "
-
-Whois aktualisieren
-";
+$lang['Enom.tab_whois.field_submit'] = "Whois aktualisieren";
 $lang['Enom.tab_nameservers.title'] = "Namenserver";
 $lang['Enom.tab_nameserver.field_ns'] = "Namenserver %1\$s"; // %1$s is the name server number
 $lang['Enom.tab_nameservers.field_submit'] = "Nameserver aktualisieren";
@@ -65,22 +56,13 @@ $lang['Enom.tab_settings.field_registrar_lock_yes'] = "Legen Sie die Registrarsp
 $lang['Enom.tab_settings.field_registrar_lock_no'] = "Geben Sie die Registrierungssperre frei, damit die Domäne übertragen werden kann.";
 $lang['Enom.tab_settings.field_request_epp'] = "EPP Code / Übertragungsschlüssel anfordern";
 $lang['Enom.tab_settings.field_submit'] = "Update Einstellungen";
-$lang['Enom.transfer.domain'] = "
-
-Domainname
-";
+$lang['Enom.transfer.domain'] = "Domainname";
 $lang['Enom.transfer.transfer_key'] = "EPP-Code";
 $lang['Enom.domain.domain'] = "Domain Name";
 $lang['Enom.domain.NumYears'] = "Jahre";
 $lang['Enom.nameserver.ns1'] = "Namenserver 1";
-$lang['Enom.nameserver.ns2'] = "
-
-Namenserver 2
-";
-$lang['Enom.nameserver.ns3'] = "
-
-Namenserver 3
-";
+$lang['Enom.nameserver.ns2'] = "Namenserver 2";
+$lang['Enom.nameserver.ns3'] = "Namenserver 3";
 $lang['Enom.nameserver.ns4'] = "Name Server 4";
 $lang['Enom.nameserver.ns5'] = "Nameserver 5";
 $lang['Enom.whois.RegistrantFirstName'] = "Vorname";
@@ -141,10 +123,7 @@ $lang['Enom.domain.EUAgreeDeletePolicy'] = "Löschregeln";
 $lang['Enom.domain.EUAgreeDeletePolicy.yes'] = "Ich stimme den besonderen Verlängerungs- und Ablaufbedingungen für diesen Domainnamen, einschließlich der in der Registrierungsvereinbarung festgelegten Bedingungen, zu und stimme ihnen zu. Ich verstehe, dass, wenn ich diese Domäne nicht für die automatische Aktualisierung festgelegt habe, dieser Domänenname bis zum Ablaufdatum oder bis zum 20. des Verfallsmonats explizit erneuert werden muss, je nachdem, welcher Zeitpunkt früher liegt. (Wenn beispielsweise der Name am 4. September 2008 abläuft, muss eine manuelle Erneuerung bis zum 4. September 2008 eingehen. Wenn der Name am 27. September 2008 abläuft, muss der Antrag auf Erneuerung vor dem 20. September 2008 eingehen.). Wenn der Name nicht manuell erneuert wird oder zuvor auf automatische Aktualisierung gesetzt wurde, wird eine Löschanforderung von Enom ausgegeben. Wenn eine Löschanforderung ausgegeben wird, ist der Name bis zu seinem Ablauf in meinem Konto voll funktionsfähig, kann jedoch nicht mehr erneuert werden, und ich kann keine Änderungen am Namen vornehmen. Diese Bedingungen können sich ändern.";
 $lang['Enom.domain.CIRALegalType'] = "Gesetzlicher Typ";
 $lang['Enom.domain.RegistrantPurpose.cco'] = "Konzern";
-$lang['Enom.domain.RegistrantPurpose.cct'] = "
-
-Kanadischer Staatsbürger
-";
+$lang['Enom.domain.RegistrantPurpose.cct'] = "Kanadischer Staatsbürger";
 $lang['Enom.domain.RegistrantPurpose.res'] = "Kanadischer Einwohner";
 $lang['Enom.domain.RegistrantPurpose.gov'] = "Regierungsinstanz";
 $lang['Enom.domain.RegistrantPurpose.edu'] = "Bildungsbereich";
@@ -160,10 +139,7 @@ $lang['Enom.domain.RegistrantPurpose.abo'] = "Ureinwohner";
 $lang['Enom.domain.RegistrantPurpose.inb'] = "Indische Band";
 $lang['Enom.domain.RegistrantPurpose.lgr'] = "Gesetzlicher Vertreter";
 $lang['Enom.domain.RegistrantPurpose.omk'] = "Offizielle Marke";
-$lang['Enom.domain.RegistrantPurpose.maj'] = "
-
-Die Königin
-";
+$lang['Enom.domain.RegistrantPurpose.maj'] = "Die Königin";
 $lang['Enom.domain.CIRAWhoisDisplay'] = "Whois";
 $lang['Enom.domain.CIRAWhoisDisplay.full'] = "Veröffentlichen";
 $lang['Enom.domain.CIRAWhoisDisplay.private'] = "Privat bleiben";
@@ -176,10 +152,7 @@ $lang['Enom.domain.UKLegalType.find'] = "Nicht-UK-Person";
 $lang['Enom.domain.UKLegalType.ltd'] = "UK Limited Company";
 $lang['Enom.domain.UKLegalType.plc'] = "Britische Aktiengesellschaft";
 $lang['Enom.domain.UKLegalType.ptnr'] = "UK-Partnerschaft";
-$lang['Enom.domain.UKLegalType.llp'] = "
-
-Partnerschaft mit beschränkter Haftung im Vereinigten Königreich
-";
+$lang['Enom.domain.UKLegalType.llp'] = "Partnerschaft mit beschränkter Haftung im Vereinigten Königreich";
 $lang['Enom.domain.UKLegalType.ip'] = "UK Industrial / Provident Eingetragene Firma";
 $lang['Enom.domain.UKLegalType.stra'] = "UK Sole Trader";
 $lang['Enom.domain.UKLegalType.sch'] = "GB Schule";
@@ -187,26 +160,17 @@ $lang['Enom.domain.UKLegalType.rchar'] = "UK registrierte Wohltätigkeitsorganis
 $lang['Enom.domain.UKLegalType.gov'] = "Britische Regierungsbehörde";
 $lang['Enom.domain.UKLegalType.other'] = "UK Entität (andere)";
 $lang['Enom.domain.UKLegalType.crc'] = "UK Corporation von Royal Charter";
-$lang['Enom.domain.UKLegalType.fcorp'] = "
-
-Ausländische Organisation
-";
+$lang['Enom.domain.UKLegalType.fcorp'] = "Ausländische Organisation";
 $lang['Enom.domain.UKLegalType.stat'] = "UK Statutory Body FIND";
 $lang['Enom.domain.UKLegalType.fother'] = "Andere ausländische Organisationen";
 $lang['Enom.domain.UKCompanyID'] = "Firmennummer";
 $lang['Enom.domain.UKRegisteredfor'] = "Name des Registranten";
-$lang['Enom.domain.ASIALegalEntityType'] = "
-
-Gesetzlicher Typ
-";
+$lang['Enom.domain.ASIALegalEntityType'] = "Gesetzlicher Typ";
 $lang['Enom.domain.ASIALegalEntityType.corporation'] = "Unternehmen oder Unternehmen";
 $lang['Enom.domain.ASIALegalEntityType.cooperative'] = "Genossenschaften";
 $lang['Enom.domain.ASIALegalEntityType.partnership'] = "Partnerschaften oder Kollektive";
 $lang['Enom.domain.ASIALegalEntityType.government'] = "Regierungsstellen";
-$lang['Enom.domain.ASIALegalEntityType.politicalParty'] = "
-
-Politische Parteien oder Gewerkschaften
-";
+$lang['Enom.domain.ASIALegalEntityType.politicalParty'] = "Politische Parteien oder Gewerkschaften";
 $lang['Enom.domain.ASIALegalEntityType.society'] = "Trusts, Estates, Verbände oder Gesellschaften";
 $lang['Enom.domain.ASIALegalEntityType.institution'] = "Institutionen";
 $lang['Enom.domain.ASIALegalEntityType.naturalPerson'] = "Natürliche Personen";

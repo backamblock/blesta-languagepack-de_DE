@@ -12,8 +12,7 @@
 $lang['AdminPlugin.getactionlocations.widget_staff_billing'] = "Widget - Rechnungsübersicht (Mitarbeiter)";
 $lang['AdminPlugin.getoptionalfunctions.tooltip_upgrade'] = "Führt die Migration der Daten von \$current_version (der aktuell installierten Version) auf die angegeben Datensatz durch. Setzt bei einem Fehlschlag Eingabefehler, so dass das Modul nicht aktualisiert werden kann.";
 $lang['AdminPlugin.basic.heading_authors'] = "Autoren";
-$lang['AdminPlugin.basic.logo'] = "Logo
-";
+$lang['AdminPlugin.basic.logo'] = "Logo";
 $lang['AdminPlugin.basic.author_name'] = "Autor Name";
 $lang['AdminPlugin.basic.author_url'] = "Autor-URL";
 $lang['AdminPlugin.basic.author_row_add'] = "Autor hinzufügen";

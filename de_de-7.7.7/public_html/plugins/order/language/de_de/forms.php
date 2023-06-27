@@ -9,9 +9,6 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['Forms.index.order_now'] = "
-
-Jetzt bestellen
-";
+$lang['Forms.index.order_now'] = "Jetzt bestellen";
 $lang['Forms.index.register'] = "Registrieren";
 ?>

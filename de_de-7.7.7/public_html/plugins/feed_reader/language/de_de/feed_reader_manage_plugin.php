@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['FeedReaderManagePlugin.!success.feed_added'] = "
-
-Der Feed wurde erfolgreich hinzugefügt.
-";
+$lang['FeedReaderManagePlugin.!success.feed_added'] = "Der Feed wurde erfolgreich hinzugefügt.";
 $lang['FeedReaderManagePlugin.!success.feed_refreshed'] = "Der Feed wurde erfolgreich aktualisiert.";
 $lang['FeedReaderManagePlugin.!success.feed_removed'] = "Der Feed wurde erfolgreich entfernt.";
 $lang['FeedReaderManagePlugin.index.boxtitle_feedreader'] = "Feed-Reader";
@@ -29,8 +26,5 @@ $lang['FeedReaderPlugin.add.submit_add'] = "Feed hinzufügen ";
 $lang['FeedReaderPlugin.add.submit_cancel'] = "Stornieren";
 $lang['FeedReaderManagePlugin.index.page_title'] = "Feed Reader > Verwalten";
 $lang['FeedReaderManagePlugin.add.page_title'] = "Feed Reader&gt; Feed hinzufügen";
-$lang['FeedReaderManagePlugin.index.text_confirm_delete'] = "
-
-Diesen Feed wirklich löschen?
-";
+$lang['FeedReaderManagePlugin.index.text_confirm_delete'] = "Diesen Feed wirklich löschen?";
 ?>

@@ -15,10 +15,7 @@ $lang['GatewayPayments.!error.account_id.exists'] = "Das Zahlungskonto konnte f�
 $lang['GatewayPayments.!error.contact_id.exists'] = "Der Kontakt wurde f체r diesen Kunden nicht gefunden.";
 $lang['GatewayPayments.!error.type.valid'] = "Die Zahlungsart wird f체r dieses Gateway nicht unterst체tzt.";
 $lang['GatewayPayments.!error.type.instance'] = "Das Gateway unterst체tzt Zahlungen auf diese Weise nicht.";
-$lang['GatewayPayments.!error.reference_id.store'] = "
-
-Das Zahlungsgateway konnte das Zahlungskonto nicht speichern.
-";
+$lang['GatewayPayments.!error.reference_id.store'] = "Das Zahlungsgateway konnte das Zahlungskonto nicht speichern.";
 $lang['GatewayPayments.!error.reference_id.update'] = "Die Zahlungsschnittstelle konnte den Account nicht bearbeiten.";
 $lang['GatewayPayments.!error.reference_id.remove'] = "Das Payment-Gateway konnte nicht das Zahlungskonto entfernen.";
 $lang['GatewayPayments.!error.response_status'] = "Das Zahlungsgateway hat eine unerwartete Antwort zur체ckgegeben.";

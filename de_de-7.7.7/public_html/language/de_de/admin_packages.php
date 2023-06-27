@@ -17,14 +17,8 @@ $lang['AdminPackages.index.heading_options'] = "Optionen";
 $lang['AdminPackages.index.category_active'] = "Aktiv";
 $lang['AdminPackages.index.category_restricted'] = "Eingeschränkt";
 $lang['AdminPackages.index.category_inactive'] = "Inaktiv";
-$lang['AdminPackages.index.option_edit'] = "
-
-Bearbeiten
-";
-$lang['AdminPackages.index.no_results'] = "
-
-Es gibt keine Pakete mit diesem Status.
-";
+$lang['AdminPackages.index.option_edit'] = "Bearbeiten";
+$lang['AdminPackages.index.no_results'] = "Es gibt keine Pakete mit diesem Status.";
 $lang['AdminPackages.add.boxtitle_newpackage'] = "Neues Paket";
 $lang['AdminPackages.add.heading_basic'] = "Basic";
 $lang['AdminPackages.add.heading_module'] = "Moduloptionen";
@@ -48,17 +42,11 @@ $lang['AdminPackages.add.text_cancellation'] = "Stornogebühr";
 $lang['AdminPackages.add.text_options'] = "Optionen";
 $lang['AdminPackages.add.text_remove'] = "Entfernen";
 $lang['AdminPackages.add.text_tags'] = "Tags:";
-$lang['AdminPackages.add.text_group'] = "
-
-Ein Paket muss zu mindestens einer Gruppe gehören, damit es verwendet werden kann.
-";
+$lang['AdminPackages.add.text_group'] = "Ein Paket muss zu mindestens einer Gruppe gehören, damit es verwendet werden kann.";
 $lang['AdminPackages.add.text_membergroups'] = "Mitgliedergruppen";
 $lang['AdminPackages.add.text_availablegroups'] = "Verfügbare Gruppen";
 $lang['AdminPackages.add.field_email'] = "Willkommens E-Mail";
-$lang['AdminPackages.add.field_packagesubmit'] = "
-
-Paket erstellen
-";
+$lang['AdminPackages.add.field_packagesubmit'] = "Paket erstellen";
 $lang['AdminPackages.add.categorylink_addprice'] = "Zusatzkosten hinzufügen";
 $lang['AdminPackages.edit.field_module'] = "Modul";
 $lang['AdminPackages.edit.field_packagename'] = "Paket Name";
@@ -68,15 +56,9 @@ $lang['AdminPackages.edit.field_description'] = "Beschreibung";
 $lang['AdminPackages.edit.field_term'] = "Begriff";
 $lang['AdminPackages.edit.field_setupfee'] = "Setup Gebühr";
 $lang['AdminPackages.edit.field_cancelfee'] = "Abrechgebühr ";
-$lang['AdminPackages.edit.field_email'] = "
-
-Willkommen E-Mail
-";
+$lang['AdminPackages.edit.field_email'] = "Willkommen E-Mail";
 $lang['AdminPackages.edit.field_packagesubmit'] = "Paket aktualisieren";
-$lang['AdminPackages.groups.categorylink_creategroup'] = "
-
-Gruppe erstellen
-";
+$lang['AdminPackages.groups.categorylink_creategroup'] = "Gruppe erstellen";
 $lang['AdminPackages.groups.no_results'] = "Es existieren keine Pakete-Gruppen.";
 $lang['AdminPackages.addgroup.boxtitle_addgroup'] = "Neue Paketgruppe";
 $lang['AdminPackages.addgroup.field_name'] = "Name";
@@ -95,15 +77,9 @@ $lang['AdminPackages.packagepricing.heading_term'] = "Begriff";
 $lang['AdminPackages.packagepricing.heading_price'] = "Preis";
 $lang['AdminPackages.packagepricing.heading_setup_fee'] = "Einrichtungsgebühr";
 $lang['AdminPackages.packagepricing.heading_cancellation_fee'] = "Stornogebühr";
-$lang['AdminPackages.packagepricing.pricing_no_results'] = "
-
-Dieses Paket enthält keine Preisangaben.
-";
+$lang['AdminPackages.packagepricing.pricing_no_results'] = "Dieses Paket enthält keine Preisangaben.";
 $lang['AdminPackages.add.page_title'] = "Neues Paket";
-$lang['AdminPackages.add.field_qty'] = "
-
-Verfügbare Menge
-";
+$lang['AdminPackages.add.field_qty'] = "Verfügbare Menge";
 $lang['AdminPackages.add.field_qty_unlimited'] = "Unbegrenzt";
 $lang['AdminPackages.add.field_taxable'] = "Steuerpflichtig";
 $lang['AdminPackages.add.field_select_group_type'] = "Von verfügbaren Gruppen wählen";
@@ -116,10 +92,7 @@ $lang['AdminPackages.edit.heading_module'] = "Modul Optionen";
 $lang['AdminPackages.edit.heading_pricing'] = "Preise";
 $lang['AdminPackages.edit.heading_email'] = "Begrüßungs-E-Mail";
 $lang['AdminPackages.edit.heading_groups'] = "Gruppenmitglied";
-$lang['AdminPackages.edit.field_qty'] = "
-
-Verfügbare Menge
-";
+$lang['AdminPackages.edit.field_qty'] = "Verfügbare Menge";
 $lang['AdminPackages.edit.field_qty_unlimited'] = "Unlimitiert";
 $lang['AdminPackages.edit.field_description_text'] = "Text";
 $lang['AdminPackages.edit.field_description_html'] = "HTML";
@@ -137,15 +110,9 @@ $lang['AdminPackages.edit.text_tags'] = "Tags:";
 $lang['AdminPackages.edit.text_group'] = "Ein Paket muss zu mindestens einer Gruppe gehören, damit es verwendet werden kann.";
 $lang['AdminPackages.edit.text_membergroups'] = "Mitgliedergruppen";
 $lang['AdminPackages.edit.text_availablegroups'] = "Verfügbare Gruppen";
-$lang['AdminPackages.edit.categorylink_addprice'] = "
-
-Zusätzlichen Preis hinzufügen
-";
+$lang['AdminPackages.edit.categorylink_addprice'] = "Zusätzlichen Preis hinzufügen";
 $lang['AdminPackages.groups.page_title'] = "Paketgruppen";
-$lang['AdminPackages.groups.category_standard'] = "
-
-Standard
-";
+$lang['AdminPackages.groups.category_standard'] = "Standard";
 $lang['AdminPackages.groups.category_addon'] = "Erweiterung";
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = "Paketgruppen";
 $lang['AdminPackages.groups.parents_no_results'] = "Diese Add-On-Gruppe enthält keine übergeordneten Paketgruppen.";
@@ -179,19 +146,13 @@ $lang['AdminPackages.edit.field_configurable_options'] = "Konfigurierbare Option
 $lang['AdminPackages.edit.field_single_term'] = "Am Ende der Laufzeit kündigen";
 $lang['AdminPackages.index.option_copy'] = "Kopieren";
 $lang['AdminPackages.!tooltip.prorata'] = "Pro Rata ermöglicht es, einen bestimmten Tag des Monats für die Erneuerung von Diensten festzulegen, die mit diesem Paket erstellt wurden. Von dieser Option sind nur monatliche und jährliche Zeiträume betroffen.";
-$lang['AdminPackages.!tooltip.prorata_day'] = "
-
-Der Tag des Monats, für den dieser Service bei Bestellung bestellt wird.
-";
+$lang['AdminPackages.!tooltip.prorata_day'] = "Der Tag des Monats, für den dieser Service bei Bestellung bestellt wird.";
 $lang['AdminPackages.!tooltip.prorata_cutoff'] = "Erstbestellungen an oder vor diesem Tag des Monats werden nur für den Teilmonat berechnet, der am nächsten anteiligen Tag endet. Bestellungen, die nach diesem Tag aufgegeben werden, werden für den Teilmonat und die nachfolgende Dienstzeit berechnet.";
 $lang['AdminPackages.add.field_prorata'] = "Aktivieren Sie Pro Rata";
 $lang['AdminPackages.add.field_prorata_day'] = "Pro rata Tag";
 $lang['AdminPackages.add.field_prorata_cutoff'] = "Pro-Rata-Cutoff-Tag";
 $lang['AdminPackages.add.text_none'] = "Keiner";
-$lang['AdminPackages.edit.field_prorata'] = "
-
-Pro rata aktivieren
-";
+$lang['AdminPackages.edit.field_prorata'] = "Pro rata aktivieren";
 $lang['AdminPackages.edit.field_prorata_day'] = "Pro Rata Tag";
 $lang['AdminPackages.edit.field_prorata_cutoff'] = "Pro Rata Cutoff Day";
 $lang['AdminPackages.edit.text_none'] = "Keiner";
@@ -203,15 +164,9 @@ $lang['AdminPackages.!tooltip.module_uneditable'] = "Das Modul kann nicht geänd
 $lang['AdminPackages.moduleoptions.not_applicable'] = "Gruppe";
 $lang['AdminPackages.!tooltip.assigned_plugins'] = "Plugins, die diesem Paket zugewiesen sind, können zusätzliche Verwaltungsfunktionen für Dienste bereitstellen.";
 $lang['AdminPackages.add.text_assigned_plugins'] = "Zugewiesene Plugins";
-$lang['AdminPackages.add.text_available_plugins'] = "
-
-Verfügbare Plugins
-";
+$lang['AdminPackages.add.text_available_plugins'] = "Verfügbare Plugins";
 $lang['AdminPackages.edit.text_assigned_plugins'] = "Zugewiesene Plugins";
-$lang['AdminPackages.edit.text_available_plugins'] = "
-
-Verfügbare Plugins
-";
+$lang['AdminPackages.edit.text_available_plugins'] = "Verfügbare Plugins";
 $lang['AdminPackages.!tooltip.upgrades_use_renewal'] = "Wenn diese Option aktiviert ist, werden beim Upgrade auf dieses Paket die Erneuerungspreise verwendet, sofern sie festgelegt sind. Das Gleiche gilt für alle konfigurierbaren Optionen, die beim Upgrade geändert werden. Wenn diese Einstellung deaktiviert ist, wird der reguläre Preis verwendet.";
 $lang['AdminPackages.add.field_client_qty_unlimited'] = "Unbegrenzt";
 $lang['AdminPackages.add.text_confirm_load_email'] = "Sind Sie sicher, dass Sie die Beispiel-E-Mail laden möchten? Dadurch werden alle Änderungen verworfen.";

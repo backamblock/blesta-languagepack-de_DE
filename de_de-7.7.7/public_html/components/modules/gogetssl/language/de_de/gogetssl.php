@@ -16,29 +16,17 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = "Bitte geben Sie einen Resellerna
 $lang['GoGetSSL.!error.gogetssl_validity.empty'] = "Bitte geben Sie einen Gültigkeitszeitraum ein.";
 $lang['GoGetSSL.!error.gogetssl_approver_email.format'] = "Bitte geben Sie eine gültige E-Mail-Adresse ein.";
 $lang['GoGetSSL.!error.gogetssl_csr.format'] = "Bitte geben Sie einen Wert CSR ein.";
-$lang['GoGetSSL.!error.gogetssl_fqdn.format'] = "
-
-Bitte geben Sie eine gültige Domain ein.
-";
+$lang['GoGetSSL.!error.gogetssl_fqdn.format'] = "Bitte geben Sie eine gültige Domain ein.";
 $lang['GoGetSSL.!error.gogetssl_webserver_type.format'] = "Bitte geben Sie einen gültigen Webserver-Typ ein.";
 $lang['GoGetSSL.!error.meta[product].valid'] = "Bitte wählen Sie ein Produkt aus.";
 $lang['GoGetSSL.!error.meta[gogetssl_name].empty'] = "Bitte wählen Sie mindestens einen Wiederverkäufer aus.";
 $lang['GoGetSSL.!error.api.internal'] = "Ein interner Fehler ist aufgetreten oder der Server hat auf die Anfrage nicht geantwortet.";
 $lang['GoGetSSL.please_select'] = "-- Bitte auswählen  --";
 $lang['GoGetSSL.name'] = "GoGetSSL";
-$lang['GoGetSSL.module_row'] = "
-
-GoGetSSL-Reseller
-";
+$lang['GoGetSSL.module_row'] = "GoGetSSL-Reseller";
 $lang['GoGetSSL.module_row_plural'] = "Wiederverkäufer";
-$lang['GoGetSSL.add_module_row'] = "Widerverkäufer hinzufügen
-
-
-";
-$lang['GoGetSSL.manage.module_rows_title'] = "
-
-GoGetSSL-Reseller
-";
+$lang['GoGetSSL.add_module_row'] = "Widerverkäufer hinzufügen";
+$lang['GoGetSSL.manage.module_rows_title'] = "GoGetSSL-Reseller";
 $lang['GoGetSSL.manage.module_rows.edit'] = "Bearbeiten";
 $lang['GoGetSSL.manage.module_rows.delete'] = "Löschen";
 $lang['GoGetSSL.manage.module_rows.confirm_delete'] = "Sind Sie sicher, dass Sie diesen Reseller löschen wollen?";
@@ -54,10 +42,7 @@ $lang['GoGetSSL.add_row.basic_title'] = "Grundeinstellungen";
 $lang['GoGetSSL.add_row.add_btn'] = "Reseller hinzufügen";
 $lang['GoGetSSL.edit_row.box_title'] = "GoGetSSL-Reseller bearbeiten";
 $lang['GoGetSSL.edit_row.basic_title'] = "Grundeinstellungen";
-$lang['GoGetSSL.edit_row.add_btn'] = "
-
-Reseller aktualisieren
-";
+$lang['GoGetSSL.edit_row.add_btn'] = "Reseller aktualisieren";
 $lang['GoGetSSL.package_fields.product'] = "Produkt";
 $lang['GoGetSSL.service_field.gogetssl_fqdn'] = "Host / Domain";
 $lang['GoGetSSL.service_field.gogetssl_csr'] = "CSR-Inhalt";
@@ -71,15 +56,9 @@ $lang['GoGetSSL.service_field.gogetssl_address2'] = "Zusätzliche Angaben zur Ad
 $lang['GoGetSSL.service_field.gogetssl_city'] = "Stadt";
 $lang['GoGetSSL.service_field.gogetssl_zip'] = "PLZ";
 $lang['GoGetSSL.service_field.gogetssl_state'] = "Zustand";
-$lang['GoGetSSL.service_field.gogetssl_country'] = "
-
-Land
-";
+$lang['GoGetSSL.service_field.gogetssl_country'] = "Land";
 $lang['GoGetSSL.service_field.gogetssl_email'] = "Email";
-$lang['GoGetSSL.service_field.gogetssl_number'] = "
-
-Telefonnummer (internationales Format)
-";
+$lang['GoGetSSL.service_field.gogetssl_number'] = "Telefonnummer (internationales Format)";
 $lang['GoGetSSL.service_field.gogetssl_organization'] = "Organisation (geben Sie NA ein, falls nicht zutreffend)";
 $lang['GoGetSSL.service_field.gogetssl_organization_unit'] = "Organisationseinheit (NA falls nicht zutreffend)";
 $lang['GoGetSSL.service_field.gogetssl_fax'] = "Faxnummer (internationales Format)";

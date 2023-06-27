@@ -9,8 +9,5 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['ReassignPricingPlugin.action_staff_client.index'] = "
-
-Preis neu zuweisen
-";
+$lang['ReassignPricingPlugin.action_staff_client.index'] = "Preis neu zuweisen";
 ?>

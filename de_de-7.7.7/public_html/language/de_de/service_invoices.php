@@ -10,8 +10,5 @@
  */
 
 $lang['ServiceInvoices.!error.service_id.exists'] = "Ungültige Dienst-ID";
-$lang['ServiceInvoices.!error.invoice_id.exists'] = "
-
-Ungültige Rechnungskennung
-";
+$lang['ServiceInvoices.!error.invoice_id.exists'] = "Ungültige Rechnungskennung";
 ?>

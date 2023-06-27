@@ -12,8 +12,5 @@
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = "Ungültige Personalnummer";
 $lang['SystemOverviewSettings.!error.company_id.exists'] = "Ungültige Firmen-ID";
 $lang['SystemOverviewSettings.!error.settings[][key].empty'] = "Kein Einstellschlüssel darf leer sein.";
-$lang['SystemOverviewSettings.!error.settings[][value].length'] = "
-
-Jede einzelne Einstellwertlänge darf 255 Zeichen nicht überschreiten.
-";
+$lang['SystemOverviewSettings.!error.settings[][value].length'] = "Jede einzelne Einstellwertlänge darf 255 Zeichen nicht überschreiten.";
 ?>

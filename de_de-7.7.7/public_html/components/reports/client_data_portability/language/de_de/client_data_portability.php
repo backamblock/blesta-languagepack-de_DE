@@ -10,10 +10,7 @@
  */
 
 $lang['ClientDataPortability.name'] = "Client Data Portabilität";
-$lang['ClientDataPortability.options.field_client_id'] = "
-
-Kunden ID
-";
+$lang['ClientDataPortability.options.field_client_id'] = "Kunden ID";
 $lang['ClientDataPortability.!error.client_id'] = "Die Client-ID ist nicht gültig.";
 $lang['ClientDataPortability.!tooltip.client_id'] = "Dies ist die interne Kundennummer, die in der URL angezeigt wird, wenn Sie ein Kunden-Profil anzeigen.";
 ?>

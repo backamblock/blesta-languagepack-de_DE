@@ -13,10 +13,7 @@ $lang['AppController.lang.dir'] = "ltr";
 $lang['AppController.!error.unauthorized_access'] = "Sie sind nicht dazu berechtigt auf diese Ressource zuzugreifen";
 $lang['AppController.modal.text_close'] = "Schließen";
 $lang['AppController.tooltip.text'] = "?";
-$lang['AppController.structure.text_myinfo'] = "
-
-Meine Information
-";
+$lang['AppController.structure.text_myinfo'] = "Meine Information";
 $lang['AppController.structure.text_settings'] = "Einstellungen";
 $lang['AppController.structure.text_logout'] = "Ausloggen";
 $lang['AppController.!error.invalid_csrf'] = "Das Formular-Token ist ungültig.";
@@ -37,10 +34,7 @@ $lang['AppController.dates.dayabbr_sun'] = "Sonne";
 $lang['AppController.dates.dayabbr_mon'] = "Mo";
 $lang['AppController.dates.dayabbr_tue'] = "Di";
 $lang['AppController.dates.dayabbr_wed'] = "Heiraten";
-$lang['AppController.dates.dayabbr_thur'] = "
-
-Do
-";
+$lang['AppController.dates.dayabbr_thur'] = "Do";
 $lang['AppController.dates.dayabbr_fri'] = "Fr";
 $lang['AppController.dates.dayabbr_sat'] = "Sa.";
 $lang['AppController.dates.month_jan'] = "Januar";
@@ -70,20 +64,11 @@ $lang['AppController.dates.monthabbr_dec'] = "Dez";
 $lang['AppController.!success.license_updated'] = "Ihre Lizenz wurde erfolgreich reaktiviert. Bitte einloggen.";
 $lang['AppController.!success.license_key_updated'] = "Der Lizenzkey wurde erfolgreich geupdated, Sie können sich jetzt einloggen. ";
 $lang['AppController.select.please'] = "-- Bitte auswählen --";
-$lang['AppController.modal.text_confirm'] = "
-
-Bitte bestätigen
-";
+$lang['AppController.modal.text_confirm'] = "Bitte bestätigen";
 $lang['AppController.client_structure.text_update_account'] = "Konto verwalten";
-$lang['AppController.sreader.dropdown'] = "
-
-Dropdown umschalten
-";
+$lang['AppController.sreader.dropdown'] = "Dropdown umschalten";
 $lang['AppController.sreader.navigation'] = "Navigation umschalten";
-$lang['AppController.client_structure.staff_as_client_note'] = "
-
-Rückkehr zum Mitarbeiterportal
-";
+$lang['AppController.client_structure.staff_as_client_note'] = "Rückkehr zum Mitarbeiterportal";
 $lang['AppController.client_structure.text_login'] = "Einloggen";
 $lang['AppController.graphs.control_label.stacked'] = "Gestapelt";
 $lang['AppController.graphs.control_label.stream'] = "Strom";

@@ -33,10 +33,7 @@ $lang['ClientLogin.index.page_title'] = "Einloggen";
 $lang['ClientLogin.index.login_heading'] = "Einloggen";
 $lang['ClientLogin.index.field_loginsubmit'] = "Einloggen";
 $lang['ClientLogin.otp.page_title'] = "Einloggen";
-$lang['ClientLogin.otp.description'] = "
-
-Bitte geben Sie Ihr Einmalpasswort ein.
-";
+$lang['ClientLogin.otp.description'] = "Bitte geben Sie Ihr Einmalpasswort ein.";
 $lang['ClientLogin.otp.login_heading'] = "Einloggen";
 $lang['ClientLogin.otp.field_otp'] = "Einmaliges Passwort";
 $lang['ClientLogin.otp.field_submit'] = "Einloggen";

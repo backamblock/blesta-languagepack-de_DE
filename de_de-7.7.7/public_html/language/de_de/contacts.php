@@ -25,21 +25,12 @@ $lang['Contacts.!error.contact_id.exists'] = "Ungültige Kontakt ID.";
 $lang['Contacts.!error.number.empty'] = "Bitte geben Sie eine Telefonnummer an.";
 $lang['Contacts.!error.type.format'] = "Ungültiger Typ.";
 $lang['Contacts.!error.location.format'] = "Ungültiger Ort.";
-$lang['Contacts.!error.id.exists'] = "
-
-Ungültige Kontakt-ID-Nummer
-";
+$lang['Contacts.!error.id.exists'] = "Ungültige Kontakt-ID-Nummer";
 $lang['Contacts.!error.company_id.format'] = "Ungültige Firmen ID.";
 $lang['Contacts.!error.name.empty'] = "Bitte geben Sie einen Namen ein.";
 $lang['Contacts.!error.is_lang.format'] = "is_lang muss eine Zahl sein.";
-$lang['Contacts.!error.is_lang.length'] = "
-
-Die Länge von is_lang darf 1 Zeichen nicht überschreiten.
-";
-$lang['Contacts.!error.contact_type_id.exists'] = "
-
-Ungültige Kontakttyp-ID
-";
+$lang['Contacts.!error.is_lang.length'] = "Die Länge von is_lang darf 1 Zeichen nicht überschreiten.";
+$lang['Contacts.!error.contact_type_id.exists'] = "Ungültige Kontakttyp-ID";
 $lang['Contacts.getcontacttypes.primary'] = "Primär";
 $lang['Contacts.getcontacttypes.billing'] = "Rechnung";
 $lang['Contacts.getcontacttypes.other'] = "Andere";
@@ -57,25 +48,13 @@ $lang['Contacts.getPermissionOptions.client_contacts'] = "Kontakte";
 $lang['Contacts.getPermissionOptions.client_accounts'] = "Zahlungskonten";
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = "Rechnungszustellung";
 $lang['Contacts.getPermissionOptions._credits'] = "Kredite";
-$lang['Contacts.!error.title.empty'] = "
-
-Bitte geben Sie einen Titel ein.
-";
-$lang['Contacts.!error.company.empty'] = "
-
-Bitte geben Sie eine Firma ein.
-";
-$lang['Contacts.!error.city.empty'] = "
-
-Bitte geben Sie eine Stadt ein.
-";
+$lang['Contacts.!error.title.empty'] = "Bitte geben Sie einen Titel ein.";
+$lang['Contacts.!error.company.empty'] = "Bitte geben Sie eine Firma ein.";
+$lang['Contacts.!error.city.empty'] = "Bitte geben Sie eine Stadt ein.";
 $lang['Contacts.!error.state.empty'] = "Bitte wählen Sie ein Bundesland / Bundesstaat";
 $lang['Contacts.!error.country.empty'] = "Bitte wähle ein Land.";
 $lang['Contacts.!error.address1.empty'] = "Bitte geben Sie die erste Zeile Ihrer Adresse ein.";
-$lang['Contacts.!error.address2.empty'] = "
-
-Bitte geben Sie die zweite Zeile Ihrer Adresse ein.
-";
+$lang['Contacts.!error.address2.empty'] = "Bitte geben Sie die zweite Zeile Ihrer Adresse ein.";
 $lang['Contacts.!error.zip.empty'] = "Bitte geben Sie eine Postleitzahl ein.";
 $lang['Contacts.!error.email.unique'] = "E-Mail-Adresse ist bereits vergeben.";
 $lang['Contacts.!error.phone.required'] = "Bitte geben Sie mindestens eine Telefonnummer ein.";

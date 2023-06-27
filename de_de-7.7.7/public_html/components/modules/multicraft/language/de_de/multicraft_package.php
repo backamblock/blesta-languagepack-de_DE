@@ -14,10 +14,7 @@ $lang['MulticraftPackage.!error.meta[players].format'] = "Bitte geben Sie die ma
 $lang['MulticraftPackage.!error.meta[memory].format'] = "Legen Sie die maximale Speichergröße als eine Ganzzahl in MB fest.";
 $lang['MulticraftPackage.!error.meta[jardir].format'] = "Bitte wählen Sie ein gültiges JAR Verzeichniss";
 $lang['MulticraftPackage.!error.meta[user_jar].format'] = "Ob der Eigentümer das JAR auswählen kann, muss auf 1 oder 0 eingestellt sein.";
-$lang['MulticraftPackage.!error.meta[user_name].format'] = "
-
-Ob der Eigentümer einen Namen festlegen kann, muss auf 1 oder 0 eingestellt sein.
-";
+$lang['MulticraftPackage.!error.meta[user_name].format'] = "Ob der Eigentümer einen Namen festlegen kann, muss auf 1 oder 0 eingestellt sein.";
 $lang['MulticraftPackage.!error.meta[user_schedule].format'] = "Ob der Eigentümer Aufgaben planen kann, muss auf 1 oder 0 eingestellt sein.";
 $lang['MulticraftPackage.!error.meta[user_ftp].format'] = "Ob der Eigentümer FTP-Zugriff für andere Benutzer gewähren kann, muss auf 1 oder 0 eingestellt sein.";
 $lang['MulticraftPackage.!error.meta[user_visibility].format'] = "Ob der Eigentümer die Sichtbarkeit des Servers ändern kann, muss auf 1 oder 0 eingestellt sein.";
@@ -33,29 +30,17 @@ $lang['MulticraftPackage.package_fields.jarfile'] = "JAR-Datei";
 $lang['MulticraftPackage.package_fields.tooltip.jarfile'] = "Leer lassen, um die Standard-JAR-Datei zu verwenden.";
 $lang['MulticraftPackage.package_fields.jardir'] = "Suchen Sie im folgenden Verzeichnis nach JARs";
 $lang['MulticraftPackage.package_fields.tooltip.jardir'] = "Wenn Sie das JAR-Verzeichnis des Daemon nicht verwenden, sollte Multicraft im Mehrbenutzermodus ausgeführt werden.";
-$lang['MulticraftPackage.package_fields.jardir_daemon'] = "
-
-Daemon-JAR-Verzeichnis
-";
+$lang['MulticraftPackage.package_fields.jardir_daemon'] = "Daemon-JAR-Verzeichnis";
 $lang['MulticraftPackage.package_fields.jardir_server'] = "Server-JAR-Verzeichnis";
 $lang['MulticraftPackage.package_fields.jardir_server_base'] = "Server-Basisverzeichnis";
-$lang['MulticraftPackage.package_fields.user_jar'] = "
-
-Vom Besitzer wählbare JAR
-";
+$lang['MulticraftPackage.package_fields.user_jar'] = "Vom Besitzer wählbare JAR";
 $lang['MulticraftPackage.package_fields.user_name'] = "Besitzer kann Name festlegen";
 $lang['MulticraftPackage.package_fields.tooltip.user_name'] = "Legt fest, ob der Besitzer den Namen des Servers definieren oder ändern kann.";
 $lang['MulticraftPackage.package_fields.user_schedule'] = "Der Besitzer kann Aufgaben planen";
 $lang['MulticraftPackage.package_fields.tooltip.user_schedule'] = "Legt fest, ob der Besitzer geplante Aufgaben erstellen und die Einstellungen für die automatische Speicherung ändern kann.";
 $lang['MulticraftPackage.package_fields.user_ftp'] = "Besitzer kann FTP verwalten";
-$lang['MulticraftPackage.package_fields.tooltip.user_ftp'] = "
-
-Legt fest, ob der Besitzer anderen Benutzern FTP-Zugriff gewähren kann.
-";
-$lang['MulticraftPackage.package_fields.user_visibility'] = "
-
-Besitzer kann Sichtbarkeit einstellen
-";
+$lang['MulticraftPackage.package_fields.tooltip.user_ftp'] = "Legt fest, ob der Besitzer anderen Benutzern FTP-Zugriff gewähren kann.";
+$lang['MulticraftPackage.package_fields.user_visibility'] = "Besitzer kann Sichtbarkeit einstellen";
 $lang['MulticraftPackage.package_fields.tooltip.user_visibility'] = "Legt fest, ob der Eigentümer die Serversichtbarkeit und die Standardrolle ändern kann.";
 $lang['MulticraftPackage.package_fields.default_level'] = "Standardrolle";
 $lang['MulticraftPackage.package_fields.tooltip.default_level'] = "Wählen Sie aus, welche Rollen den Spielern bei der ersten Verbindung zugewiesen werden. Verwenden Sie keinen Zugriff für das White-Listing.";
@@ -66,10 +51,7 @@ $lang['MulticraftPackage.package_fields.default_level_30'] = "Moderator";
 $lang['MulticraftPackage.package_fields.autostart'] = "Server starten";
 $lang['MulticraftPackage.package_fields.tooltip.autostart'] = "Startet den Server automatisch, wenn Multicraft neu gestartet wird.";
 $lang['MulticraftPackage.package_fields.create_ftp'] = "FTP Account hinzufügen ";
-$lang['MulticraftPackage.package_fields.tooltip.create_ftp'] = "
-
-Erstellt automatisch einen FTP-Account.
-";
+$lang['MulticraftPackage.package_fields.tooltip.create_ftp'] = "Erstellt automatisch einen FTP-Account.";
 $lang['MulticraftPackage.package_fields.server_visibility'] = "Server Sichtbarkeit";
 $lang['MulticraftPackage.package_fields.tooltip.server_visibility'] = "Legt die Sichtbarkeit des Servers in der Multicraft Serverliste Fest.";
 $lang['MulticraftPackage.package_fields.server_visibility_0'] = "Nur Eigentümer";

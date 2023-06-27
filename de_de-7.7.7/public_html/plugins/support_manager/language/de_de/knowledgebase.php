@@ -23,10 +23,7 @@ $lang['Knowledgebase.index.popular_description'] = "Die Leute fanden diese Artik
 $lang['Knowledgebase.index.heading_articles'] = "Artikel";
 $lang['Knowledgebase.index.articles_description'] = "Artikel in %1\$s."; // %1$s is the name of the category
 $lang['Knowledgebase.search.articles_no_results'] = "Es gibt keine Artikel, die den Suchkriterien entsprechen.";
-$lang['Knowledgebase.view.text_rate'] = "
-
-Bitte bewerten Sie diesen Artikel, um unsere Knowledge Base zu verbessern.
-";
+$lang['Knowledgebase.view.text_rate'] = "Bitte bewerten Sie diesen Artikel, um unsere Knowledge Base zu verbessern.";
 $lang['Knowledgebase.view.edit'] = "Bearbeiten";
 $lang['Knowledgebase.view.text_voted'] = "Sie haben schon für diesen Artikel gestimmt.";
 $lang['Knowledgebase.view.text_vote_thanks'] = "Danke, dass Sie zu diesem Artikel abgestimmt haben!";

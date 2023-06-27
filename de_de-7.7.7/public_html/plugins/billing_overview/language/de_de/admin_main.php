@@ -37,10 +37,7 @@ $lang['AdminMain.settings.services_added_today'] = "Heute hinzugefügte Dienstle
 $lang['AdminMain.settings.services_canceled_today'] = "Dienste heute storniert";
 $lang['AdminMain.settings.text_graphs'] = "Markieren Sie die Graphen die in der Rechnungsübersicht angezeigt werden sollen.";
 $lang['AdminMain.settings.graph_invoiced'] = "Amount Rechnungsgrafik";
-$lang['AdminMain.settings.text_graph_settings'] = "
-
-Verwalten Sie die Diagrammeinstellungen für die Diagramme, die in der Abrechnungsübersicht angezeigt werden.
-";
+$lang['AdminMain.settings.text_graph_settings'] = "Verwalten Sie die Diagrammeinstellungen für die Diagramme, die in der Abrechnungsübersicht angezeigt werden.";
 $lang['AdminMain.settings.show_legend'] = "Zeige Legende auf Graphen";
 $lang['AdminMain.settings.date_range'] = "Diagramm-Datumsbereich";
 $lang['AdminMain.settings.submit_settings'] = "Update Einstellungen";
@@ -61,20 +58,11 @@ $lang['AdminMain.index.statistic.credits_today'] = "Credits heute";
 $lang['AdminMain.index.statistic.credits_month'] = "Kredite diesen Monat";
 $lang['AdminMain.index.statistic.credits_year'] = "Verdienst dieses Jahr";
 $lang['AdminMain.settings.credits_today'] = "Einnahmen heute";
-$lang['AdminMain.settings.credits_month'] = "
-
-Einnahmen in diesen Monat
-";
-$lang['AdminMain.settings.credits_year'] = "
-
-Einnahmen in diesem Jahr
-";
+$lang['AdminMain.settings.credits_month'] = "Einnahmen in diesen Monat";
+$lang['AdminMain.settings.credits_year'] = "Einnahmen in diesem Jahr";
 $lang['AdminMain.graph_line_name.credits'] = "Kredite";
 $lang['AdminMain.index.statistic.invoiced_today_proforma'] = "Heute in Rechnung gestellt (Proforma)";
 $lang['AdminMain.index.statistic.invoiced_month_proforma'] = "Diesen Monat in Rechnung gestellt (Proforma)";
-$lang['AdminMain.settings.invoiced_today_proforma'] = "
-
-Heute in Rechnung gestellt (Proforma)
-";
+$lang['AdminMain.settings.invoiced_today_proforma'] = "Heute in Rechnung gestellt (Proforma)";
 $lang['AdminMain.settings.invoiced_month_proforma'] = "Diesen Monat in Rechnung gestellt (Proforma)";
 ?>

@@ -44,10 +44,7 @@ $lang['CWatch.packagetypes.single_license'] = "Einzellizenz";
 $lang['CWatch.packagetypes.multi_license'] = "Mehrfachlizenz";
 $lang['Cwatch.service_field.domain'] = "Domain";
 $lang['Cwatch.service_field.email'] = "E-Mail";
-$lang['Cwatch.service_field.firstname'] = "
-
-Vorname
-";
+$lang['Cwatch.service_field.firstname'] = "Vorname";
 $lang['Cwatch.service_field.lastname'] = "Nachname";
 $lang['Cwatch.service_field.country'] = "Land";
 $lang['CWatch.add_row.box_title'] = "API-Konto hinzufügen";
@@ -90,8 +87,7 @@ $lang['CWatch.getsitestatuses.site_retry'] = "Wiederholungsbetrieb Bereitstellun
 $lang['CWatch.getsitestatuses.site_completed'] = "Seite hinzugefügt";
 $lang['CWatch.getsitestatuses.site_failed'] = "Standortbereitstellung fehlgeschlagen";
 $lang['CWatch.getsitestatuses.dns_inprogress'] = "DNS-Scan läuft";
-$lang['CWatch.getsitestatuses.dns_retry'] = "DNS-Scan erneut versuchen
-";
+$lang['CWatch.getsitestatuses.dns_retry'] = "DNS-Scan erneut versuchen";
 $lang['CWatch.getsitestatuses.dns_completed'] = "DNS-Scan abgeschlossen";
 $lang['CWatch.getsitestatuses.dns_failed'] = "Seite hinzugefügt, DNS-Scan fehlgeschlagen";
 $lang['CWatch.getsitestatuses.ssl_inprogress'] = "SSL-Installation im Gange";

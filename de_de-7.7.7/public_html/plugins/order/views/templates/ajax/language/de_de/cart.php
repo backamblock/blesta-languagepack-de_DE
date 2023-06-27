@@ -11,6 +11,5 @@
 
 $lang['Cart.index.table_price'] = "Preis";
 $lang['Cart.index.remove_item'] = "Löschen";
-$lang['Cart.index.order_more_btn'] = "Drücken um andere Services zu bestellen
-";
+$lang['Cart.index.order_more_btn'] = "Drücken um andere Services zu bestellen";
 ?>

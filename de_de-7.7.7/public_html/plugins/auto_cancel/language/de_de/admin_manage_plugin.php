@@ -10,14 +10,8 @@
  */
 
 $lang['AdminManagePlugin.!success.settings_saved'] = "Die Einstellungen wurden gespeichert.";
-$lang['AdminManagePlugin.index.page_title'] = "
-
-Automatisch abbrechen
-";
-$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = "
-
-Automatisch beenden
-";
+$lang['AdminManagePlugin.index.page_title'] = "Automatisch abbrechen";
+$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = "Automatisch beenden";
 $lang['AdminManagePlugin.index.heading_settings'] = "Einstellungen";
 $lang['AdminManagePlugin.index.field.schedule_days'] = "Planen Sie die Stornierungstage nach dem Suspendieren ein";
 $lang['AdminManagePlugin.index.field.cancel_days'] = "Service beenden, wenn Service eingestellt, nach wieviel Tagen";

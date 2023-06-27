@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['Summary.index.totals.discount'] = "
-
-Rabatt:
-";
+$lang['Summary.index.totals.discount'] = "Rabatt:";
 $lang['Summary.index.totals.subtotal'] = "Zwischensumme:";
 $lang['Summary.index.price'] = "je %1\$s"; // %1$s is the price per term
 $lang['Summary.index.totals.tax'] = "%1\$s:"; // %1$s is the tax name

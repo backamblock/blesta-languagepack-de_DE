@@ -19,10 +19,7 @@ $lang['Braintree.environment.sandbox'] = "Sandkasten";
 $lang['Braintree.environment.production'] = "Produktion";
 $lang['Braintree.!error.live_mode.valid'] = "Der Live-Modus muss auf \"true\" gesetzt sein, wenn er angegeben ist.";
 $lang['Braintree.!error.merchant_id'] = "Bitte geben Sie Ihre Händler-ID ein.";
-$lang['Braintree.!error.public_key'] = "
-
-Bitte geben Sie Ihren öffentlichen Schlüssel ein.
-";
+$lang['Braintree.!error.public_key'] = "Bitte geben Sie Ihren öffentlichen Schlüssel ein.";
 $lang['Braintree.!error.private_key'] = "Bitte geben Sie Ihren privaten Schlüssel ein.";
 $lang['Braintree.!error.environment'] = "Bitte wählen Sie eine gültige Umgebung aus.";
 ?>

@@ -20,8 +20,5 @@ $lang['Cart.index.remove_item'] = "Löschen";
 $lang['Cart.index.have_coupon'] = "Gutscheincode verwenden";
 $lang['Cart.index.coupon'] = "Coupon";
 $lang['Cart.index.order_more_btn'] = "Klicken Sie, um weitere Artikel zu bestellen";
-$lang['Cart.index.order_more_note'] = "
-
-Oder registrieren/melden Sie sich an und fahren mit der Zahlung fort.
-";
+$lang['Cart.index.order_more_note'] = "Oder registrieren/melden Sie sich an und fahren mit der Zahlung fort.";
 ?>

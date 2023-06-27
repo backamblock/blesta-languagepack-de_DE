@@ -14,15 +14,9 @@ $lang['Csv1_0.!error.import'] = "Der Import wurde abgeschlossen, aber die folgen
 $lang['Csv1_0.!error.required_fields'] = "Die folgenden Felder müssen importiert werden: Benutzername, Vorname, Nachname, E-Mail, Telefon";
 $lang['Csv1_0.settings.csv_data'] = "CSV-Daten";
 $lang['Csv1_0.settings.enable_debug'] = "Aktivieren Sie das Debuggen";
-$lang['Csv1_0.configuration.local_field'] = "
-
-Lokales Feld
-";
+$lang['Csv1_0.configuration.local_field'] = "Lokales Feld";
 $lang['Csv1_0.configuration.remote_field'] = "Entferntes Feld";
-$lang['Csv1_0.configuration.no_import'] = "
-
-Kein Import
-";
+$lang['Csv1_0.configuration.no_import'] = "Kein Import";
 $lang['Csv1_0.configuration.username'] = "Nutzername";
 $lang['Csv1_0.configuration.first_name'] = "Vorname";
 $lang['Csv1_0.configuration.last_name'] = "Nachname";

@@ -13,19 +13,10 @@ $lang['Summary.index.have_coupon'] = "Verwenden Sie einen Gutscheincode";
 $lang['Summary.index.coupon'] = "Gutschein";
 $lang['Summary.index.coupon_btn'] = "Einlösen";
 $lang['Summary.index.heading_summary'] = "Bestellübersicht";
-$lang['Summary.index.summary_note'] = "
-
-Alle anfallenden Steuern werden nach Ihrer Registrierung oder Anmeldung berechnet.
-";
+$lang['Summary.index.summary_note'] = "Alle anfallenden Steuern werden nach Ihrer Registrierung oder Anmeldung berechnet.";
 $lang['Summary.index.table_description'] = "Beschreibung";
 $lang['Summary.index.table_price'] = "Preis";
-$lang['Summary.index.empty_cart'] = "
-
-Leerer Warenkorb
-";
+$lang['Summary.index.empty_cart'] = "Leerer Warenkorb";
 $lang['Summary.index.heading_paymethods'] = "Bezahlverfahren";
-$lang['Summary.index.paymethods_note'] = "
-
-Bitte wählen Sie Ihre gewünschte Zahlungsart.
-";
+$lang['Summary.index.paymethods_note'] = "Bitte wählen Sie Ihre gewünschte Zahlungsart.";
 ?>

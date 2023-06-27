@@ -33,9 +33,6 @@ $lang['AdminSystemApi.edit.boxtitle_edit'] = "API Benutzer bearbeiten";
 $lang['AdminSystemApi.edit.field_company'] = "Unternehmen";
 $lang['AdminSystemApi.edit.field_user'] = "Benutzer";
 $lang['AdminSystemApi.edit.field_notes'] = "Notizen";
-$lang['AdminSystemApi.edit.field_apisubmit'] = "
-
-Benutzer aktualisieren
-";
+$lang['AdminSystemApi.edit.field_apisubmit'] = "Benutzer aktualisieren";
 $lang['AdminSystemApi.index.page_title'] = "Einstellungen&gt; System&gt; API-Zugriff";
 ?>

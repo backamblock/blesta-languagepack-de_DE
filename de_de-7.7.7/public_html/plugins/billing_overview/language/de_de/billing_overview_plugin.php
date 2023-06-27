@@ -9,8 +9,5 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['BillingOverviewPlugin.name'] = "
-
-Rechnungen auf einen Blick
-";
+$lang['BillingOverviewPlugin.name'] = "Rechnungen auf einen Blick";
 ?>

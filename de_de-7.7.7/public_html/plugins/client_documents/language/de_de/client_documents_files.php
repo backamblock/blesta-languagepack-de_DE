@@ -9,13 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = "
-
-Der Kunde existiert nicht.
-";
-$lang['ClientDocumentsFiles.!error.name.valid'] = "
-
-Ein Dokumentenname ist erforderlich.
-";
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = "Der Kunde existiert nicht.";
+$lang['ClientDocumentsFiles.!error.name.valid'] = "Ein Dokumentenname ist erforderlich.";
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = "Ein gültiges Hinzugefügt-Datum ist erforderlich.";
 ?>

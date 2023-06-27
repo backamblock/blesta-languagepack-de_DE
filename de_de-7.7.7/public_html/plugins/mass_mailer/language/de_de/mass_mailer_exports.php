@@ -9,8 +9,5 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['MassMailerExports.!error.task_id.valid'] = "
-
-Ungültige Aufgaben-ID
-";
+$lang['MassMailerExports.!error.task_id.valid'] = "Ungültige Aufgaben-ID";
 ?>

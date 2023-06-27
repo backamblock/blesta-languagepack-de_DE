@@ -47,24 +47,15 @@ $lang['ClientTickets.reply.heading_date_added'] = "Datum offen";
 $lang['ClientTickets.reply.heading_reply'] = "Antwort hinzufügen";
 $lang['ClientTickets.reply.field_details'] = "Einzelheiten";
 $lang['ClientTickets.reply.field_attachments'] = "Anlagen";
-$lang['ClientTickets.reply.text_add_attachment'] = "
-
-Anhang hinzufügen
-";
+$lang['ClientTickets.reply.text_add_attachment'] = "Anhang hinzufügen";
 $lang['ClientTickets.reply.reply_date'] = "Auf %1\$s %2\$s %3\$s antwortete"; // %1$s is the ticket reply date, %2$s is the first name of the reply author, %3$s is the last name of the reply author
 $lang['ClientTickets.reply.log_date'] = "%1\$s von %2\$s %3\$s"; // %1$s is the ticket reply date, %2$s is the first name of the reply author, %3$s is the last name of the reply author
 $lang['ClientTickets.reply.system'] = "System";
 $lang['ClientTickets.reply.staff_title'] = "Supportmitarbeiter";
-$lang['ClientTickets.departments.boxtitle_departments'] = "
-
-Support-Abteilungen
-";
+$lang['ClientTickets.departments.boxtitle_departments'] = "Support-Abteilungen";
 $lang['ClientTickets.index.option_reply'] = "Antworten";
 $lang['ClientTickets.add.placeholder_summary'] = "Zusammenfassung eingeben";
-$lang['ClientTickets.add.placeholder_details'] = "
-
-Geben Sie Details ein
-";
+$lang['ClientTickets.add.placeholder_details'] = "Geben Sie Details ein";
 $lang['ClientTickets.reply.placeholder_reply'] = "Enter Details";
 $lang['ClientTickets.reply.field_closesubmit'] = "Schließen";
 $lang['ClientTickets.reply.confirm_close'] = "Möchtest du dieses Ticket wirklich schließen?";

@@ -17,21 +17,12 @@ $lang['ClientAccounts.!success.ccaccount_updated'] = "Der Zahlungsaccount wurde 
 $lang['ClientAccounts.!success.achaccount_deleted'] = "Der Zahlungsaccount wurde erfolgreich gelöscht.";
 $lang['ClientAccounts.!success.achaccount_updated'] = "Das Zahlungskonto wurde erfolgreich aktualisiert.";
 $lang['ClientAccounts.!error.account_invalid'] = "Die angegebene Zahlungskontoart ist deaktiviert oder ungültig.";
-$lang['ClientAccounts.!error.payment_account_type_invalid'] = "
-
-Ungültiger Zahlungskontotyp
-";
+$lang['ClientAccounts.!error.payment_account_type_invalid'] = "Ungültiger Zahlungskontotyp";
 $lang['ClientAccounts.!notice.disabled'] = "Die Möglichkeit, Zahlungskonten hinzuzufügen, ist derzeit deaktiviert.";
 $lang['ClientAccounts.!notice.ach_disabled'] = "Lastschrift-Zahlungskonten sind derzeit deaktiviert und möglicherweise nicht aktualisiert.";
-$lang['ClientAccounts.!notice.cc_disabled'] = "
-
-Kreditkartenzahlungskonten sind derzeit deaktiviert und können nicht aktualisiert werden.
-";
+$lang['ClientAccounts.!notice.cc_disabled'] = "Kreditkartenzahlungskonten sind derzeit deaktiviert und können nicht aktualisiert werden.";
 $lang['ClientAccounts.!notice.reenable_autodebit'] = "Automatische Zahlungen wurden für dieses Konto deaktiviert, bitte kontaktieren Sie den Support um dies wieder zu reaktivieren. ";
-$lang['ClientAccounts.!info.account_info'] = "
-
-Zahlungskonten ermöglichen es Ihnen, Zahlungsinformationen zu archivieren und können zur Bezahlung von Rechnungen verwendet werden. Ein Zahlungskonto, das als Standardkonto ausgewählt ist, wird für automatische wiederkehrende Zahlungen verwendet.
-";
+$lang['ClientAccounts.!info.account_info'] = "Zahlungskonten ermöglichen es Ihnen, Zahlungsinformationen zu archivieren und können zur Bezahlung von Rechnungen verwendet werden. Ein Zahlungskonto, das als Standardkonto ausgewählt ist, wird für automatische wiederkehrende Zahlungen verwendet.";
 $lang['ClientAccounts.index.page_title'] = "Kunde #%1\$s Accounts"; // %1$s is the client ID number
 $lang['ClientAccounts.index.create_account'] = "Zahlungskonto hinzufügen";
 $lang['ClientAccounts.index.boxtitle_accounts'] = "Zahlungsaccounts";
@@ -53,15 +44,9 @@ $lang['ClientAccounts.add.field_ach_type'] = "ACH";
 $lang['ClientAccounts.add.boxtitle_create'] = "Zahlungskonto hinzufügen";
 $lang['ClientAccounts.add.field_nextsubmit'] = "Fortsetzen";
 $lang['ClientAccounts.add.field_accountsubmit'] = "Account erstellen";
-$lang['ClientAccounts.editach.page_title'] = "
-
-Kunde# %1\$s ACH-Konto bearbeiten
-"; // %1$s is the client ID number
+$lang['ClientAccounts.editach.page_title'] = "Kunde# %1\$s ACH-Konto bearbeiten"; // %1$s is the client ID number
 $lang['ClientAccounts.editach.boxtitle_editach'] = "Bearbeite ACH Account";
-$lang['ClientAccounts.editach.field_accountsubmit'] = "
-
-Konto bearbeiten
-";
+$lang['ClientAccounts.editach.field_accountsubmit'] = "Konto bearbeiten";
 $lang['ClientAccounts.editcc.page_title'] = "Kunde #%1\$s Kreditkarten Account bearbeiten"; // %1$s is the client ID number
 $lang['ClientAccounts.editcc.boxtitle_editcc'] = "Kreditkartenkonto bearbeiten";
 $lang['ClientAccounts.editcc.field_accountsubmit'] = "Account bearbeiten";

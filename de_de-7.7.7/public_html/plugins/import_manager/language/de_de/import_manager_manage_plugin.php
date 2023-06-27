@@ -10,10 +10,7 @@
  */
 
 $lang['ImportManagerManagePlugin.!success.imported'] = "Der Importeur wurde verarbeitet.";
-$lang['ImportManagerManagePlugin.index.boxtitle_importmanager'] = "
-
-Import Manager
-";
+$lang['ImportManagerManagePlugin.index.boxtitle_importmanager'] = "Import Manager";
 $lang['ImportManagerManagePlugin.index.page_title'] = "Importmanager&gt; Importieren";
 $lang['ImportManagerManagePlugin.index.platform'] = "Plattform";
 $lang['ImportManagerManagePlugin.index.versions'] = "Versionen";

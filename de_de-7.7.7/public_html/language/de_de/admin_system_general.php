@@ -36,19 +36,10 @@ $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = "Verwendet Sprachdefi
 $lang['AdminSystemGeneral.paymenttypes.heading_options'] = "Optionen";
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = "Bearbeiten";
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = "Löschen";
-$lang['AdminSystemGeneral.paymenttypes.modal_delete'] = "
-
-Durch das Löschen dieser Zahlungsart werden alle Transaktionen, die diese Zahlungsart verwenden, auf \"Sonstige\" gesetzt. Möchten Sie diese Zahlungsart wirklich löschen?
-";
-$lang['AdminSystemGeneral.paymenttypes.text_yes'] = "
-
-Ja
-";
+$lang['AdminSystemGeneral.paymenttypes.modal_delete'] = "Durch das Löschen dieser Zahlungsart werden alle Transaktionen, die diese Zahlungsart verwenden, auf \"Sonstige\" gesetzt. Möchten Sie diese Zahlungsart wirklich löschen?";
+$lang['AdminSystemGeneral.paymenttypes.text_yes'] = "Ja";
 $lang['AdminSystemGeneral.paymenttypes.text_no'] = "Nein";
-$lang['AdminSystemGeneral.paymenttypes.no_results'] = "
-
-Es gibt keine Zahlungsarten.
-";
+$lang['AdminSystemGeneral.paymenttypes.no_results'] = "Es gibt keine Zahlungsarten.";
 $lang['AdminSystemGeneral.addtype.boxtitle_addtype'] = "Zahlungsart erstellen";
 $lang['AdminSystemGeneral.addtype.field_name'] = "Name";
 $lang['AdminSystemGeneral.addtype.field_is_lang'] = "Verwende Sprachdefinition";
@@ -56,10 +47,7 @@ $lang['AdminSystemGeneral.addtype.field_typesubmit'] = "Zahlungsart erstellen";
 $lang['AdminSystemGeneral.edittype.boxtitle_edittype'] = "Zahlungsart bearbeiten";
 $lang['AdminSystemGeneral.edittype.field_name'] = "Name";
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = "Benutze Sprachdefinition";
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = "
-
-Zahlungsart bearbeiten
-";
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = "Zahlungsart bearbeiten";
 $lang['AdminSystemGeneral.basic.page_title'] = "Einstellungen > System > Allgemein > Grundeinrichtung";
 $lang['AdminSystemGeneral.geoip.page_title'] = "Einstellungen&gt; System&gt; Allgemein&gt; GeoIP-Einstellungen";
 $lang['AdminSystemGeneral.maintenance.page_title'] = "Einstellungen > System > Allgemein > Wartung";

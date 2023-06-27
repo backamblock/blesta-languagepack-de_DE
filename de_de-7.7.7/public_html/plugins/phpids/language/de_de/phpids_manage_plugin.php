@@ -27,10 +27,7 @@ $lang['PhpidsManagePlugin.index.field.email_addresses'] = "Adressen, an die Emai
 $lang['PhpidsManagePlugin.index.text.edit_template'] = "E-Mail-Vorlage bearbeiten";
 $lang['PhpidsManagePlugin.index.heading_redirect'] = "Weiterleitung";
 $lang['PhpidsManagePlugin.index.field.redirect_min_score'] = "Minimale Impact-Bewertung für Redirect";
-$lang['PhpidsManagePlugin.index.field.redirect_url'] = "
-
-URL zum Weiterleiten an
-";
+$lang['PhpidsManagePlugin.index.field.redirect_url'] = "URL zum Weiterleiten an";
 $lang['PhpidsManagePlugin.index.field.submit'] = "Einstellungen speichern";
 $lang['PhpidsManagePlugin.getIntervals.mins_singular'] = "%1\$s Minute"; // %1$s is the number of minutes
 $lang['PhpidsManagePlugin.getIntervals.mins_plural'] = "%1\$s Minuten"; // %1$s is the number of minutes

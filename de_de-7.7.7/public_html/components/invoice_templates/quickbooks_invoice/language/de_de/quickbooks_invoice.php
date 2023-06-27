@@ -27,9 +27,7 @@ $lang['QuickbooksInvoice.lines_quantity'] = "Anzahl";
 $lang['QuickbooksInvoice.lines_unit_price'] = "Preis pro Einheit";
 $lang['QuickbooksInvoice.lines_cost'] = "Preis";
 $lang['QuickbooksInvoice.address_heading'] = "Zahlungsempfänger";
-$lang['QuickbooksInvoice.address_city_state'] = "%2\$s 
-%1\$s %3\$s
-%4\$s"; // %1$s is the city, %2$s is the state code, %3$s is the zip/postal code, %4$s is the country code
+$lang['QuickbooksInvoice.address_city_state'] = "%2\$s %1\$s %3\$s%4\$s"; // %1$s is the city, %2$s is the state code, %3$s is the zip/postal code, %4$s is the country code
 $lang['QuickbooksInvoice.tax_id'] = "Steuernummer / MwSt .: %1\$s"; // %1$s is the tax ID/VATIN
 $lang['QuickbooksInvoice.watermark_paid'] = "BEZAHLT";
 $lang['QuickbooksInvoice.client_tax_id'] = "Kundensteuer-ID / VATIN: %1\$s"; // %1$s is the tax ID/VATIN
@@ -40,9 +38,6 @@ $lang['QuickbooksInvoice.payments_type_name'] = "Typ";
 $lang['QuickbooksInvoice.payments_transaction_id'] = "Transaktionsnummer";
 $lang['QuickbooksInvoice.payments_applied_amount'] = "Betrag angewendet";
 $lang['QuickbooksInvoice.balance_heading'] = "Saldo";
-$lang['QuickbooksInvoice.proforma_id_code'] = "
-
-Pro Forma Nr.
-";
+$lang['QuickbooksInvoice.proforma_id_code'] = "Pro Forma Nr.";
 $lang['QuickbooksInvoice.draft_id_code'] = "Entwurf Nr.";
 ?>

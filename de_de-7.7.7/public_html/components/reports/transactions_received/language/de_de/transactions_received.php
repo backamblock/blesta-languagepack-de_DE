@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['TransactionsReceived.name'] = "
-
-Erhaltene Transaktionen
-";
+$lang['TransactionsReceived.name'] = "Erhaltene Transaktionen";
 $lang['TransactionsReceived.option.any'] = "Andere";
 $lang['TransactionsReceived.options.field_start_date'] = "Startdatum";
 $lang['TransactionsReceived.options.field_end_date'] = "Enddatum";
@@ -20,14 +17,8 @@ $lang['TransactionsReceived.options.field_gateway'] = "Gateway";
 $lang['TransactionsReceived.options.field_status'] = "Status";
 $lang['TransactionsReceived.options.field_payment_type'] = "Zahlungsart";
 $lang['TransactionsReceived.heading.id'] = "Transaktion #";
-$lang['TransactionsReceived.heading.transaction_id'] = "
-
-Transaktions-ID
-";
-$lang['TransactionsReceived.heading.reference_id'] = "
-
-Referenz ID
-";
+$lang['TransactionsReceived.heading.transaction_id'] = "Transaktions-ID";
+$lang['TransactionsReceived.heading.reference_id'] = "Referenz ID";
 $lang['TransactionsReceived.heading.client_id_code'] = "Klient #";
 $lang['TransactionsReceived.heading.gateway_name'] = "Zahlungs-Gateway";
 $lang['TransactionsReceived.heading.type_name'] = "Zahlungsart";

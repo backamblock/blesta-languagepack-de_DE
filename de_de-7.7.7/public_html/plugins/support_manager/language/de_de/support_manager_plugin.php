@@ -35,10 +35,7 @@ $lang['SupportManagerPlugin.nav_primary_staff.knowledgebase'] = "Wissensbasis";
 $lang['SupportManagerPlugin.permission.admin_knowledgebase'] = "Wissensdatenbank";
 $lang['SupportManagerPlugin.cron.delete_tickets_name'] = "Trash-Tickets löschen";
 $lang['SupportManagerPlugin.cron.delete_tickets_desc'] = "Löschen Sie automatisch Papierkorb-Tickets, die für Abteilungen im Support-Manager konfiguriert wurden.";
-$lang['SupportManagerPlugin.permission.admin_tickets_delete'] = "
-
-Tickets dauerhaft löschen
-";
+$lang['SupportManagerPlugin.permission.admin_tickets_delete'] = "Tickets dauerhaft löschen";
 $lang['SupportManagerPlugin.cron.send_reminders_name'] = "Mahnungen versenden";
 $lang['SupportManagerPlugin.cron.send_reminders_desc'] = "Versenden Sie automatisch Erinnerungen für Tickets mit einem bestimmten Status nach einer bestimmten Zeitspanne.";
 ?>

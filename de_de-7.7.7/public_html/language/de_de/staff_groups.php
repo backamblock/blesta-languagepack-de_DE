@@ -13,10 +13,7 @@ $lang['StaffGroups.!error.staff_group_id.exists'] = "Ungültige Personal Gruppen
 $lang['StaffGroups.!error.company_id.exists'] = "Ungültige Firmen ID.";
 $lang['StaffGroups.!error.name.empty'] = "Bitte einen Namen eingeben.";
 $lang['StaffGroups.!error.name.length'] = "Die Länge des Namens darf 64 Zeichen nicht überschreiten.";
-$lang['StaffGroups.!error.no_company_id.exists'] = "
-
-Kann sich nicht anmelden, keiner Firma zugeordnet.
-";
+$lang['StaffGroups.!error.no_company_id.exists'] = "Kann sich nicht anmelden, keiner Firma zugeordnet.";
 $lang['StaffGroups.!error.num_staff.zero'] = "Die Gruppe %1\$s kann nicht gelöscht werden, da noch Mitglieder in dieser Gruppe sind"; // %1$s is the staff group name
 $lang['StaffGroups.permission_group.clients'] = "Kunden";
 $lang['StaffGroups.permission_group.billing'] = "Abrechnung";
@@ -44,14 +41,8 @@ $lang['StaffGroups.permissions.admin_clients_editcontact'] = "Kontakt ändern ";
 $lang['StaffGroups.permissions.admin_clients_deletecontact'] = "Kontakt löschen";
 $lang['StaffGroups.permissions.admin_clients_quickupdate'] = "Schnelles Update";
 $lang['StaffGroups.permissions.admin_clients_accounts'] = "Zahlungskonten ansehen";
-$lang['StaffGroups.permissions.admin_clients_addccaccount'] = "
-
-Kreditkartenzahlungskonto hinzufügen
-";
-$lang['StaffGroups.permissions.admin_clients_addachaccount'] = "
-
-ACH-Zahlungskonto hinzufügen
-";
+$lang['StaffGroups.permissions.admin_clients_addccaccount'] = "Kreditkartenzahlungskonto hinzufügen";
+$lang['StaffGroups.permissions.admin_clients_addachaccount'] = "ACH-Zahlungskonto hinzufügen";
 $lang['StaffGroups.permissions.admin_clients_editccaccount'] = "Kreditkartenkontokonto bearbeiten";
 $lang['StaffGroups.permissions.admin_clients_editachaccount'] = "ACH-Zahlungskonto bearbeiten";
 $lang['StaffGroups.permissions.admin_clients_deleteccaccount'] = "Kreditkarten Account löschen";
@@ -72,19 +63,13 @@ $lang['StaffGroups.permissions.admin_tools_convert_currency'] = "Währung umrech
 $lang['StaffGroups.permissions.admin_tools_logs'] = "Protokolle";
 $lang['StaffGroups.permissions.admin_packages_add'] = "Paket hinzufügen";
 $lang['StaffGroups.permissions.admin_packages_edit'] = "Paket bearbeiten";
-$lang['StaffGroups.permissions.admin_packages_groups'] = "
-
-Paketgruppen anzeigen
-";
+$lang['StaffGroups.permissions.admin_packages_groups'] = "Paketgruppen anzeigen";
 $lang['StaffGroups.permissions.admin_settings_company'] = "Firmen Einstellung";
 $lang['StaffGroups.permissions.admin_company_general_localization'] = "Lokalisierung";
 $lang['StaffGroups.permissions.admin_company_general_international'] = "Internationalisierung";
 $lang['StaffGroups.permissions.admin_company_general_themes'] = "Themen";
 $lang['StaffGroups.permissions.admin_company_general_encryption'] = "Verschlüsselung";
-$lang['StaffGroups.permissions.admin_company_billing_invoices'] = "
-
-Rechnungs- und Gebührenoptionen
-";
+$lang['StaffGroups.permissions.admin_company_billing_invoices'] = "Rechnungs- und Gebührenoptionen";
 $lang['StaffGroups.permissions.admin_company_billing_customization'] = "Rechnungsanpassung";
 $lang['StaffGroups.permissions.admin_company_billing_deliverymethods'] = "Rechnungslieferung";
 $lang['StaffGroups.permissions.admin_company_billing_coupons'] = "Gutscheine";
@@ -93,10 +78,7 @@ $lang['StaffGroups.permissions.admin_company_modules_manage'] = "Modul verwalten
 $lang['StaffGroups.permissions.admin_company_modules_install'] = "Modul installieren";
 $lang['StaffGroups.permissions.admin_company_modules_uninstall'] = "Modul deinstallieren";
 $lang['StaffGroups.permissions.admin_company_modules_upgrade'] = "Upgrade das Modul";
-$lang['StaffGroups.permissions.admin_company_gateways'] = "
-
-Zahlungs-Gateways
-";
+$lang['StaffGroups.permissions.admin_company_gateways'] = "Zahlungs-Gateways";
 $lang['StaffGroups.permissions.admin_company_gateways_manage'] = "Gateway verwalten";
 $lang['StaffGroups.permissions.admin_company_gateways_install'] = "Gateway installieren";
 $lang['StaffGroups.permissions.admin_company_gateways_uninstall'] = "Gateway entfernen";
@@ -117,10 +99,7 @@ $lang['StaffGroups.permissions.admin_system_general_maintenance'] = "Wartung";
 $lang['StaffGroups.permissions.admin_system_general_license'] = "Lizenzschlüssel";
 $lang['StaffGroups.permissions.admin_system_automation'] = "Automatisierung";
 $lang['StaffGroups.permissions.admin_system_companies'] = "Firmen";
-$lang['StaffGroups.permissions.admin_system_staff_manage'] = "
-
-Mitarbeiter verwalten
-";
+$lang['StaffGroups.permissions.admin_system_staff_manage'] = "Mitarbeiter verwalten";
 $lang['StaffGroups.permissions.admin_system_staff_groups'] = "Mitarbeitergruppen";
 $lang['StaffGroups.permissions.admin_system_api'] = "API Zugang";
 $lang['StaffGroups.permissions.admin_system_upgrade'] = "Upgrade-Optionen";
@@ -138,17 +117,11 @@ $lang['StaffGroups.permissions.admin_company_general_editcontacttype'] = "Kontak
 $lang['StaffGroups.permissions.admin_company_general_deletecontacttype'] = "Kontaktart löschen";
 $lang['StaffGroups.permissions.admin_company_general_installlanguage'] = "Installations Sprache   ";
 $lang['StaffGroups.permissions.admin_company_general_uninstalllanguage'] = "Deinstallieren die Sprache";
-$lang['StaffGroups.permissions.admin_company_billing_acceptedtypes'] = "
-
-Akzeptierte Zahlungsarten
-";
+$lang['StaffGroups.permissions.admin_company_billing_acceptedtypes'] = "Akzeptierte Zahlungsarten";
 $lang['StaffGroups.permissions.admin_system_general_paymenttypes'] = "Bezahlmöglichkeiten";
 $lang['StaffGroups.permissions.admin_system_general_addtype'] = "Zahlungsart hinzufügen";
 $lang['StaffGroups.permissions.admin_system_general_edittype'] = "Zahlungsart bearbeiten";
-$lang['StaffGroups.permissions.admin_system_general_deletetype'] = "
-
-Zahlungsart löschen
-";
+$lang['StaffGroups.permissions.admin_system_general_deletetype'] = "Zahlungsart löschen";
 $lang['StaffGroups.permissions.admin_packages_addgroup'] = "Gruppe hinzufügen";
 $lang['StaffGroups.permissions.admin_packages_editgroup'] = "Gruppe bearbeiten";
 $lang['StaffGroups.permissions.admin_packages_deletegroup'] = "Gruppe löschen ";
@@ -157,16 +130,10 @@ $lang['StaffGroups.permissions.admin_company_general_addtheme'] = "Themes hinzuf
 $lang['StaffGroups.permissions.admin_company_general_edittheme'] = "Theme bearbeiten";
 $lang['StaffGroups.permissions.admin_company_general_deletetheme'] = "Theme löschen";
 $lang['StaffGroups.permissions.admin_company_billing_addcoupon'] = "Coupon hinzufügen";
-$lang['StaffGroups.permissions.admin_company_billing_editcoupon'] = "
-
-Gutschein bearbeiten
-";
+$lang['StaffGroups.permissions.admin_company_billing_editcoupon'] = "Gutschein bearbeiten";
 $lang['StaffGroups.permissions.admin_company_billing_deletecoupon'] = "Gutschein löschen";
 $lang['StaffGroups.permissions.admin_company_lookandfeel'] = "Aussehen und Gefühl";
-$lang['StaffGroups.permissions.admin_company_themes'] = "
-
-Themes
-";
+$lang['StaffGroups.permissions.admin_company_themes'] = "Themes";
 $lang['StaffGroups.permissions.admin_company_taxes'] = "Steuern";
 $lang['StaffGroups.permissions.admin_company_emails_edittemplate'] = "E-Mail-Vorlage bearbeiten";
 $lang['StaffGroups.permissions.admin_company_emails_addsignature'] = "E-Mail-Signatur hinzufügen";
@@ -175,10 +142,7 @@ $lang['StaffGroups.permissions.admin_company_emails_deletesignature'] = "E-Mail 
 $lang['StaffGroups.permissions.admin_company_currencies'] = "Währungen";
 $lang['StaffGroups.permissions.admin_system_backup'] = "Sicherungen";
 $lang['StaffGroups.permissions.admin_system_staff_add'] = "Mitarbeiter hinzufügen";
-$lang['StaffGroups.permissions.admin_system_staff_edit'] = "
-
-Mitarbeiter bearbeiten
-";
+$lang['StaffGroups.permissions.admin_system_staff_edit'] = "Mitarbeiter bearbeiten";
 $lang['StaffGroups.permissions.admin_system_staff_status'] = "Mitarbeiterstatus";
 $lang['StaffGroups.permissions.admin_system_staff_addgroup'] = "Mitarbeitergruppe hinzufügen";
 $lang['StaffGroups.permissions.admin_system_staff_editgroup'] = "Mitarbeitergruppe bearbeiten";
@@ -186,10 +150,7 @@ $lang['StaffGroups.permissions.admin_system_staff_deletegroup'] = "Mitarbeitergr
 $lang['StaffGroups.permissions.admin_company_automation'] = "Automatisierung";
 $lang['StaffGroups.permissions.admin_clients_recordpayment'] = "Record Zahlung";
 $lang['StaffGroups.permissions.admin_clients_makepayment'] = "Zahlung vornehmen";
-$lang['StaffGroups.!error.session_lock.valid'] = "
-
-Ungültiger Wert für Sitzungssperre
-";
+$lang['StaffGroups.!error.session_lock.valid'] = "Ungültiger Wert für Sitzungssperre";
 $lang['StaffGroups.permissions.admin_clients_service'] = "Service-Summen anzeigen";
 $lang['StaffGroups.permissions.admin_reports'] = "Berichte";
 $lang['StaffGroups.permissions.admin_reports_customize'] = "Berichte anpassen";

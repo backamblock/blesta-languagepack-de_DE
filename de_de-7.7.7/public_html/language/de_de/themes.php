@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['Themes.!error.id.exists'] = "
-
-Das von Ihnen ausgewählte Theme ist nicht vorhanden.
-";
+$lang['Themes.!error.id.exists'] = "Das von Ihnen ausgewählte Theme ist nicht vorhanden.";
 $lang['Themes.!error.company_id.exists'] = "Ungültige Firmen-ID";
 $lang['Themes.!error.company_id.isset'] = "Nur Firmenspezifische Themen können gelöscht werden.";
 $lang['Themes.!error.company_id.set'] = "Nur unternehmensspezifische Themen können aktualisiert werden.";

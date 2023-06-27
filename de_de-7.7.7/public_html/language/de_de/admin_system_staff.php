@@ -34,10 +34,7 @@ $lang['AdminSystemStaff.add.heading_authentication'] = "Authentifizierung";
 $lang['AdminSystemStaff.add.heading_groups'] = "Gruppen";
 $lang['AdminSystemStaff.add.field_firstname'] = "Vorname";
 $lang['AdminSystemStaff.add.field_lastname'] = "Nachname";
-$lang['AdminSystemStaff.add.field_email'] = "
-
-E-Mail
-";
+$lang['AdminSystemStaff.add.field_email'] = "E-Mail";
 $lang['AdminSystemStaff.add.field_username'] = "Benutzername";
 $lang['AdminSystemStaff.add.field_username_username'] = "Geben Sie einen Benutzernamen ein";
 $lang['AdminSystemStaff.add.field_username_email'] = "Nutze die E-Mail Adresse als Benutzername";
@@ -67,10 +64,7 @@ $lang['AdminSystemStaff.groups.boxtitle_groups'] = "Mitarbeitergruppen";
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = "Gruppe erstellen";
 $lang['AdminSystemStaff.groups.heading_name'] = "Name";
 $lang['AdminSystemStaff.groups.heading_company_name'] = "Name Ihrer Firma";
-$lang['AdminSystemStaff.groups.heading_staff'] = "
-
-Mitarbeiteranzahl
-";
+$lang['AdminSystemStaff.groups.heading_staff'] = "Mitarbeiteranzahl";
 $lang['AdminSystemStaff.groups.heading_options'] = "Optionen";
 $lang['AdminSystemStaff.groups.no_results'] = "Es existieren keine Mitarbeiter Gruppen.";
 $lang['AdminSystemStaff.groups.option_edit'] = "Bearbeiten";
@@ -96,23 +90,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = "/";
 $lang['AdminSystemStaff.!groups.text_group_start'] = "(";
 $lang['AdminSystemStaff.!groups.text_group_end'] = ")";
 $lang['AdminSystemStaff.addgroup.page_title'] = "Einstellungen -> System -> Mitarbeiter -> Gruppe erstellen";
-$lang['AdminSystemStaff.addgroup.heading_email_notices'] = "
-
-E-Mail-BCC-Benachrichtigungen
-";
+$lang['AdminSystemStaff.addgroup.heading_email_notices'] = "E-Mail-BCC-Benachrichtigungen";
 $lang['AdminSystemStaff.addgroup.text_check_all'] = "Alle überprüfen";
-$lang['AdminSystemStaff.addgroup.text_uncheck_all'] = "
-
-Alle deaktivieren
-";
+$lang['AdminSystemStaff.addgroup.text_uncheck_all'] = "Alle deaktivieren";
 $lang['AdminSystemStaff.editgroup.page_title'] = "Einstellungen > System > Mitarbeiter > Gruppe bearbeiten";
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = "E-Mail BCC Notizen";
 $lang['AdminSystemStaff.add.field_addsubmit'] = "Mitarbeiter erstellen";
 $lang['AdminSystemStaff.edit.field_editsubmit'] = "Mitarbeiter bearbeiten";
-$lang['AdminSystemStaff.addgroup.heading_subscription_email_notices'] = "
-
-E-Mail-Abonnementbenachrichtigungen
-";
+$lang['AdminSystemStaff.addgroup.heading_subscription_email_notices'] = "E-Mail-Abonnementbenachrichtigungen";
 $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = "E-Mail-Abonnement-Benachrichtigungen";
 $lang['AdminSystemStaff.addgroup.field_session_lock'] = "Bei Änderung der IP-Adresse abmelden";
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = "Bei Änderung der IP-Adresse abmelden";

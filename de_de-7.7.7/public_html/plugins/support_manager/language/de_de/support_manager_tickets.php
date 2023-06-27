@@ -20,10 +20,7 @@ $lang['SupportManagerTickets.!error.summary.empty'] = "Bitte geben Sie eine Zusa
 $lang['SupportManagerTickets.!error.summary.length'] = "Die Zusammenfassung darf nicht mehr als 255 Zeichen lang sein.";
 $lang['SupportManagerTickets.!error.priority.format'] = "Bitte wählen Sie eine gültige Priorität aus.";
 $lang['SupportManagerTickets.!error.status.format'] = "Bitte wählen Sie einen gültigen Status.";
-$lang['SupportManagerTickets.!error.date_closed.format'] = "
-
-Das Ticketabschlussdatum hat ein ungültiges Datumsformat.
-";
+$lang['SupportManagerTickets.!error.date_closed.format'] = "Das Ticketabschlussdatum hat ein ungültiges Datumsformat.";
 $lang['SupportManagerTickets.!error.ticket_id.exists'] = "Ungültige Ticket-ID";
 $lang['SupportManagerTickets.!error.type.format'] = "Bitte wählen Sie eine gültige Antwortart.";
 $lang['SupportManagerTickets.!error.type.new_valid'] = "Neue Tickets müssen einen Antwortstypen von 'Antwort' aufweisen.";
@@ -47,36 +44,18 @@ $lang['SupportManagerTickets.log.status'] = "Der Status wurde zu %1\$s geändert
 $lang['SupportManagerTickets.log.ticket_staff_id'] = "Zugewiesen an %1\$s."; // %1$s is the name of the department staff member the ticket was assigned to
 $lang['SupportManagerTickets.log.unassigned'] = "Nicht zugeordnet";
 $lang['SupportManagerTickets.status.awaiting_reply'] = "Warten auf Client-Antwort";
-$lang['SupportManagerTickets.!error.by_staff_id.exists'] = "
-
-Der Mitarbeiter, der die Bearbeitung vorgenommen hat, ist nicht vorhanden.
-";
+$lang['SupportManagerTickets.!error.by_staff_id.exists'] = "Der Mitarbeiter, der die Bearbeitung vorgenommen hat, ist nicht vorhanden.";
 $lang['SupportManagerTickets.!error.replies.valid'] = "Mindestens eine Ticket-Antwort ID ist ungültig oder alle Antworten wurden ausgewählt. Es muss mindestens eine Antwort bleiben.";
-$lang['SupportManagerTickets.!error.tickets.valid'] = "
-
-Mindestens ein ausgewähltes Ticket ist ungültig, geschlossen oder gehört nicht zu demselben Kunden wie das ausgewählte Ticket.
-";
+$lang['SupportManagerTickets.!error.tickets.valid'] = "Mindestens ein ausgewähltes Ticket ist ungültig, geschlossen oder gehört nicht zu demselben Kunden wie das ausgewählte Ticket.";
 $lang['SupportManagerTickets.!error.merge_into.itself'] = "Das Ticket kann nicht mit sich selbst zusammengeführt werden.";
 $lang['SupportManagerTickets.!error.tickets.service_matches'] = "Mindestens eines der Tickets konnte dem angegebenen Service nicht zugeordnet werden, da es nicht zum zugehörigen Client gehört.";
-$lang['SupportManagerTickets.!error.tickets.department_matches'] = "
-
-Mindestens eines der Tickets konnte der angegebenen Abteilung nicht zugeordnet werden, da es nicht zu derselben Firma gehört.
-";
-$lang['SupportManagerTickets.merge.reply'] = "
-
-Dieses Ticket wurde in Ticket #%1\$s zusammengeführt.
-"; // %1$s is the ticket number
+$lang['SupportManagerTickets.!error.tickets.department_matches'] = "Mindestens eines der Tickets konnte der angegebenen Abteilung nicht zugeordnet werden, da es nicht zu derselben Firma gehört.";
+$lang['SupportManagerTickets.merge.reply'] = "Dieses Ticket wurde in Ticket #%1\$s zusammengeführt."; // %1$s is the ticket number
 $lang['SupportManagerTickets.!error.contact_id.exists'] = "Der für diese Ticketantwort ausgewählte Kontakt existiert nicht.";
 $lang['SupportManagerTickets.!error.contact_id.valid'] = "Der Kontakt antwortet möglicherweise nicht ohne einen gültigen Client auf das Ticket.";
-$lang['SupportManagerTickets.!error.replies.notes'] = "
-
-Ticketantwortnotizen können nicht in ein separates Ticket aufgeteilt werden, ohne dass dazu auch eine Ticketantwort gehört.
-";
+$lang['SupportManagerTickets.!error.replies.notes'] = "Ticketantwortnotizen können nicht in ein separates Ticket aufgeteilt werden, ohne dass dazu auch eine Ticketantwort gehört.";
 $lang['SupportManagerTickets.!error.status.trash'] = "Ein Papierkorbticket darf nicht bearbeitet werden.";
-$lang['SupportManagerTickets.!error.date_added.format'] = "
-
-Das Datum für das Hinzufügen des Tickets hat ein ungültiges Datumsformat.
-";
+$lang['SupportManagerTickets.!error.date_added.format'] = "Das Datum für das Hinzufügen des Tickets hat ein ungültiges Datumsformat.";
 $lang['SupportManagerTickets.!error.date_updated.format'] = "Das aktualisierte Datum des Tickets hat ein ungültiges Datumsformat.";
 $lang['SupportManagerTickets.status.on_hold'] = "In Wartestellung";
 $lang['SupportManagerTickets.status.trash'] = "Müll";

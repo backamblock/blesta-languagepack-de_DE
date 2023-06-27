@@ -40,8 +40,7 @@ $lang['AdminClients.!success.recordpayment_processed'] = "Die Zahlung wurde erfo
 $lang['AdminClients.!success.deletedraftinvoice_deleted'] = "Der Rechnungsentwurf wurde erfolgreich gelöscht!";
 $lang['AdminClients.!success.email_sent'] = "Die E-Mail wurde erfolgreich versendet.";
 $lang['AdminClients.!error.invoices_emailinvalid'] = "Die E-Mail-Adresse ist ungültig.";
-$lang['AdminClients.!notice.invoice_tax_rules_differ'] = "WARNUNG: Diese Rechnung enthält Steuervorschriften, die nicht mehr aktuell sind. 
-Das Hinzufügen oder Entfernen einer Position oder die Aktualisierung der Menge, Stückkosten oder des Steuerstatus hat zur Folge, dass die aktuellen Steuervorschriften zu dieser Rechnung angewendet werden.";
+$lang['AdminClients.!notice.invoice_tax_rules_differ'] = "WARNUNG: Diese Rechnung enthält Steuervorschriften, die nicht mehr aktuell sind. Das Hinzufügen oder Entfernen einer Position oder die Aktualisierung der Menge, Stückkosten oder des Steuerstatus hat zur Folge, dass die aktuellen Steuervorschriften zu dieser Rechnung angewendet werden.";
 $lang['AdminClients.!notice.payment_type'] = "WARNUNG: %1\$s Zahlungen sind derzeit nicht aktiviert. Um sie zu aktivieren, aktualisieren Sie die <a href=\"%2\$s\">%3\$s</a>."; // %1$s is the account type (CC, ACH) language, %2$s is the URI to the accepted type settings, %3$s is the language to use as text for the link
 $lang['AdminClients.!notice.transactions_already_applied'] = "WARNUNG: Das Ändern dieser Buchung führt zum Entfernen der Buchung von allen zugewiesenen Rechnungen.";
 $lang['AdminClients.index.heading_client'] = "Kunden ID";
@@ -504,8 +503,7 @@ $lang['AdminClients.editcontact.confirm_delete'] = "Sind Sie sicher, dass Sie di
 $lang['AdminClients.editinvoice.page_title'] = "Kunde #%1\$s Rechnung bearbeiten #%2\$s"; // %1$s is the client ID number, %2$s is the invoice number
 $lang['AdminClients.editrecurinvoice.page_title'] = "Rechnung #%2\$s von Kunde #%1\$s bearbeiten"; // %1$s is the client ID number, %2$s is the recurring invoice number
 $lang['AdminClients.edittransaction.page_title'] = "Transaktion von Kunde #%1\$s bearbeiten"; // %1$s is the client ID number
-$lang['AdminClients.email.page_title'] = "Kunde #%1\$s E-Mail-Client
-"; // %1$s is the client ID number
+$lang['AdminClients.email.page_title'] = "Kunde #%1\$s E-Mail-Client"; // %1$s is the client ID number
 $lang['AdminClients.emails.page_title'] = "Mail Log von Kunde #%1\$s"; // %1$s is the client ID number
 $lang['AdminClients.invoices.page_title'] = "Rechnungen von Kunde #%1\$s"; // %1$s is the client ID number
 $lang['AdminClients.invoices.category_pending'] = "Ausstehen";
@@ -544,9 +542,7 @@ $lang['AdminClients.editservice.action.field_action'] = "Aktion";
 $lang['AdminClients.editservice.action.field_cancel_date'] = "Datum";
 $lang['AdminClients.editservice.action.field_cancel_none'] = "Nicht abbrechen";
 $lang['AdminClients.editservice.package.field_pricing'] = "Paket/Laufzeit";
-$lang['AdminClients.serviceinfo.no_results'] = "Dieser Dienst hat keine Details.
-
-";
+$lang['AdminClients.serviceinfo.no_results'] = "Dieser Dienst hat keine Details.";
 $lang['AdminClients.makepayment.page_title'] = "Bezahlen für Kunde #%1\$s"; // %1$s is the client ID number
 $lang['AdminClients.makepaymentamount.heading_invoices'] = "Rechnungsauswahl";
 $lang['AdminClients.makepaymentamount.no_results'] = "Es gibt keine Rechnungen in dieser Währung.";
@@ -633,7 +629,7 @@ $lang['AdminClients.notes.by_system'] = "System";
 $lang['AdminClients.recordpayment.field_gateway_id'] = "Zahlungs-Gateway";
 $lang['AdminClients.recordpayment.gateway_none'] = "Kein";
 $lang['AdminClients.transactions.headingexpand_options'] = "Einstellungen";
-$lang['AdminClients.view.tooltip_autodebit_enabled'] = "Lastschrift ist aktiviert , aber kein Bankkontofür die automatische Abbuchung ausgewählt. Ein Bankkonto muss ausgewählt werden, bevor die Gebühren automatisch abgebucht werden.";
+$lang['AdminClients.view.tooltip_autodebit_enabled'] = "Lastschrift ist aktiviert, aber kein Bankkonto für die automatische Abbuchung ausgewählt. Ein Bankkonto muss ausgewählt werden, bevor die Gebühren automatisch abgebucht werden.";
 $lang['AdminClients.!success.recordpayment_credits'] = "Die Gutschrift wurde erfolgreich verbucht.";
 $lang['AdminClients.!error.invoice_credits.required'] = "Bitte wählen Sie eine Rechnung aus, auf die das Guthaben gebucht werden soll.";
 $lang['AdminClients.!notice.service_in_review'] = "Der Status dieses Dienstes ist %1\$s und muss auf %2\$s geändert werden, bevor er aktiviert werden kann. Dies kann über das Bestellungen-Widget auf der Abrechnungs-Übersichtsseite mit der Bestell-Plugin, oder durch einen Drittanbieter-Plug-In welches für die Verwaltung von Bestellungen verantwortlich ist erledigt werden."; // %1$s is the language for the 'In Review' status, %2$s is the language for the 'Pending' status
@@ -741,25 +737,13 @@ $lang['AdminClients.!success.passwordreset.sent'] = "Die E-Mail zum Zurücksetze
 $lang['AdminClients.!error.passwordreset.failed'] = "Die E-Mail zum Zurücksetzen des Passworts konnte nicht gesendet werden.";
 $lang['AdminClients.!notice.passwordreset.client_inactive'] = "Die E-Mail zum Zurücksetzen des Passworts kann nur für aktive Clients gesendet werden.";
 $lang['AdminClients.!notice.client_limit'] = "Dieser Kunde hat die maximale Anzahl von Diensten für dieses Paket erreicht.";
-$lang['AdminClients.!tooltip.reset_contact_id'] = "
-
-Die E-Mail zum Zurücksetzen des Passworts wird an den ausgewählten Kontakt gesendet und enthält einen Link, über den er sein Kontopasswort ändern kann.
-";
+$lang['AdminClients.!tooltip.reset_contact_id'] = "Die E-Mail zum Zurücksetzen des Passworts wird an den ausgewählten Kontakt gesendet und enthält einen Link, über den er sein Kontopasswort ändern kann.";
 $lang['AdminClients.passwordreset.page_title'] = "Client #%1\$s Passwort zurücksetzen"; // %1$s is the client ID number
-$lang['AdminClients.passwordreset.boxtitle_passwordreset'] = "
-
-Passwort zurücksetzen senden
-";
+$lang['AdminClients.passwordreset.boxtitle_passwordreset'] = "Passwort zurücksetzen senden";
 $lang['AdminClients.passwordreset.field_contact_id'] = "Kontakt";
-$lang['AdminClients.passwordreset.contact_id_name'] = "
-
-%1\$s %2\$s (%3\$s) %4\$s
-"; // $1$s is the contact's first name, %2$s is the contact's last name, %3$s is the contact type, %4$s is the contact's email address
+$lang['AdminClients.passwordreset.contact_id_name'] = "%1\$s %2\$s (%3\$s) %4\$s"; // $1$s is the contact's first name, %2$s is the contact's last name, %3$s is the contact type, %4$s is the contact's email address
 $lang['AdminClients.passwordreset.field_submit'] = "E-Mail senden";
-$lang['AdminClients.editservice.action.field_notify_cancel'] = "
-
-Senden Sie eine E-Mail mit der Kündigung des Dienstes
-";
+$lang['AdminClients.editservice.action.field_notify_cancel'] = "Senden Sie eine E-Mail mit der Kündigung des Dienstes";
 $lang['AdminClients.view.actionlink_passwordreset'] = "Passwort Reset Senden";
 $lang['AdminClients.!notice.force_email_usernames'] = "Ihr Benutzername ist mit Ihrer E-Mail-Adresse identisch.";
 $lang['AdminClients.!tooltip.notify_cancel'] = "Die Kündigungs-E-Mail wird nur versendet, wenn die Kündigung sofort erfolgt. Andernfalls wird die geplante Stornierungs-E-Mail sofort gesendet, und die Stornierungs-E-Mail wird bei der Stornierung gesendet, abhängig von der Unternehmens- oder Kundengruppeneinstellung, die dieses Verhalten steuert.";
@@ -770,41 +754,23 @@ $lang['AdminClients.view.setting_email_verification'] = "E-Mail-Verifizierung";
 $lang['AdminClients.view.setting_verified'] = "Verifiziert";
 $lang['AdminClients.view.setting_unverified'] = "Unbestätigt";
 $lang['AdminClients.view.setting_unsent'] = "Unset";
-$lang['AdminClients.!tooltip.taxexempt'] = "
-
-Dieses Feld wird automatisch vom Steuersystem verwaltet.
-";
+$lang['AdminClients.!tooltip.taxexempt'] = "Dieses Feld wird automatisch vom Steuersystem verwaltet.";
 $lang['AdminClients.!tooltip.client_taxempt'] = "Dieser Kunde ist als steuerbefreit festgelegt.";
-$lang['AdminClients.editinvoice.field_recache'] = "
-
-Recache:
-";
-$lang['AdminClients.editinvoice.field_recache_text'] = "
-
-Diese Rechnung beim Update erneut speichern
-";
-$lang['AdminClients.editinvoice.tooltip_recache'] = "
-
-Wenn Sie dieses Kontrollkästchen aktivieren, wird die zwischengespeicherte Rechnung beim Speichern durch aktualisierte Daten ersetzt.
-";
+$lang['AdminClients.editinvoice.field_recache'] = "Recache:";
+$lang['AdminClients.editinvoice.field_recache_text'] = "Diese Rechnung beim Update erneut speichern";
+$lang['AdminClients.editinvoice.tooltip_recache'] = "Wenn Sie dieses Kontrollkästchen aktivieren, wird die zwischengespeicherte Rechnung beim Speichern durch aktualisierte Daten ersetzt.";
 $lang['AdminClients.!success.services_renewed'] = "Die ausgewählten Dienste wurden erfolgreich verlängert.";
 $lang['AdminClients.!error.invoices_renew_service'] = "Die Dienstleistung kann erst verlängert werden, wenn alle Rechnungen, die diese Dienstleistung enthalten, bezahlt wurden.";
 $lang['AdminClients.services.action.invoice_renewal'] = "Rechnungserneuerung";
 $lang['AdminClients.services.action.field_cycles'] = "Anzahl der Zyklen";
 $lang['AdminClients.!success.services_pushed'] = "Die ausgewählten Dienste wurden erfolgreich auf den neuen Clienten übertragen.";
-$lang['AdminClients.add.field_send_registration_message'] = "
-
-Send Account Registration Message
-";
+$lang['AdminClients.add.field_send_registration_message'] = "Send Account Registration Message";
 $lang['AdminClients.services.action.push_to_client'] = "Push-to-Client";
 $lang['AdminClients.services.action.field_client'] = "Kunde:";
 $lang['AdminClients.!success.verifyachaccount_verified'] = "Das Zahlungskonto wurde erfolgreich verifiziert.";
 $lang['AdminClients.!notice.ach_verification'] = "Sie müssen dieses Konto verifizieren, bevor Sie es für eine Zahlung verwenden können.";
 $lang['AdminClients.!notice.ach_edit'] = "Nachdem Sie dieses Konto bearbeitet haben, müssen Sie es verifizieren, bevor Sie es für eine Zahlung verwenden können.";
-$lang['AdminClients.accounts.option_verify'] = "
-
-Verifizieren
-";
+$lang['AdminClients.accounts.option_verify'] = "Verifizieren";
 $lang['AdminClients.verifyachaccount.field_firstdeposit'] = "Erste Einzahlung";
 $lang['AdminClients.verifyachaccount.field_seconddeposit'] = "Zweite Einzahlung";
 $lang['AdminClients.verifyachaccount.boxtitle_verifyachaccount'] = "Verify ACH Account";

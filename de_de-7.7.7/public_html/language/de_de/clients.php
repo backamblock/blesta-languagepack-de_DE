@@ -18,18 +18,12 @@ $lang['Clients.!error.id_format.length'] = "Das ID-Format für Clients darf 64 Z
 $lang['Clients.!error.id_value.valid'] = "Der Client-ID-Wert konnte nicht ermittelt werden.";
 $lang['Clients.!error.user_id.exists'] = "Ungültige Benutzer ID.";
 $lang['Clients.!error.user_id.unique'] = "Die Kundennummer %1\$s wird bereits verwendet."; // %1$s is the client user ID number
-$lang['Clients.!error.status.format'] = "
-
-Ungültiger Status
-";
+$lang['Clients.!error.status.format'] = "Ungültiger Status";
 $lang['Clients.!error.name.empty'] = "Bitte geben sie einen Namen ein.";
 $lang['Clients.!error.is_lang.format'] = "is_lang muss eine Zahl sein.";
 $lang['Clients.!error.type.format'] = "Ungültiger Typ.";
 $lang['Clients.!error.show_client.format'] = "Show client muss eine Nummer sein.";
-$lang['Clients.!error.encrypted.format'] = "
-
-Verschlüsselt muss eine Zahl sein.
-";
+$lang['Clients.!error.encrypted.format'] = "Verschlüsselt muss eine Zahl sein.";
 $lang['Clients.!error.staff_id.exists'] = "Ungültige Mitarbeiter ID.";
 $lang['Clients.!error.title.empty'] = "Bitte geben Sie einen Titel ein";
 $lang['Clients.!error.note_id.exists'] = "Ungültige Hinweis ID.";
@@ -51,25 +45,13 @@ $lang['Clients.!error.inv_method.valid'] = "Ungültige Methode für den Rechnung
 $lang['Clients.!error.inv_method.editable'] = "Die Rechnungszustellungsmethode wird möglicherweise nicht aktualisiert.";
 $lang['Clients.!error.language.valid'] = "Ungültige Sprache";
 $lang['Clients.!error.language.editable'] = "Die Sprache wird möglicherweise nicht aktualisiert.";
-$lang['Clients.!error.values.format'] = "
-
-Die Werte haben ein ungültiges Format.
-";
-$lang['Clients.!error.client_field_id.exists'] = "
-
-Ungültige benutzerdefinierte Feld-ID
-";
+$lang['Clients.!error.values.format'] = "Die Werte haben ein ungültiges Format.";
+$lang['Clients.!error.client_field_id.exists'] = "Ungültige benutzerdefinierte Feld-ID";
 $lang['Clients.!error.client_field_id.matches'] = "Das benutzerdefinierte Feld ist ungültig.";
-$lang['Clients.!error.package_ids.exists'] = "
-
-Mindestens eines der bereitgestellten Pakete ist nicht vorhanden.
-";
+$lang['Clients.!error.package_ids.exists'] = "Mindestens eines der bereitgestellten Pakete ist nicht vorhanden.";
 $lang['Clients.!error.client_id.deleteable'] = "Der Kunde kann nicht gelöscht werden, solange offene Rechnungen vorhanden sind, wiederkehrende Rechnungen vorhanden sind oder aktive / ausgesetzte Dienste vorhanden sind. Bitte stornieren Sie alle offenen Rechnungen, löschen Sie alle wiederkehrenden Rechnungen und stornieren Sie alle aktiven / ausgesetzten Dienste, bevor Sie fortfahren.";
 $lang['Clients.!error.regex.valid'] = "Der reguläre Ausdruck ist ungültig.";
-$lang['Clients.!error.read_only.format'] = "
-
-\"Nur lesen\" muss eine Zahl sein.
-";
+$lang['Clients.!error.read_only.format'] = "\"Nur lesen\" muss eine Zahl sein.";
 $lang['Clients.!error.read_only.length'] = "Das Feld wo nur gelesen werden darf, darf nicht länger als 1 Zeichen in der Länge haben.";
 $lang['Clients.!error.value.required'] = "%1\$s ist ein ungültiges Format."; // %1$s is the name of the custom field
 $lang['Clients.!error.value.valid'] = "%1\$s ist auf einen ungültigen Wert gesetzt."; // %1$s is the name of the custom field
@@ -77,10 +59,7 @@ $lang['Clients.!error.is_lang.length'] = "is_lang darf nicht länger als 1 Zeich
 $lang['Clients.!error.show_client.length'] = "Show client darf maximal 1 Zeichen lang sein.";
 $lang['Clients.!error.encrypted.length'] = "Verschlüsselt darf nicht länger als 1 Zeichen sein.";
 $lang['Clients.setDebitAccountFailure.note_title'] = "Automatische Abbuchung für Zahlungskonto deaktiviert.";
-$lang['Clients.setDebitAccountFailure.note_body'] = "
-
-Das %1\$s Zahlungskonto, das auf x%2\$s endet, wurde deaktiviert, da die maximale Anzahl der Ablehnungsversuche überschritten wurde.
-"; // %1$s is the payment account type, %2$s is the last four of the payment account
+$lang['Clients.setDebitAccountFailure.note_body'] = "Das %1\$s Zahlungskonto, das auf x%2\$s endet, wurde deaktiviert, da die maximale Anzahl der Ablehnungsversuche überschritten wurde."; // %1$s is the payment account type, %2$s is the last four of the payment account
 $lang['Clients.!error.receive_email_marketing.valid'] = "Ungültiger E-Mail-Marketing-Wert";
 $lang['Clients.!error.settings[tax_id].valid'] = "Bitte geben Sie eine gültige Steuer-ID/VATIN an.";
 ?>

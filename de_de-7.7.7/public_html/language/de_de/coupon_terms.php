@@ -12,10 +12,7 @@
 $lang['CouponTerms.!error.coupon_id.exists'] = "Der angegebene Gutschein existiert nicht.";
 $lang['CouponTerms.!error.term.format'] = "Bitte geben Sie für jeden Zeitraum einen gültigen Begriff ein.";
 $lang['CouponTerms.!error.period.valid'] = "Bitte geben Sie einen gültigen Zeitraum ein.";
-$lang['CouponTerms.!error.term_id.exists'] = "
-
-Die angegebene Kuponlaufzeit existiert nicht.
-";
+$lang['CouponTerms.!error.term_id.exists'] = "Die angegebene Kuponlaufzeit existiert nicht.";
 $lang['CouponTerms.getperiods.day'] = "Tag";
 $lang['CouponTerms.getperiods.week'] = "Woche";
 $lang['CouponTerms.getperiods.month'] = "Monat";

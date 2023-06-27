@@ -9,8 +9,5 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['SharedLoginPlugin.name'] = "
-
-Shared Login
-";
+$lang['SharedLoginPlugin.name'] = "Shared Login";
 ?>

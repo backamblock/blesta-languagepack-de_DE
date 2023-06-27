@@ -10,10 +10,7 @@
  */
 
 $lang['PayJunction.name'] = "PayJunction";
-$lang['PayJunction.api_key'] = "
-
-API-Schlüssel
-";
+$lang['PayJunction.api_key'] = "API-Schlüssel";
 $lang['PayJunction.user_name'] = "Nutzername";
 $lang['PayJunction.password'] = "Passwort";
 $lang['PayJunction.test_mode'] = "Entwicklermodus";

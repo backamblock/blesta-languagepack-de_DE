@@ -32,10 +32,7 @@ $lang['AdminCompanyGroups.add.field_color'] = "Farbe";
 $lang['AdminCompanyGroups.add.field_description'] = "Beschreibung";
 $lang['AdminCompanyGroups.add.field_delivery_methods'] = "Rechnungszustellungsmethoden";
 $lang['AdminCompanyGroups.add.field_company_settings'] = "Nutze die Einstellungen des Unternehmens (nicht markieren für spezielle Einstellungen)";
-$lang['AdminCompanyGroups.add.text_addsubmit'] = "
-
-Gruppe erstellen
-";
+$lang['AdminCompanyGroups.add.text_addsubmit'] = "Gruppe erstellen";
 $lang['AdminCompanyGroups.edit.boxtitle_editgroup'] = "Gruppe bearbeiten";
 $lang['AdminCompanyGroups.edit.heading_basic'] = "Grundlegende Optionen";
 $lang['AdminCompanyGroups.edit.heading_invoice'] = "Rechnungs- und Gebührenoptionen";

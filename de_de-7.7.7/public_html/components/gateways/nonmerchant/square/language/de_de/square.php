@@ -10,15 +10,9 @@
  */
 
 $lang['Square.name'] = "Square";
-$lang['Square.application_id'] = "
-
-Anwendungs-ID
-";
+$lang['Square.application_id'] = "Anwendungs-ID";
 $lang['Square.access_token'] = "Zugangstoken";
-$lang['Square.location_id'] = "
-
-Standort-ID
-";
+$lang['Square.location_id'] = "Standort-ID";
 $lang['Square.buildprocess.submit'] = "Mit Square zahlen";
 $lang['Square.!error.application_id.valid'] = "Sie müssen eine gültige Anwendungs-ID eingeben.";
 $lang['Square.!error.access_token.valid'] = "Sie müssen ein gültiges Access Token eingeben.";

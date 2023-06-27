@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['CustomReport.name'] = "
-
-Benutzerdefinierter Bericht
-";
+$lang['CustomReport.name'] = "Benutzerdefinierter Bericht";
 $lang['CustomReports.options.field_report'] = "Bericht";
 $lang['CustomReports.options.field_report_select'] = "-- Bitte auswählen --";
 $lang['CustomReport.!error.field'] = "%1\$s ist nicht gültig."; // %1$s is the field label

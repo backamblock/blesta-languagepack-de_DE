@@ -11,10 +11,7 @@
 
 $lang['Config.index.header_configuration'] = "Aufbau";
 $lang['Config.index.header_configure_service'] = "Konfigurieren Sie %1\$s"; // %1$s is the service name to configure
-$lang['Config.index.header_term'] = "
-
-Laufzeit und Preis
-";
+$lang['Config.index.header_term'] = "Laufzeit und Preis";
 $lang['Config.index.header_module'] = "Konfigurierbare Optionen"; // %1$s is the name of the module
 $lang['Config.index.header_addons'] = "Verfügbare Add-Ons";
 $lang['Config.index.continue_btn'] = "Fortsetzen";

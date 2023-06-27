@@ -12,10 +12,7 @@
 $lang['FeedReaderFeeds.!error.url.valid'] = "Die angegebene URL ist ungültig.";
 $lang['FeedReaderFeeds.!error.company_id.exists'] = "Das Unternehmen existiert nicht.";
 $lang['FeedReaderFeeds.!error.updated.valid'] = "Sie müssen ein gültiges Aktualisierungsdatum angeben.";
-$lang['FeedReaderFeeds.!error.feed_id.exists'] = "
-
-Der angegebene Feed existiert nicht.
-";
+$lang['FeedReaderFeeds.!error.feed_id.exists'] = "Der angegebene Feed existiert nicht.";
 $lang['FeedReaderFeeds.!error.staff_id.exists'] = "Der Mitarbeiter existiert nicht.";
 $lang['FeedReaderFeeds.!error.date.valid'] = "Die angegebenen Daten sind ungültig.";
 ?>

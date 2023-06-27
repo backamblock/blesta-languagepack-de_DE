@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['SharedLoginManagePlugin.index.page_title'] = "
-
-Shared Login
-";
+$lang['SharedLoginManagePlugin.index.page_title'] = "Shared Login";
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = "Shared Login";
 $lang['SharedLoginManagePlugin.index.field_key'] = "Gemeinsamer Schlüssel";
 $lang['SharedLoginManagePlugin.index.submit'] = "Speichern";

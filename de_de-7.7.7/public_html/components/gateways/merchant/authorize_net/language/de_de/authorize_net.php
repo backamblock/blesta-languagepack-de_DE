@@ -28,8 +28,5 @@ $lang['Authorize_net.test_mode_note'] = "Die Testmodusfunktion wird nur von AIM 
 $lang['Authorize_net.dev_mode'] = "Entwicklermodus";
 $lang['Authorize_net.dev_mode_note'] = "Durch Aktivieren dieser Option werden Transaktionen in der Authorize.net-Entwicklerumgebung veröffentlicht. Sie müssen über ein Entwicklertestkonto verfügen, um diese Umgebung verwenden zu können.";
 $lang['Authorize_net.!error.dev_mode.valid'] = "Developer mode muss, wenn gesetzt \"true\" sein.";
-$lang['Authorize_net.!error.card_number.missing'] = "
-
-Das Verfallsdatum kann nicht ohne die vollständige Kartennummer aktualisiert werden.
-";
+$lang['Authorize_net.!error.card_number.missing'] = "Das Verfallsdatum kann nicht ohne die vollständige Kartennummer aktualisiert werden.";
 ?>

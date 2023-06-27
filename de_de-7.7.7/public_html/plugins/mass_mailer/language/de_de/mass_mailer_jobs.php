@@ -10,10 +10,7 @@
  */
 
 $lang['MassMailerJobs.!error.company_id.valid'] = "Bitte geben Sie eine Firmen ID an.";
-$lang['MassMailerJobs.!error.status.format'] = "
-
-Bitte wählen Sie einen gültigen Status aus.
-";
+$lang['MassMailerJobs.!error.status.format'] = "Bitte wählen Sie einen gültigen Status aus.";
 $lang['MassMailerJobs.!error.task_count.format'] = "Die Anzahl der Aufgaben muss eine positive Ganzzahl sein.";
 $lang['MassMailerJobs.!error.data.empty'] = "Bitte fügen Sie zusätzliche Jobinformationen hinzu.";
 $lang['MassMailerJobs.!error.date_added.format'] = "Bitte geben Sie ein Datum ein.";

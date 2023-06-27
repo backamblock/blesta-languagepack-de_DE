@@ -16,10 +16,7 @@ $lang['Gocardless.pay_type'] = "Zahlungsmöglichkeiten";
 $lang['Gocardless.pay_type_onetime'] = "Nur einmalige Zahlungen";
 $lang['Gocardless.pay_type_subscribe'] = "Nur Abonnementzahlungen";
 $lang['Gocardless.pay_type_both'] = "Einmalige und Abo-Zahlungen, wenn möglich";
-$lang['Gocardless.dev_mode'] = "
-
-Entwicklermodus
-";
+$lang['Gocardless.dev_mode'] = "Entwicklermodus";
 $lang['Gocardless.dev_mode_note'] = "Durch Aktivieren dieser Option werden Transaktionen in der GoCardless-Sandbox-Umgebung gebucht. Aktivieren Sie diese Option nur, wenn Sie mit einem GoCardless Sandbox-Konto testen.";
 $lang['Gocardless.buildprocess.submit'] = "Mit GoCardless zahlen";
 $lang['Gocardless.buildprocess.subscription'] = "Abonnieren mit GoCardless";

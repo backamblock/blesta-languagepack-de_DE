@@ -16,14 +16,8 @@ $lang['DefaultInvoice.type_active'] = "RECHNUNG";
 $lang['DefaultInvoice.type_draft'] = "RECHNUNG - ENTWURF";
 $lang['DefaultInvoice.type_void'] = "RECHNUNG - NICHTIG";
 $lang['DefaultInvoice.invoice_id_code'] = "Rechnungsnummer:";
-$lang['DefaultInvoice.client_id_code'] = "
-
-Kundennummer:
-";
-$lang['DefaultInvoice.tax_id'] = "
-
-Steuernummer / VATIN:
-";
+$lang['DefaultInvoice.client_id_code'] = "Kundennummer:";
+$lang['DefaultInvoice.tax_id'] = "Steuernummer / VATIN:";
 $lang['DefaultInvoice.date_billed'] = "Rechnungsdatum:";
 $lang['DefaultInvoice.date_due'] = "Geburtstermin:";
 $lang['DefaultInvoice.notes_heading'] = "Notizen";
@@ -35,10 +29,7 @@ $lang['DefaultInvoice.lines_unit_price'] = "Stückpreis";
 $lang['DefaultInvoice.lines_cost'] = "Kosten";
 $lang['DefaultInvoice.watermark_paid'] = "BEZAHLT";
 $lang['DefaultInvoice.client_tax_id'] = "Kunden MwSt. Nr. / UST-IdNr.";
-$lang['DefaultInvoice.type_proforma'] = "
-
-PROFORMA-RECHNUNG
-";
+$lang['DefaultInvoice.type_proforma'] = "PROFORMA-RECHNUNG";
 $lang['DefaultInvoice.payments_heading'] = "Zahlungen";
 $lang['DefaultInvoice.payments_applied_date'] = "Antragsdatum";
 $lang['DefaultInvoice.payments_type_name'] = "Art";

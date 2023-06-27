@@ -22,9 +22,6 @@ $lang['ReportManager.reportfieldtypes.select'] = "Wählen";
 $lang['ReportManager.reportfieldtypes.date'] = "Datum";
 $lang['ReportManager.reportrequiredtypes.no'] = "Nein";
 $lang['ReportManager.reportrequiredtypes.yes'] = "Ja";
-$lang['ReportManager.reportrequiredtypes.custom'] = "
-
-Custom Regex
-";
+$lang['ReportManager.reportrequiredtypes.custom'] = "Custom Regex";
 $lang['ReportManager.getformats.json'] = "JSON";
 ?>

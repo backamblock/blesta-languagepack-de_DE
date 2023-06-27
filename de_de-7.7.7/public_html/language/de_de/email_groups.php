@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['EmailGroups.!error.action.empty'] = "
-
-Bitte geben Sie eine Aktion ein.
-";
+$lang['EmailGroups.!error.action.empty'] = "Bitte geben Sie eine Aktion ein.";
 $lang['EmailGroups.!error.action.length'] = "Die Aktionslänge darf 64 Zeichen nicht überschreiten.";
 $lang['EmailGroups.!error.action.unique'] = "Eine Aktion mit diesem Name existiert bereits.";
 $lang['EmailGroups.!error.type.format'] = "Ungültiger Typ.";

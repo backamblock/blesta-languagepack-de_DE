@@ -20,17 +20,11 @@ $lang['DirectAdmin.!error.name_servers.count'] = "Sie müssen mindestens 2 Names
 $lang['DirectAdmin.!error.api.internal'] = "Ein interner Fehler ist aufgetreten oder der Server hat auf die Anfrage nicht geantwortet.";
 $lang['DirectAdmin.!error.meta[type].format'] = "Der Kontotyp muss entweder ein Benutzer oder ein Reseller sein.";
 $lang['DirectAdmin.!error.meta[package].empty'] = "Ein DirectAdmin Paket ist erforderlich.";
-$lang['DirectAdmin.!error.meta[ip].empty'] = "
-
-Eine IP-Adresse ist erforderlich.
-";
+$lang['DirectAdmin.!error.meta[ip].empty'] = "Eine IP-Adresse ist erforderlich.";
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = "Bitte geben Sie einen gültigen Domain-Namen des Formulars ein: domain.com";
 $lang['DirectAdmin.!error.direct_admin_username.format'] = "Der Benutzername darf nur alphanumerische Zeichen enthalten.";
 $lang['DirectAdmin.!error.direct_admin_username.length'] = "Der Benutzername muss zwischen 4 und 8 Zeichen lang sein.";
-$lang['DirectAdmin.!error.direct_admin_email.format'] = "
-
-Bitte geben Sie eine gültige E-Mail-Adresse ein.
-";
+$lang['DirectAdmin.!error.direct_admin_email.format'] = "Bitte geben Sie eine gültige E-Mail-Adresse ein.";
 $lang['DirectAdmin.!error.change_package.type'] = "Das Modul unterstützt keinen Wechsel zwischen Benutzer- und Resellerpaketen.";
 $lang['DirectAdmin.name'] = "DirectAdmin";
 $lang['DirectAdmin.module_row'] = "Server";
@@ -55,14 +49,8 @@ $lang['DirectAdmin.package_fields.package'] = "DirectAdmin Paket";
 $lang['DirectAdmin.package_fields.ip'] = "IP-Adresse";
 $lang['DirectAdmin.package_fields.ip_shared'] = "geteilt";
 $lang['DirectAdmin.package_fields.ip_assign'] = "Zuweisen";
-$lang['DirectAdmin.add_module_row'] = "
-
-Server hinzufügen
-";
-$lang['DirectAdmin.add_module_group'] = "
-
-Servergruppe hinzufügen
-";
+$lang['DirectAdmin.add_module_row'] = "Server hinzufügen";
+$lang['DirectAdmin.add_module_group'] = "Servergruppe hinzufügen";
 $lang['DirectAdmin.manage.module_rows_title'] = "Server";
 $lang['DirectAdmin.manage.module_groups_title'] = "Servergruppen";
 $lang['DirectAdmin.manage.module_rows_heading.name'] = "Serverkennzeichnung";
@@ -103,25 +91,16 @@ $lang['DirectAdmin.edit_row.name_server_col'] = "Nameserver";
 $lang['DirectAdmin.edit_row.name_server_host_col'] = "Hostname";
 $lang['DirectAdmin.edit_row.remove_name_server'] = "Entfernen";
 $lang['DirectAdmin.edit_row.notes_title'] = "Notizen";
-$lang['DirectAdmin.edit_row.add_btn'] = "
-
-Server bearbeiten
-";
+$lang['DirectAdmin.edit_row.add_btn'] = "Server bearbeiten";
 $lang['DirectAdmin.tab_client_stats'] = "Statistiken";
 $lang['DirectAdmin.tab_client_stats.info_title'] = "Informationen";
 $lang['DirectAdmin.tab_client_stats.info_heading.field'] = "Feld";
 $lang['DirectAdmin.tab_client_stats.info_heading.value'] = "Wert";
 $lang['DirectAdmin.tab_client_stats.no_results'] = "Statistische Informationen sind aktuell nicht verfügbar.";
 $lang['DirectAdmin.order_options.roundrobin'] = "Gleichmäßig unter den Servern verteilen";
-$lang['DirectAdmin.!error.direct_admin_password.matches'] = "
-
-Passwort und Passwortbestätigung stimmen nicht überein.
-";
+$lang['DirectAdmin.!error.direct_admin_password.matches'] = "Passwort und Passwortbestätigung stimmen nicht überein.";
 $lang['DirectAdmin.tab_client_actions'] = "Aktionen";
-$lang['DirectAdmin.order_options.first'] = "
-
-Erster nicht voller Server
-";
+$lang['DirectAdmin.order_options.first'] = "Erster nicht voller Server";
 $lang['DirectAdmin.tab_client_actions.change_password'] = "Passwort ändern";
 $lang['DirectAdmin.tab_client_actions.field_direct_admin_password'] = "Passwort";
 $lang['DirectAdmin.tab_client_actions.field_direct_admin_confirm_password'] = "Passwort bestätigen";

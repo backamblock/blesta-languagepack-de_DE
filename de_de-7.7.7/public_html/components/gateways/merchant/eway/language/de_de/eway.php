@@ -14,10 +14,7 @@ $lang['Eway.!error.customer_id.length'] = "Die Kunden ID darf nicht länger als 
 $lang['Eway.!error.developer_mode.valid'] = "Der Entwicklermodus muss auf \"true\" gesetzt sein, falls angegeben.";
 $lang['Eway.!error.test_mode.valid'] = "Testmodus muss \"true\" sein. ";
 $lang['Eway.!error.refund_password.empty'] = "Um Erstattungen über eWAY abzuwickeln, muss ein Erstattungskennwort festgelegt werden.";
-$lang['Eway.!error.libxml_required'] = "
-
-Die Erweiterungen libxml und simplexml sind für dieses Gateway erforderlich.
-";
+$lang['Eway.!error.libxml_required'] = "Die Erweiterungen libxml und simplexml sind für dieses Gateway erforderlich.";
 $lang['Eway.!error.invalid_xml'] = "Der eway Gateway hat mit einer ungültigen XML geantwortet.";
 $lang['Eway.name'] = "E-WEG";
 $lang['Eway.customer_id'] = "Kundennummer";

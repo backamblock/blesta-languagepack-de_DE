@@ -13,10 +13,7 @@ $lang['ClientDialog.confirm.text_yes'] = "Ja";
 $lang['ClientDialog.confirm.text_no'] = "Nein";
 $lang['ClientDialog.password.title'] = "Passwort generieren";
 $lang['ClientDialog.password.field_modal_password'] = "Passwort";
-$lang['ClientDialog.password.field_modal_password_copied'] = "
-
-Ich habe dieses Passwort an einen sicheren Ort kopiert
-";
+$lang['ClientDialog.password.field_modal_password_copied'] = "Ich habe dieses Passwort an einen sicheren Ort kopiert";
 $lang['ClientDialog.password.btn_generate'] = "Generieren";
 $lang['ClientDialog.password.btn_cancel'] = "Stornieren";
 $lang['ClientDialog.password.btn_use_password'] = "Benutze Passwort";

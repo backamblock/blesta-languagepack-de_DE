@@ -19,10 +19,7 @@ $lang['AdminSettings.company.heading_emails'] = "E-Mails";
 $lang['AdminSettings.company.text_emails'] = "Konfigurieren Sie E-Mail-Einstellungen, bearbeiten Sie E-Mail-Vorlagen und erstellen und verwalten Sie E-Mail-Signaturen.";
 $lang['AdminSettings.company.heading_currencies'] = "Währungen";
 $lang['AdminSettings.company.heading_clientgroups'] = "Kundengruppen";
-$lang['AdminSettings.company.text_clientgroups'] = "
-
-Alle Kunden gehören zu einer Gruppe, die bestimmt, wann dieser Kunde abgerechnet wird, in Rechnung gestellt wird und mehr. Erstellen und Verwalten von Clientgruppen und -einstellungen.
-";
+$lang['AdminSettings.company.text_clientgroups'] = "Alle Kunden gehören zu einer Gruppe, die bestimmt, wann dieser Kunde abgerechnet wird, in Rechnung gestellt wird und mehr. Erstellen und Verwalten von Clientgruppen und -einstellungen.";
 $lang['AdminSettings.company.heading_automation'] = "Automatisierung";
 $lang['AdminSettings.company.text_automation'] = "Zugriff und Steuerung automatisierter Aufgaben in Blesta.";
 $lang['AdminSettings.company.heading_modules'] = "Module";
@@ -52,29 +49,14 @@ $lang['AdminSettings.system.text_staff'] = "Erstellen oder Ändern von Mitarbeit
 $lang['AdminSettings.system.heading_upgrade'] = "Upgrade-Optionen";
 $lang['AdminSettings.system.text_upgrade'] = "Zeige Upgrade Informationen und Downloads.";
 $lang['AdminSettings.system.heading_help'] = "Hilfe";
-$lang['AdminSettings.system.text_help'] = "
-
-Zeigen Sie Hilfe-Ressourcen für Ihre Installation von Blesta an.
-";
+$lang['AdminSettings.system.text_help'] = "Zeigen Sie Hilfe-Ressourcen für Ihre Installation von Blesta an.";
 $lang['AdminSettings.company.page_title'] = "Einstellungen";
 $lang['AdminSettings.system.page_title'] = "Einstellungen";
-$lang['AdminSettings.company.text_currencies'] = "
-
-Aktualisieren und fügen Sie Währungen hinzu, legen Sie die Standardwährung fest, konfigurieren Sie mehrere Währungen und konfigurieren Sie Wechselkurse.
-";
+$lang['AdminSettings.company.text_currencies'] = "Aktualisieren und fügen Sie Währungen hinzu, legen Sie die Standardwährung fest, konfigurieren Sie mehrere Währungen und konfigurieren Sie Wechselkurse.";
 $lang['AdminSettings.system.text_backup'] = "Konfigurieren Sie automatische Sicherungen mit SFTP oder Amazon S3 oder laden Sie eine Sicherung auf Ihren lokalen Computer herunter.";
-$lang['AdminSettings.company.heading_lookandfeel'] = "
-
-Schau und fühle
-";
+$lang['AdminSettings.company.heading_lookandfeel'] = "Schau und fühle";
 $lang['AdminSettings.company.text_lookandfeel'] = "Passen Sie das Erscheinungsbild von Blesta an, indem Sie Farbthemen verwalten oder die Kunden-Schnittstellenvorlage aktualisieren.";
-$lang['AdminSettings.company.text_general'] = "
-
-Konfigurieren Sie Lokalisierung, Internationalisierungsoptionen und Clientkontakttypen.
-";
-$lang['AdminSettings.company.heading_clientoptions'] = "
-
-Kunden-Optionen
-";
+$lang['AdminSettings.company.text_general'] = "Konfigurieren Sie Lokalisierung, Internationalisierungsoptionen und Clientkontakttypen.";
+$lang['AdminSettings.company.heading_clientoptions'] = "Kunden-Optionen";
 $lang['AdminSettings.company.text_clientoptions'] = "Erstellen und verwalten Sie benutzerdefinierte Kundenfelder und wählen Sie die erforderlichen Kundenfelder aus.";
 ?>

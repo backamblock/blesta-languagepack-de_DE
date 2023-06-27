@@ -14,27 +14,15 @@ $lang['Maxmind.!error.review.review_score'] = "Ihre Bestellung muss manuell übe
 $lang['Maxmind.!error.reject.free_email'] = "Bestellungen mit kostenlosen E-Mail-Konten werden nicht akzeptiert.";
 $lang['Maxmind.!error.review.free_email'] = "Bestellungen mit kostenlosen E-Mail-Konten werden überprüft.";
 $lang['Maxmind.!error.reject.country_mismatch'] = "Aufträge mit nicht übereinstimmenden Ländern werden nicht angenommen.";
-$lang['Maxmind.!error.review.country_mismatch'] = "
-
-Aufträge mit nicht übereinstimmenden Ländern werden geprüft.
-";
-$lang['Maxmind.!error.reject.risky_country'] = "
-
-Bestellungen aus riskanten Ländern werden nicht angenommen.
-";
+$lang['Maxmind.!error.review.country_mismatch'] = "Aufträge mit nicht übereinstimmenden Ländern werden geprüft.";
+$lang['Maxmind.!error.reject.risky_country'] = "Bestellungen aus riskanten Ländern werden nicht angenommen.";
 $lang['Maxmind.!error.review.risky_country'] = "Aufträge aus riskanten Ländern werden überprüft.";
-$lang['Maxmind.!error.reject.anon_proxy'] = "
-
-Bestellungen von anonymen Stimmrechtsvertretern werden nicht angenommen.
-";
+$lang['Maxmind.!error.reject.anon_proxy'] = "Bestellungen von anonymen Stimmrechtsvertretern werden nicht angenommen.";
 $lang['Maxmind.!error.review.anon_proxy'] = "Bestellungen von anonymen Proxies werden überprüft.";
 $lang['Maxmind.settings.field_server'] = "Server";
 $lang['Maxmind.settings.field_key'] = "Lizenzschlüssel";
 $lang['Maxmind.settings.field_reject_score'] = "Mindestpunktzahl zum Ablehnen";
-$lang['Maxmind.settings.field_review_score'] = "
-
-Mindestpunktzahl zur Überprüfung
-";
+$lang['Maxmind.settings.field_review_score'] = "Mindestpunktzahl zur Überprüfung";
 $lang['Maxmind.settings.field_free_email'] = "Kostenlose E-Mail";
 $lang['Maxmind.settings.field_country_mismatch'] = "Land Mismatch";
 $lang['Maxmind.settings.field_risky_country'] = "Riskantes Land";

@@ -155,10 +155,7 @@ $lang['AdminCompanyBilling.!tooltip.autodebit'] = "Aktiviere automatische Abbuch
 $lang['AdminCompanyBilling.!tooltip.client_set_invoice'] = "Wähle aus um den Kunden die Möglichkeit zu wählen welche Rechnungmethode gwünscht wird (z.B. Papier oder E-Mail)";
 $lang['AdminCompanyBilling.!tooltip.inv_suspended_services'] = "Setzen Sie das Häkchen, um ausgesetzte Dienste weiterhin in Rechnung zu stellen.";
 $lang['AdminCompanyBilling.!tooltip.inv_group_services'] = "Erstellt eine einzige Rechnung für Services, die am selben Tag für einen Kunden verlängert werden. Wenn Sie das Kontrollkästchen deaktivieren, wird für jede Dienstleistung eine separate Rechnung erstellt";
-$lang['AdminCompanyBilling.!tooltip.clients_cancel_services'] = "
-
-Aktivieren Sie diese Option, damit Clients ihre eigenen Dienste kündigen können.
-";
+$lang['AdminCompanyBilling.!tooltip.clients_cancel_services'] = "Aktivieren Sie diese Option, damit Clients ihre eigenen Dienste kündigen können.";
 $lang['AdminCompanyBilling.!tooltip.synchronize_addons'] = "Wenn diese Option aktiviert ist, werden neu erstellte Zusatzdienste, die mit den monatlichen oder jährlichen Laufzeiten des Hauptproduktes übereinstimmen, anteilig auf das Verlängerungsdatum des Hauptproduktes angerechnet.";
 $lang['AdminCompanyBilling.!tooltip.client_create_addons'] = "Markiere, um Kunden das Bestellen von Erweiterungen (Add-ons) für alle ihrer Services, die es unterstützen, zu erlauben.";
 $lang['AdminCompanyBilling.!tooltip.client_change_service_term'] = "Markiere, um Kunden das Wechseln der Preisstellung (nicht Periode!) zu ermöglichen.";
@@ -170,44 +167,25 @@ $lang['AdminCompanyBilling.!tooltip.void_invoice_canceled_service'] = "Wenn dies
 $lang['AdminCompanyBilling.!tooltip.void_inv_canceled_service_days'] = "Wenn die mit einer stornierten Leistung verbundene Rechnung überfällig ist, wird sie nur dann storniert, wenn sie nicht mehr als die ausgewählte Anzahl von Tagen überfällig ist.";
 $lang['AdminCompanyBilling.!tooltip.show_client_tax_id'] = "Aktivieren Sie dieses Kontrollkästchen, um das Feld Steuer-ID in der Kundenschnittstelle anzuzeigen.";
 $lang['AdminCompanyBilling.!tooltip.process_paid_service_changes'] = "Wenn diese Option aktiviert ist, werden Dienständerungen (d. h. Upgrades/Downgrades) in eine Warteschlange gestellt und erst nach ihrer Bezahlung bereitgestellt. Andernfalls werden sie sofort bereitgestellt.";
-$lang['AdminCompanyBilling.!tooltip.first_notice'] = "
-
-Die Anzahl der Tage vor oder nach dem Versenden der ersten E-Mail mit verspäteter Benachrichtigung.
-";
+$lang['AdminCompanyBilling.!tooltip.first_notice'] = "Die Anzahl der Tage vor oder nach dem Versenden der ersten E-Mail mit verspäteter Benachrichtigung.";
 $lang['AdminCompanyBilling.!tooltip.second_notice'] = "Die Anzahl der Tage vor oder nach der Fälligkeit einer Rechnung, um die zweite Verspätungsmitteilung per E-Mail zu versenden.";
 $lang['AdminCompanyBilling.!tooltip.third_notice'] = "Die Anzahl der Tage vor oder nach der Fälligkeit einer Rechnung, um die dritte Verspätungsmitteilung per E-Mail zu versenden.";
 $lang['AdminCompanyBilling.!tooltip.notice_pending_autodebit'] = "Die Anzahl der Tage, bevor ein Konto automatisch belastet wird, um die Benachrichtigung über ausstehende automatische Abbuchungen per E-Mail zu versenden.";
 $lang['AdminCompanyBilling.!tooltip.inv_type'] = "Die Art der Rechnung, die standardmäßig erstellt wird. Proforma-Rechnungen werden zu Standard-Rechnungen, nachdem sie bezahlt und geschlossen wurden.";
 $lang['AdminCompanyBilling.!tooltip.inv_format'] = "Zu den verfügbaren Tags gehören: {num} – die Rechnungsnummer (erforderlich); {year} - das vierstellige Jahr; {month} - der zweistellige Monat; {day} – der zweistellige Tag des Monats.";
 $lang['AdminCompanyBilling.!tooltip.inv_draft_format'] = "Zu den verfügbaren Tags gehören: {num} – die Rechnungsnummer (erforderlich); {year} - das vierstellige Jahr; {month} - der zweistellige Monat; {day} – der zweistellige Tag des Monats.";
-$lang['AdminCompanyBilling.!tooltip.inv_proforma_format'] = "
-
-Zu den verfügbaren Tags gehören: {num} – die Rechnungsnummer (erforderlich); {year} - das vierstellige Jahr; {Monat} - der zweistellige Monat; {day} – der zweistellige Tag des Monats.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_proforma_format'] = "Zu den verfügbaren Tags gehören: {num} – die Rechnungsnummer (erforderlich); {year} - das vierstellige Jahr; {Monat} - der zweistellige Monat; {day} – der zweistellige Tag des Monats.";
 $lang['AdminCompanyBilling.!tooltip.inv_start'] = "Die Rechnungsnummern beginnen (und erhöhen sich) mit diesem Startwert.";
-$lang['AdminCompanyBilling.!tooltip.inv_proforma_start'] = "
-
-Rechnungsnummern beginnen (und erhöhen) ab diesem Startwert.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_proforma_start'] = "Rechnungsnummern beginnen (und erhöhen) ab diesem Startwert.";
 $lang['AdminCompanyBilling.!tooltip.inv_increment'] = "Nachfolgende Rechnungsnummern werden um diesen Wert erhöht.";
-$lang['AdminCompanyBilling.!tooltip.inv_pad_size'] = "
-
-Die Rechnungsauffüllgröße legt die Mindestzeichenlänge von Rechnungsnummern fest.
-";
-$lang['AdminCompanyBilling.!tooltip.inv_pad_str'] = "
-
-Invoice numbers whose character length is fewer than the invoice padding size will be padded to the left by the given character.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_pad_size'] = "Die Rechnungsauffüllgröße legt die Mindestzeichenlänge von Rechnungsnummern fest.";
+$lang['AdminCompanyBilling.!tooltip.inv_pad_str'] = "Invoice numbers whose character length is fewer than the invoice padding size will be padded to the left by the given character.";
 $lang['AdminCompanyBilling.!tooltip.inv_logo'] = "Laden Sie das Logo hoch, das auf der Rechnung erscheinen soll.";
 $lang['AdminCompanyBilling.!tooltip.inv_background'] = "Lade den Hintergrund für die Rechnungen hoch.";
-$lang['AdminCompanyBilling.!tooltip.inv_paper_size'] = "
-
-Das Papierformat der Rechnung.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_paper_size'] = "Das Papierformat der Rechnung.";
 $lang['AdminCompanyBilling.!tooltip.inv_template'] = "Die Rechnungsvorlage, die zum Rendern der Rechnung verwendet werden soll.";
 $lang['AdminCompanyBilling.!tooltip.inv_mimetype'] = "Der Rechnungsdateityp. Rechnungsvorlagen können verschiedene Dateitypen unterstützen.";
-$lang['AdminCompanyBilling.!tooltip.inv_font'] = "Für zusätzliche Schriftarten entpacken Sie Ihre benutzerdefinierten TCPDF-Schriftarten in das Verzeichnis /vendors/tecnickcom/tcpdf/fonts/ in Ihrer Installation.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_font'] = "Für zusätzliche Schriftarten entpacken Sie Ihre benutzerdefinierten TCPDF-Schriftarten in das Verzeichnis /vendors/tecnickcom/tcpdf/fonts/ in Ihrer Installation.";
 $lang['AdminCompanyBilling.!tooltip.inv_terms'] = "Geben Sie die Zahlungsbedingungen oder andere Informationen ein, die auf der Rechnung erscheinen sollen.";
 $lang['AdminCompanyBilling.invoices.field.autodebit_attempts'] = "Automatische Abbuchungsversuche";
 $lang['AdminCompanyBilling.invoices.field.client_set_invoice'] = "Ermöglichen Sie dem Kunden, die Rechnungsmethode festzulegen";
@@ -246,24 +224,12 @@ $lang['AdminCompanyBilling.customization.field.inv_font'] = "Schriftart-Familie"
 $lang['AdminCompanyBilling.customization.field.customizationsubmit'] = "Einstellungen aktualisieren";
 $lang['AdminCompanyBilling.!tooltip.inv_lines_verbose_option_dates'] = "Aktivieren Sie das Kontrollkästchen, um den Servicedatumsbereich für jeden konfigurierbaren Optionsrechnungsposten einzubeziehen.";
 $lang['AdminCompanyBilling.!tooltip.send_cancellation_notice'] = "Mit dieser Option können Sie festlegen, ob Kunden Benachrichtigungen über die Stornierung von Diensten zugesandt werden können.";
-$lang['AdminCompanyBilling.!success.notices_updated'] = "
-
-Die Hinweise wurden erfolgreich aktualisiert!
-";
+$lang['AdminCompanyBilling.!success.notices_updated'] = "Die Hinweise wurden erfolgreich aktualisiert!";
 $lang['AdminCompanyBilling.notices.page_title'] = "Einstellungen > Unternehmen > Abrechnung/Zahlung > Mitteilungen";
-$lang['AdminCompanyBilling.!success.latefees_updated'] = "
-
-Die Einstellungen für verspätete Gebühren wurden erfolgreich aktualisiert!
-";
-$lang['AdminCompanyBilling.!error.amount.format'] = "
-
-Der Gebührenbetrag muss eine Zahl sein.
-";
+$lang['AdminCompanyBilling.!success.latefees_updated'] = "Die Einstellungen für verspätete Gebühren wurden erfolgreich aktualisiert!";
+$lang['AdminCompanyBilling.!error.amount.format'] = "Der Gebührenbetrag muss eine Zahl sein.";
 $lang['AdminCompanyBilling.!error.minimum.format'] = "Der Mindestbetrag der Gebühr muss eine Zahl sein.";
-$lang['AdminCompanyBilling.!tooltip.apply_inv_late_fees'] = "
-
-Wenden Sie eine Verzugsgebühr an, um Rechnungen eine konfigurierte Anzahl von Tagen nach Fälligkeit zu öffnen.
-";
+$lang['AdminCompanyBilling.!tooltip.apply_inv_late_fees'] = "Wenden Sie eine Verzugsgebühr an, um Rechnungen eine konfigurierte Anzahl von Tagen nach Fälligkeit zu öffnen.";
 $lang['AdminCompanyBilling.!tooltip.late_fee_total_amount'] = "Wenn die Gebührenart prozentual ist, markieren Sie dies, um die Gebühr auf der Grundlage des Gesamtbetrags der Rechnung zu berechnen. Ist dies nicht markiert, wird die Gebühr nur auf der Grundlage des unbezahlten Betrags berechnet.";
 $lang['AdminCompanyBilling.invoices.field.apply_inv_late_fees'] = "Säumniszuschlag auf offene Rechnungen nach der Fälligkeit anwenden";
 $lang['AdminCompanyBilling.latefees.text_currency'] = "Währung";
@@ -282,14 +248,8 @@ $lang['AdminCompanyBilling.!tooltip.inv_cache_compress'] = "Komprimieren Sie die
 $lang['AdminCompanyBilling.customization.heading_cache'] = "Zwischenspeicher";
 $lang['AdminCompanyBilling.customization.field.inv_cache'] = "Cache-Methode für Rechnungen";
 $lang['AdminCompanyBilling.customization.field.inv_cache_compress'] = "PDF-Rechnungen komprimieren";
-$lang['AdminCompanyBilling.!tooltip.clients_renew_services'] = "
-
-Aktivieren Sie diese Option, damit Kunden ihre eigenen Dienste im Voraus erneuern können.
-";
+$lang['AdminCompanyBilling.!tooltip.clients_renew_services'] = "Aktivieren Sie diese Option, damit Kunden ihre eigenen Dienste im Voraus erneuern können.";
 $lang['AdminCompanyBilling.invoices.field.clients_renew_services'] = "Kunden die Möglichkeit geben, Dienste manuell zu erneuern";
-$lang['AdminCompanyBilling.!tooltip.inv_append_descriptions'] = "
-
-Aktivieren Sie diese Option, um die Textversion der Paketbeschreibungen an Servicepositionen anzuhängen.
-";
+$lang['AdminCompanyBilling.!tooltip.inv_append_descriptions'] = "Aktivieren Sie diese Option, um die Textversion der Paketbeschreibungen an Servicepositionen anzuhängen.";
 $lang['AdminCompanyBilling.invoices.field.inv_append_descriptions'] = "Paketbeschreibungen auf Rechnungen einfügen";
 ?>

@@ -11,15 +11,9 @@
 
 $lang['Currencies.!error.code.length'] = "Der Währungscode muss 3 alphabetische Zeichen lang sein (definiert nach ISO 4217).";
 $lang['Currencies.!error.code.exists'] = "Eine Währung mit dem Code %1\$s und der Unternehmens-ID %2\$s ist bereits vergeben."; // %1$s is the currency code, %2$s is the company ID number
-$lang['Currencies.!error.company_id.exists'] = "
-
-Ungültige Firmen-ID
-";
+$lang['Currencies.!error.company_id.exists'] = "Ungültige Firmen-ID";
 $lang['Currencies.!error.format.format'] = "Ungültiges Währungsformat";
-$lang['Currencies.!error.prefix.length'] = "
-
-Das Währungspräfix darf nicht länger als 10 Zeichen sein.
-";
+$lang['Currencies.!error.prefix.length'] = "Das Währungspräfix darf nicht länger als 10 Zeichen sein.";
 $lang['Currencies.!error.suffix.length'] = "Das Währungs-Suffix darf eine Länge von 10 Zeichen nicht überschreiten.";
 $lang['Currencies.!error.exchange_rate.format'] = "Der Wechselkurs muss eine Zahl sein.";
 $lang['Currencies.!error.exchange_updated.format'] = "Das aktualisierte Datum des Austauschs hat ein ungültiges Datumsformat.";

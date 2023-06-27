@@ -11,19 +11,13 @@
 
 $lang['AdminSystemBackup.!success.backup_updated'] = "Die Sicherungseinstellungen wurden erfolgreich aktualisiert!";
 $lang['AdminSystemBackup.!success.sftp_test'] = "SFTP-Verbindung war erfolgreich!";
-$lang['AdminSystemBackup.!success.amazons3_test'] = "
-
-Die AmazonS3-Verbindung war erfolgreich!
-";
+$lang['AdminSystemBackup.!success.amazons3_test'] = "Die AmazonS3-Verbindung war erfolgreich!";
 $lang['AdminSystemBackup.!success.backup_uploaded'] = "Die Datensicherung wurde erfolgreich an den konfigurierten Remote-Dienst übertragen!";
 $lang['AdminSystemBackup.!error.sftp_test'] = "Die SFTP Verbindung schlug fehl. Bitte überprüfen Sie Ihre Einstellungen und versuchen Sie es erneut.";
 $lang['AdminSystemBackup.!error.amazons3_test'] = "Die AmazonS3 Verbindung fehlgeschlagen! Bitte überprüfen Sie die Einstellungen und versuchen Sie es erneut. Beachten Sie, dass die Verbindungsdetails Case-Sensitive sind.";
 $lang['AdminSystemBackup.ftp.boxtitle_backup'] = "Sicheres FTP";
 $lang['AdminSystemBackup.index.field_uploadbackup'] = "Offsite Backup erzwingen";
-$lang['AdminSystemBackup.!error.backup_frequency'] = "
-
-Ungültige Sicherungshäufigkeit
-";
+$lang['AdminSystemBackup.!error.backup_frequency'] = "Ungültige Sicherungshäufigkeit";
 $lang['AdminSystemBackup.ftp.page_title'] = "Einstellungen > System > Backup > Sicheres FTP";
 $lang['AdminSystemBackup.amazon.page_title'] = "Einstellungen -> System -> Backup -> Amazon S3";
 $lang['AdminSystemBackup.amazon.boxtitle_backup'] = "Amazon S3";

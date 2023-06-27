@@ -118,8 +118,7 @@ $lang['AdminCompanyEmails.templates.payment_nonmerchant_approved_desc'] = "Benac
 $lang['AdminCompanyEmails.!tooltip.html_email'] = "Aktivieren Sie dieses Kontrollkästchen, um die Zustellung von E-Mails mit HTML-Inhalt zuzulassen. Es wird immer eine Klartext-Version der E-Mails gesendet.";
 $lang['AdminCompanyEmails.!tooltip.smtp_user'] = "Setze das SMTP Benutzerkonto fest über das die E-Mails versendet werden";
 $lang['AdminCompanyEmails.edittemplate.field.from'] = "Von E-Mail";
-$lang['AdminCompanyEmails.edittemplate.field.subject'] = "Hello. And Bye. 
-https://webtest345687534xvhfd3333.xer";
+$lang['AdminCompanyEmails.edittemplate.field.subject'] = "Hello. And Bye. https://webtest345687534xvhfd3333.xer";
 $lang['AdminCompanyEmails.edittemplate.field.edittemplatesubmit'] = "Template aktualisieren";
 $lang['AdminCompanyEmails.mail.field.mail_delivery'] = "Methode der Zustellung";
 $lang['AdminCompanyEmails.mail.field.smtp_security'] = "SMTP-Sicherheit";

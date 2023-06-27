@@ -20,10 +20,7 @@ $lang['Navigation.getprimary.nav_billing_reports'] = "Berichte";
 $lang['Navigation.getprimary.nav_packages'] = "Pakete";
 $lang['Navigation.getprimary.nav_tools'] = "Tools";
 $lang['Navigation.getprimary.nav_tools_logs'] = "Logs";
-$lang['Navigation.getprimary.nav_tools_currency'] = "
-
-Geld umtauschen
-";
+$lang['Navigation.getprimary.nav_tools_currency'] = "Geld umtauschen";
 $lang['Navigation.getprimary.nav_settings_company'] = "Unternehmen";
 $lang['Navigation.getprimary.nav_settings_system'] = "System";
 $lang['Navigation.getcompany.nav_general'] = "Allgemein";
@@ -41,10 +38,7 @@ $lang['Navigation.getcompany.nav_billing_acceptedtypes'] = "Akzeptierte Zahlungs
 $lang['Navigation.getcompany.nav_modules'] = "Module";
 $lang['Navigation.getcompany.nav_gateways'] = "Zahlungs-Gateways";
 $lang['Navigation.getcompany.nav_taxes'] = "Steuern";
-$lang['Navigation.getcompany.nav_taxes_basictax'] = "
-
-Grundlegende Steuereinstellungen
-";
+$lang['Navigation.getcompany.nav_taxes_basictax'] = "Grundlegende Steuereinstellungen";
 $lang['Navigation.getcompany.nav_taxes_taxrules'] = "Steuerregeln";
 $lang['Navigation.getcompany.nav_emails'] = "E-Mails";
 $lang['Navigation.getcompany.nav_emails_mail'] = "Mail Einstellungen";
@@ -90,10 +84,7 @@ $lang['Navigation.getsearchoptions.transactions'] = "Transaktionssuche";
 $lang['Navigation.getsearchoptions.services'] = "Suche";
 $lang['Navigation.getsearchoptions.packages'] = "Paketsuche";
 $lang['Navigation.getprimaryclient.nav_paymentaccounts_add'] = "Zahlungskonto hinzufügen";
-$lang['Navigation.getprimaryclient.nav_contacts_add'] = "
-
-Kontakt hinzufügen
-";
+$lang['Navigation.getprimaryclient.nav_contacts_add'] = "Kontakt hinzufügen";
 $lang['Navigation.getprimaryclient.nav_return'] = "Zum Dashboard";
 $lang['Navigation.getcompany.nav_lookandfeel'] = "Look and Feel";
 $lang['Navigation.getcompany.nav_lookandfeel_themes'] = "Themes";

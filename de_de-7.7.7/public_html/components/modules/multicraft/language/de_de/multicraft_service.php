@@ -25,21 +25,12 @@ $lang['MulticraftService.service_fields.tooltip.daemon_id'] = "Legen Sie die ID 
 $lang['MulticraftService.service_fields.ip'] = "IP Adresse";
 $lang['MulticraftService.service_fields.tooltip.ip'] = "Stellen Sie die IP-Adresse des Multicraft-Servers ein, dem dieser Service zugewiesen werden soll. Lassen Sie es ansonsten leer.";
 $lang['MulticraftService.service_fields.port'] = "Port";
-$lang['MulticraftService.service_fields.tooltip.port'] = "
-
-Legen Sie den Port des Multicraft-Servers fest, dem dieser Dienst zugewiesen werden soll. Lassen Sie es ansonsten leer.
-";
+$lang['MulticraftService.service_fields.tooltip.port'] = "Legen Sie den Port des Multicraft-Servers fest, dem dieser Dienst zugewiesen werden soll. Lassen Sie es ansonsten leer.";
 $lang['MulticraftService.service_fields.yes'] = "Ja";
 $lang['MulticraftService.service_fields.no'] = "Nein";
 $lang['MulticraftService.!error.configoptions[user_players].format'] = "Ob der Server-Besitzer die Anzahl der Spieler einstellen kann, muss auf 1 oder 0 eingestellt werden.";
-$lang['MulticraftService.!error.configoptions[players].format'] = "
-
-Bitte legen Sie die Anzahl der Spieler fest.
-";
-$lang['MulticraftService.!error.configoptions[memory].format'] = "
-
-Bitte legen Sie eine gültige Speichermenge fest.
-";
+$lang['MulticraftService.!error.configoptions[players].format'] = "Bitte legen Sie die Anzahl der Spieler fest.";
+$lang['MulticraftService.!error.configoptions[memory].format'] = "Bitte legen Sie eine gültige Speichermenge fest.";
 $lang['MulticraftService.!error.configoptions[daemon_id].format'] = "Bitte setze einen gültigen Daemon.";
 $lang['MulticraftService.!error.configoptions[dedicated_ip].format'] = "Ob eine dedizierte IP verwendet werden soll, muss auf 1 oder 0 gesetzt sein.";
 ?>

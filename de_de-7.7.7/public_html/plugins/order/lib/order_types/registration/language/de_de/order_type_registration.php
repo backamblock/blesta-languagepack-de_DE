@@ -11,8 +11,5 @@
 
 $lang['OrderTypeRegistration.name'] = "Kundenregistrierung";
 $lang['OrderTypeRegistration.!success.signup'] = "Vielen Dank für die Registrierung eines Kontos bei uns.";
-$lang['OrderTypeRegistration.!error.template.valid'] = "
-
-Die Kunden-Registrierung unterstützt nur die Standardvorlage.
-";
+$lang['OrderTypeRegistration.!error.template.valid'] = "Die Kunden-Registrierung unterstützt nur die Standardvorlage.";
 ?>

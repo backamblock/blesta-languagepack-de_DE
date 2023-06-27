@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = "
-
-Upgrade-Optionen
-";
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = "Upgrade-Optionen";
 $lang['AdminSystemUpgrade.index.field_upgradesubmit'] = "Update Einstellungen";
 $lang['AdminSystemUpgrade.index.page_title'] = "Einstellungen -> System -> Upgrade Optionen";
 $lang['AdminSystemUpgrade.index.no_results'] = "Ein Upgrade steht derzeit nicht zur Verfügung.";

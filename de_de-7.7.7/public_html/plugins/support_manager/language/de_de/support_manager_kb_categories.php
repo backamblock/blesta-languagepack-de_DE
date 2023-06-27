@@ -14,10 +14,7 @@ $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = "Diese Kate
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = "Diese Kategorie kann kein Elternteil für sich selbst sein.";
 $lang['SupportManagerKbCategories.!error.company_id.exists'] = "Ungültige Firmen-ID";
 $lang['SupportManagerKbCategories.!error.name.empty'] = "Bitte geben Sie einen Kategorienamen ein.";
-$lang['SupportManagerKbCategories.!error.name.length'] = "
-
-Der Kategoriename darf nicht länger als 255 Zeichen sein.
-";
+$lang['SupportManagerKbCategories.!error.name.length'] = "Der Kategoriename darf nicht länger als 255 Zeichen sein.";
 $lang['SupportManagerKbCategories.!error.access.type'] = "Ungültiger Zugriffstyp.";
 $lang['SupportManagerKbCategories.!error.category_id.exists'] = "Ungültige Kategorie-ID.";
 $lang['SupportManagerKbCategories.access_types.public'] = "Öffentlich";

@@ -26,22 +26,13 @@ $lang['AdminMain.index.no_results'] = "Es sind keine Dienste verfügbar, um die 
 $lang['AdminMain.index.option_service'] = "Preis neu zuweisen";
 $lang['AdminMain.service.term_onetime'] = "Einmalig - %3\$s"; // %1$s is the pricing term, %2$s is the pricing period, and %3$s is the formatted price
 $lang['AdminMain.service.term'] = "%1\$s %2\$s - %3\$s"; // %1$s is the pricing term, %2$s is the pricing period, and %3$s is the formatted price
-$lang['AdminMain.service.boxtitle_pricing'] = "
-
-Preis für Service neu zuweisen: %1\$s - %2\$s
-"; // %1$s is the package name, %2$s is the service name
-$lang['AdminMain.service.heading_information'] = "
-
-Service Information
-";
+$lang['AdminMain.service.boxtitle_pricing'] = "Preis für Service neu zuweisen: %1\$s - %2\$s"; // %1$s is the package name, %2$s is the service name
+$lang['AdminMain.service.heading_information'] = "Service Information";
 $lang['AdminMain.service.text_package_name'] = "Paket Name:";
 $lang['AdminMain.service.text_label'] = "Etikette:";
 $lang['AdminMain.service.text_qty'] = "Menge:";
 $lang['AdminMain.service.text_term'] = "Begriff:";
-$lang['AdminMain.service.text_status'] = "
-
-Paketnamen:
-";
+$lang['AdminMain.service.text_status'] = "Paketnamen:";
 $lang['AdminMain.service.text_date_added'] = "Hinzugefügt am:";
 $lang['AdminMain.service.text_date_renews'] = "Erneuerungsdatum:";
 $lang['AdminMain.service.text_recurring_coupon'] = "Wiederkehrender Coupon:";

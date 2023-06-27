@@ -10,10 +10,7 @@
  */
 
 $lang['ServiceChanges.!error.id.exists'] = "Ungültige Dienständerungs-ID";
-$lang['ServiceChanges.!error.service_id.exists'] = "
-
-Ungültige Service-ID
-";
+$lang['ServiceChanges.!error.service_id.exists'] = "Ungültige Service-ID";
 $lang['ServiceChanges.!error.invoice_id.exists'] = "Ungültige Rechnungsnummer.";
 $lang['ServiceChanges.!error.invoice_id.unique'] = "Die Rechnungs-ID ist bereits für eine Serviceänderung festgelegt und kann nicht erneut festgelegt werden.";
 $lang['ServiceChanges.!error.status.valid'] = "Bitte wählen Sie einen gültigen Status.";

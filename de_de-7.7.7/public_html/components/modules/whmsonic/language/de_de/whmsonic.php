@@ -48,21 +48,13 @@ $lang['Whmsonic.manage.module_rows.delete'] = "Löschen";
 $lang['Whmsonic.manage.module_groups.delete'] = "Löschen";
 $lang['Whmsonic.manage.module_rows.confirm_delete'] = "Möchten Sie diesen Server wirklich löschen?";
 $lang['Whmsonic.manage.module_groups.confirm_delete'] = "Möchten Sie diese Servergruppe wirklich löschen?";
-$lang['Whmsonic.manage.module_rows_no_results'] = "
-
-Es gibt keine Server.
-";
-$lang['Whmsonic.manage.module_groups_no_results'] = "
-
-Es gibt keine Servergruppen.
-";
+$lang['Whmsonic.manage.module_rows_no_results'] = "Es gibt keine Server.";
+$lang['Whmsonic.manage.module_groups_no_results'] = "Es gibt keine Servergruppen.";
 $lang['Whmsonic.order_options.first'] = "Erster nicht voller Server";
 $lang['Whmsonic.add_row.box_title'] = "WHMSonic Server hinzufügen";
 $lang['Whmsonic.add_row.basic_title'] = "Basis-Einstellungen";
 $lang['Whmsonic.add_row.add_btn'] = "Server hinzufügen";
-$lang['Whmsonic.edit_row.box_title'] = "
-WHMSonic Server bearbeiten
-";
+$lang['Whmsonic.edit_row.box_title'] = "WHMSonic Server bearbeiten";
 $lang['Whmsonic.edit_row.basic_title'] = "Grundeinstellungen";
 $lang['Whmsonic.edit_row.add_btn'] = "Server bearbeiten";
 $lang['Whmsonic.row_meta.server_name'] = "Serverkennzeichnung";
@@ -91,17 +83,11 @@ $lang['Whmsonic.service_info.password'] = "Passwort";
 $lang['Whmsonic.service_info.options'] = "Optionen";
 $lang['Whmsonic.service_info.option_login'] = "Einloggen";
 $lang['Whmsonic.!error.server_name_valid'] = "Sie müssen eine Serverbezeichnung eingeben.";
-$lang['Whmsonic.!error.ip_address_valid'] = "
-
-Die IP-Adresse scheint ungültig zu sein.
-";
+$lang['Whmsonic.!error.ip_address_valid'] = "Die IP-Adresse scheint ungültig zu sein.";
 $lang['Whmsonic.!error.password_valid'] = "Die API-Anmeldeinformationen scheinen ungültig zu sein.";
 $lang['Whmsonic.!error.api.internal'] = "Ein interner Fehler ist aufgetreten oder der Server hat auf die Anfrage nicht geantwortet.";
 $lang['Whmsonic.!error.module_row.missing'] = "Ein interner Fehler ist aufgetreten. Die Modulzeile ist nicht verfügbar.";
-$lang['Whmsonic.!error.meta[client_type].valid'] = "
-
-Bitte wählen Sie einen gültigen Kundentyp.
-";
+$lang['Whmsonic.!error.meta[client_type].valid'] = "Bitte wählen Sie einen gültigen Kundentyp.";
 $lang['Whmsonic.!error.meta[bitrate].valid'] = "Bitte wählen Sie ein gültiges BitRate-Limit.";
 $lang['Whmsonic.!error.meta[hspace].empty'] = "Bitte geben Sie den Hosting Space (in MB) ein, z. B. 1000.";
 $lang['Whmsonic.!error.meta[bandwidth].empty'] = "Bitte geben Sie das Bandbreitenlimit (in MB) ein, z. B .: 1000.";

@@ -38,10 +38,7 @@ $lang['AdminTools.moduleloglist.no_results'] = "Es gibt keine Daten für dieses 
 $lang['AdminTools.loggateway.text_name'] = "Name";
 $lang['AdminTools.loggateway.text_staffname'] = "Mitarbeiter";
 $lang['AdminTools.loggateway.text_date'] = "Datum";
-$lang['AdminTools.loggateway.no_results'] = "
-
-Es gibt keine Gateway-Protokolle.
-";
+$lang['AdminTools.loggateway.no_results'] = "Es gibt keine Gateway-Protokolle.";
 $lang['AdminTools.gatewayloglist.text_direction'] = "Richtung";
 $lang['AdminTools.gatewayloglist.text_data'] = "Daten";
 $lang['AdminTools.gatewayloglist.text_date'] = "Datum";
@@ -61,13 +58,9 @@ $lang['AdminTools.logemail.text_from'] = "Von";
 $lang['AdminTools.logemail.text_resend'] = "Erneut senden";
 $lang['AdminTools.logemail.text_sent'] = "Geschickt";
 $lang['AdminTools.logemail.text_unsent'] = "Nicht gesendet";
-$lang['AdminTools.logemail.no_results'] = "
-
-Es gibt keine E-Mail-Logs.
-";
+$lang['AdminTools.logemail.no_results'] = "Es gibt keine E-Mail-Logs.";
 $lang['AdminTools.logusers.text_name'] = "Name";
-$lang['AdminTools.logusers.text_username'] = "Benutzername
-";
+$lang['AdminTools.logusers.text_username'] = "Benutzername";
 $lang['AdminTools.logusers.text_type'] = "Art";
 $lang['AdminTools.logusers.text_ipaddress'] = "IP Adresse";
 $lang['AdminTools.logusers.text_date'] = "Datum";
@@ -79,10 +72,7 @@ $lang['AdminTools.logaccountaccess.type'] = "Art";
 $lang['AdminTools.logaccountaccess.date'] = "Datum";
 $lang['AdminTools.logaccountaccess.text_cc'] = "Kreditkarte";
 $lang['AdminTools.logaccountaccess.text_ach'] = "ACH";
-$lang['AdminTools.logaccountaccess.no_results'] = "
-
-Es gibt keine Kontozugriffsprotokolle.
-";
+$lang['AdminTools.logaccountaccess.no_results'] = "Es gibt keine Kontozugriffsprotokolle.";
 $lang['AdminTools.accountaccess.name'] = "Name";
 $lang['AdminTools.accountaccess.type'] = "Art";
 $lang['AdminTools.accountaccess.last4'] = "Letzten 4";
@@ -97,10 +87,7 @@ $lang['AdminTools.logcron.no_output'] = "Für diesen Log gibt es keinen Output."
 $lang['AdminTools.logcron.no_results'] = "Keine cron-Protokolle vorhanden.";
 $lang['AdminTools.!success.currency_converted'] = "%1\$s = %2\$s"; // %1$s is the from currency code and amount, %2$s is the to currency code and amount
 $lang['AdminTools.getlognames.text_transactions'] = "Transaktionen";
-$lang['AdminTools.convertcurrency.page_title'] = "
-
-Tools Währung umrechnen
-";
+$lang['AdminTools.convertcurrency.page_title'] = "Tools Währung umrechnen";
 $lang['AdminTools.logs.page_title'] = "Logfiles";
 $lang['AdminTools.logmodule.page_title'] = "Werkzeuge Protokolle";
 $lang['AdminTools.loggateway.page_title'] = "Werkzeuge Protokolle";
@@ -112,10 +99,7 @@ $lang['AdminTools.logcontacts.text_date'] = "Datum";
 $lang['AdminTools.logcontacts.text_field'] = "Feld";
 $lang['AdminTools.logcontacts.text_previous'] = "Vorheriger Wert";
 $lang['AdminTools.logcontacts.text_new'] = "Neuer Wert";
-$lang['AdminTools.logcontacts.no_results'] = "
-
-Es gibt keine Kontaktprotokolle.
-";
+$lang['AdminTools.logcontacts.no_results'] = "Es gibt keine Kontaktprotokolle.";
 $lang['AdminTools.logtransactions.page_title'] = "Tools Logs";
 $lang['AdminTools.logtransactions.text_client_name'] = "Kunde";
 $lang['AdminTools.logtransactions.text_staff_name'] = "Mitarbeiter";
@@ -127,10 +111,7 @@ $lang['AdminTools.logtransactions.no_results'] = "Es gibt keine Transaktions Log
 $lang['AdminTools.logaccountaccess.page_title'] = "Tools Logs";
 $lang['AdminTools.logcron.page_title'] = "Tools-Protokolle";
 $lang['AdminTools.getlognames.text_invoice_delivery'] = "Rechnungszustellung";
-$lang['AdminTools.loginvoicedelivery.page_title'] = "
-
-Tools-Protokolle
-";
+$lang['AdminTools.loginvoicedelivery.page_title'] = "Tools-Protokolle";
 $lang['AdminTools.loginvoicedelivery.invoice_id_code'] = "Rechnung #";
 $lang['AdminTools.loginvoicedelivery.first_name'] = "Kunde";
 $lang['AdminTools.loginvoicedelivery.method'] = "Lieferungsmethode";

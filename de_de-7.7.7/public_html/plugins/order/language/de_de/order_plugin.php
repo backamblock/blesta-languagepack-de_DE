@@ -13,10 +13,7 @@ $lang['OrderPlugin.name'] = "Bestellsystem";
 $lang['OrderPlugin.admin_main.name'] = "Aufträge";
 $lang['OrderPlugin.admin_forms.name'] = "Bestellformulare";
 $lang['OrderPlugin.cron.accept_paid_orders_name'] = "Anstehende Aufträge akzeptieren";
-$lang['OrderPlugin.cron.accept_paid_orders_desc'] = "
-
-Akzeptiert automatisch bezahlte ausstehende Bestellungen, wenn dies im Bestellformular zulässig ist.
-";
+$lang['OrderPlugin.cron.accept_paid_orders_desc'] = "Akzeptiert automatisch bezahlte ausstehende Bestellungen, wenn dies im Bestellformular zulässig ist.";
 $lang['OrderPlugin.client.name'] = "Auftrag";
 $lang['OrderPlugin.client_affiliates.name'] = "Partner";
 $lang['OrderPlugin.permission.admin_affiliates'] = "Partner";

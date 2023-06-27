@@ -28,10 +28,7 @@ $lang['AdminMain.calendar.boxtitle_calendar'] = "Kalender";
 $lang['AdminMain.calendar.categorylink_addevent'] = "Event erstellen";
 $lang['AdminMain.calendar.category_month'] = "Monat";
 $lang['AdminMain.calendar.category_week'] = "Woche";
-$lang['AdminMain.calendar.category_day'] = "
-
-Tag
-";
+$lang['AdminMain.calendar.category_day'] = "Tag";
 $lang['AdminMain.getEvents.shared_event_title'] = "%2\$s %3\$s: %1\$s"; // %1$s is the event title, %2$s is the staff's first name, %3$s is the staff's last name
 $lang['AdminMain.addevent.boxtitle_addevent'] = "Ereignis erstellen";
 $lang['AdminMain.addevent.field_title'] = "Titel";

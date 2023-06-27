@@ -9,14 +9,8 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['GatewayManager.!error.company_id.valid'] = "
-
-Die Firmen-ID ist ungültig.
-";
-$lang['GatewayManager.!error.class.valid'] = "
-
-Klasse ist ungültig
-";
+$lang['GatewayManager.!error.company_id.valid'] = "Die Firmen-ID ist ungültig.";
+$lang['GatewayManager.!error.class.valid'] = "Klasse ist ungültig";
 $lang['GatewayManager.!error.name.valid'] = "Name ist ungültig.";
 $lang['GatewayManager.!error.version.valid'] = "Version ist ungültig.";
 $lang['GatewayManager.!error.currencies[].exists'] = "Mindestens eine Währung wird von diesem Gateway nicht akzeptiert.";

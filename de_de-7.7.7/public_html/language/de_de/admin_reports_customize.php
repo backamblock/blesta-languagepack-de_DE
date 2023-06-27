@@ -9,10 +9,7 @@
  * @link https://github.com/backamblock/ backamblock on Github
  */
 
-$lang['AdminReportsCustomize.!success.added'] = "
-
-Der Bericht wurde erfolgreich hinzugefügt.
-";
+$lang['AdminReportsCustomize.!success.added'] = "Der Bericht wurde erfolgreich hinzugefügt.";
 $lang['AdminReportsCustomize.!success.edited'] = "Der Bericht wurde erfolgreich aktualisiert.";
 $lang['AdminReportsCustomize.!success.deleted'] = "Der Bericht wurde erfolgreich gelöscht.";
 $lang['AdminReportsCustomize.index.box_title'] = "Berichte";
@@ -45,10 +42,7 @@ $lang['AdminReportsCustomize.edit.page_title'] = "Abrechnungsberichte";
 $lang['AdminReportsCustomize.edit.field_name'] = "Name";
 $lang['AdminReportsCustomize.edit.field_query'] = "Abfrage";
 $lang['AdminReportsCustomize.edit.heading_fields'] = "Felder";
-$lang['AdminReportsCustomize.edit.field_add_field'] = "
-
-Feld hinzufügen
-";
+$lang['AdminReportsCustomize.edit.field_add_field'] = "Feld hinzufügen";
 $lang['AdminReportsCustomize.edit.table_name'] = "Name";
 $lang['AdminReportsCustomize.edit.table_label'] = "Etikette";
 $lang['AdminReportsCustomize.edit.table_type'] = "Tüp";
