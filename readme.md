@@ -1,5 +1,6 @@
 hier ist ein GUTES deutsches Languagepack FOR FREE!
-Bei der 50€ Variante weiß man ja auch wieder nicht was kommt. 
+
+Bei der 50€ Variante von Google weiß man ja auch wieder nicht was kommt. 
 
 
 und translate.blesta.com ist doch Müll... jetzt mal ehrlich! 
@@ -10,7 +11,8 @@ Bitte forken und eure eigenen Translations als Pull request einreichen. Auch wen
 -----
 
 Here is a GOOD German Language Pack for FREE!
-With the €50 variant, you don't know what's coming.
+
+With the €50 variant from google, you also don't know what's coming.
 
 
 and Translate.blesta.com is rubbish... let's face it!
