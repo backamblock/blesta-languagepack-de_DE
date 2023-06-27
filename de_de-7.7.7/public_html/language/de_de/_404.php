@@ -11,5 +11,5 @@
 
 $lang['404.heading_error'] = "404";
 $lang['404.text_error'] = "Entschuldigung, die Seite, auf die Sie zugreifen möchten, ist nicht vorhanden oder wurde verschoben.";
-$lang['404.text_go_to_home'] = "Zu Home gehen";
+$lang['404.text_go_to_home'] = "Zur Startseite gehen";
 ?>
