@@ -48,4 +48,4 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
         ziel.truncate()
 
 # Beispielaufruf
-kopiere_uebersetzungen('de_de-7.7.7/public_html/language/de_de', 'deutsch_neu/public_html/language/en_us')
+kopiere_uebersetzungen('de_de-7.7.7/public_html/plugins/auto_cancel/language', 'deutsch_neu/public_html/plugins/auto_cancel/language')
