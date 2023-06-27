@@ -7,7 +7,7 @@ und translate.blesta.com ist doch Müll... jetzt mal ehrlich!
 
 Bitte forken und eure eigenen Translations als Pull request einreichen. Auch wenn ich sie nicht einpflege, haben Alle damit die Möglichkeit, sich verschiedene Varianten anzusehen.
 
-alle Dateien, in denen die @version auf 7.7.7 geändert wurde, habe ich geprüft und oder vollständig übersetzt
+alle Dateien, in denen die @version auf 7.7.7 geändert wurde, habe ich geprüft und/oder vollständig übersetzt
 
 -----
 
