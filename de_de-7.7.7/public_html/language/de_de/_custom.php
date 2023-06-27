@@ -10,7 +10,16 @@
  */
 
 $lang['_PaymentTypes.cash'] = "Barzahlung";
-$lang['_PaymentTypes.check'] = "Überprüfen";
+$lang['_PaymentTypes.check'] = "Scheck";
 $lang['_PaymentTypes.money_order'] = "Money Order";
 $lang['_PaymentTypes.in_house_credit'] = "In House Kreditkarten";
+
+
+// Contact Types
+# REQUIRED FORMAT: $lang['_ContactTypes.contact_type_name_here'] = "The contact type.";
+
+
+// Custom Fields
+# REQUIRED FORMAT: $lang['_CustomFields.custom_field_name_here'] = "The custom field.";
+
 ?>
