@@ -44,10 +44,10 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
 
                 for index, zeile in enumerate(zielinhalt):
                     if englischer_string in zeile:
-                        zielinhalt[index] = zeile.replace(
-                            englischer_string, deutscher_string
+                        originaler_englischer_string = zeile.split("= ")[1].strip().strip(';').strip('"')
+                        zielinhalt[index] = (
+                            f"{englischer_string} = \"{deutscher_string}\"; //en: \"{originaler_englischer_string}\"\n"
                         )
-                        zielinhalt[index] += f" //en: {englischer_string};\n"
                         break
 
         ziel.writelines(zielinhalt)
@@ -56,6 +56,6 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
 
 # Beispielaufruf
 kopiere_uebersetzungen(
-    "de_de-7.7.7/public_html/plugins/auto_cancel/language",  # von
-    "deutsch_neu/public_html/plugins/auto_cancel/language",  # nach
+    "de_de-7.7.7/public_html/plugins/auto_cancel/language",  # Quellordner
+    "deutsch_neu/public_html/plugins/auto_cancel/language"  # Zielordner
 )
