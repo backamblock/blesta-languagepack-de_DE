@@ -1,5 +1,6 @@
 # this program searches for all $lang strings in all files in the quellordner recursively
 # it replaces all found strings in the quellordner into the according files in the zielordner
+# it adds the english string as a comment behind the newly merged line
 
 import os
 import shutil
@@ -54,7 +55,7 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
 
 
 # Beispielaufruf
-kopiere_uebersetzungen_in_datei(
+kopiere_uebersetzungen(
     "de_de-7.7.7/public_html/plugins/auto_cancel/language",  # von
     "deutsch_neu/public_html/plugins/auto_cancel/language",  # nach
 )
