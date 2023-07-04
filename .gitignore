@@ -1,6 +1,7 @@
 # exclude all files with personal data
 # exclude server config files but create an empty file in there so the folder is in the git repo
 
+settings.json
 key-vars.sh
 id_rsa.pub
 server-configs/*
