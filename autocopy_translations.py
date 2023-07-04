@@ -43,46 +43,18 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
 
                 for index, zeile in enumerate(zielinhalt):
                     if englischer_string in zeile:
-                        ersetzung = f"{zeile} #en: {englischer_string}"
-                        zielinhalt[index] = ersetzung.replace(
+                        zielinhalt[index] = zeile.replace(
                             englischer_string, deutscher_string
                         )
+                        zielinhalt[index] += f" //en: {englischer_string};\n"
                         break
 
         ziel.writelines(zielinhalt)
         ziel.truncate()
 
 
-def kopiere_uebersetzungen(quelldatei, zieldatei):
-    with open(quelldatei, "r") as quelle:
-        uebersetzungen = quelle.readlines()
-
-    with open(zieldatei, "r+") as ziel:
-        zielinhalt = ziel.readlines()
-        ziel.seek(0)
-
-        for uebersetzung in uebersetzungen:
-            if uebersetzung.startswith("$lang"):
-                uebersetzungsteil = uebersetzung.split(" = ")
-                englischer_string = uebersetzungsteil[0].strip()
-                deutscher_string = uebersetzungsteil[1].strip().strip(";").strip('"')
-
-                for index, zeile in enumerate(zielinhalt):
-                    if englischer_string in zeile:
-                        zielinhalt[index] = zeile.replace(
-                            englischer_string, deutscher_string
-                        )
-                        break
-
-        ziel.seek(0)
-        ziel.truncate()
-
-        for zeile in zielinhalt:
-            ziel.write(zeile)
-
-
 # Beispielaufruf
-kopiere_uebersetzungen(
+kopiere_uebersetzungen_in_datei(
     "de_de-7.7.7/public_html/plugins/auto_cancel/language",  # von
     "deutsch_neu/public_html/plugins/auto_cancel/language",  # nach
 )
