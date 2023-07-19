@@ -1,0 +1,13 @@
+<?php
+$lang['Summary.index.box_heading'] = "Ihr Einkaufswagen"; //en: "'Your Cart'"
+$lang['Summary.index.login_customer'] = "Bestehender Kunde?"; //en: "'Existing Customer?'"
+$lang['Summary.index.login_link'] = "Anmeldung"; //en: "'Login'"
+$lang['Summary.index.link_resetpassword'] = "Setze mein Passwort zurück"; //en: "'Reset My Password'"
+$lang['Summary.index.field_username'] = "Nutzername"; //en: "'Username'"
+$lang['Summary.index.field_password'] = "Passwort"; //en: "'Password'"
+$lang['Summary.index.login_btn'] = "Anmeldung"; //en: "'Login'"
+$lang['Summary.index.checkout_btn'] = "Auschecken"; //en: "'Checkout'"
+$lang['Summary.index.have_coupon'] = "Haben Sie einen Gutschein?"; //en: "'Have a coupon?'"
+$lang['Summary.index.coupon'] = "Coupon"; //en: "'Coupon'"
+$lang['Summary.index.coupon_btn'] = "Einlösen"; //en: "'Redeem'"
+$lang['Summary.index.cart_empty'] = "Es befinden sich keine Artikel in Ihrem Einkaufswagen."; //en: "'There are no items in your cart.'"

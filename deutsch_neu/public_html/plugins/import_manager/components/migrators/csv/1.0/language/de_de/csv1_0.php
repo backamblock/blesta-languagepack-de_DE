@@ -1,0 +1,25 @@
+<?php
+
+$lang['Csv1_0.!error.csv_data.invalid'] = "Die bereitgestellten CSV-Daten sind ungültig."; //en: "'The provided CSV data is invalid.'"
+$lang['Csv1_0.!error.import'] = "Der Import wurde abgeschlossen, aber die folgenden Fehler traten auf:"; //en: "'The import completed but the following errors ocurred:'"
+$lang['Csv1_0.!error.required_fields'] = "Die folgenden Felder müssen importiert werden: Benutzername, Vorname, Nachname, E-Mail, Telefon"; //en: "'The following fields must be imported: Username, First Name, Last Name, Email, Phone'"
+
+$lang['Csv1_0.settings.csv_data'] = "CSV-Daten"; //en: "'CSV Data'"
+$lang['Csv1_0.settings.enable_debug'] = "Aktivieren Sie das Debuggen"; //en: "'Enable Debugging'"
+
+$lang['Csv1_0.configuration.local_field'] = "Lokales Feld"; //en: "'Local Field'"
+$lang['Csv1_0.configuration.remote_field'] = "Entferntes Feld"; //en: "'Remote Field'"
+$lang['Csv1_0.configuration.no_import'] = "Kein Import"; //en: "'No Import'"
+$lang['Csv1_0.configuration.username'] = "Nutzername"; //en: "'Username'"
+$lang['Csv1_0.configuration.first_name'] = "Vorname"; //en: "'First Name'"
+$lang['Csv1_0.configuration.last_name'] = "Nachname"; //en: "'Last Name'"
+$lang['Csv1_0.configuration.email'] = "Email"; //en: "'Email'"
+$lang['Csv1_0.configuration.address1'] = "Adresse "; //en: "'Address 1'"
+$lang['Csv1_0.configuration.address2'] = "Adresszusatz"; //en: "'Address 2'"
+$lang['Csv1_0.configuration.state'] = "Zustand"; //en: "'State'"
+$lang['Csv1_0.configuration.zip'] = "Postleitzahl"; //en: "'Zip Code'"
+$lang['Csv1_0.configuration.city'] = "Stadt"; //en: "'City'"
+$lang['Csv1_0.configuration.country'] = "Land"; //en: "'Country'"
+$lang['Csv1_0.configuration.phone'] = "Telefon"; //en: "'Phone'"
+$lang['Csv1_0.configuration.company'] = "Unternehmen"; //en: "'Company'"
+$lang['Csv1_0.configuration.title'] = "Titel"; //en: "'Title'"

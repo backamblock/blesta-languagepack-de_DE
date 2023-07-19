@@ -1,0 +1,39 @@
+<?php
+$lang['QuickbooksInvoice.name'] = "Quickbooks"; //en: "'Quickbooks'"
+$lang['QuickbooksInvoice.page_of'] = "Seite %1\$s von %2\$s"; // %1$s is the current page number, %2$s is the total number of pages"; //en: "'Page %1$s of %2$s'; // %1$s is the current page number, %2$s is the total number of pages"
+$lang['QuickbooksInvoice.terms_heading'] = "Regeln"; //en: "'Terms'"
+$lang['QuickbooksInvoice.type_active'] = "RECHNUNG"; //en: "'INVOICE'"
+$lang['QuickbooksInvoice.type_draft'] = "RECHNUNG - ENTWURF"; //en: "'INVOICE - DRAFT'"
+$lang['QuickbooksInvoice.type_void'] = "RECHNUNG - UNGÜLTIG"; //en: "'INVOICE - VOID'"
+$lang['QuickbooksInvoice.type_proforma'] = "Proforma-Rechnung"; //en: "'PRO FORMA INVOICE'"
+$lang['QuickbooksInvoice.type_quotation'] = 'QUOTATION';
+$lang['QuickbooksInvoice.type_quotation_draft'] = 'QUOTATION DRAFT';
+$lang['QuickbooksInvoice.invoice_id_code'] = "Rechnung Nr."; //en: "'Invoice No.'"
+$lang['QuickbooksInvoice.proforma_id_code'] = "Pro Forma Nr."; //en: "'Pro Forma No.'"
+$lang['QuickbooksInvoice.draft_id_code'] = "Entwurf Nr."; //en: "'Draft No.'"
+$lang['QuickbooksInvoice.quotation_id_code'] = 'Quotation No.';
+$lang['QuickbooksInvoice.client_id_code'] = "Kundennummer."; //en: "'Customer No.'"
+$lang['QuickbooksInvoice.date_created'] = 'Creation Date';
+$lang['QuickbooksInvoice.date_billed'] = "Datum"; //en: "'Date'"
+$lang['QuickbooksInvoice.date_expires'] = 'Expiration Date';
+$lang['QuickbooksInvoice.date_due'] = "Fälligkeitsdatum"; //en: "'Due Date'"
+$lang['QuickbooksInvoice.notes_heading'] = "Notizen"; //en: "'Notes'"
+$lang['QuickbooksInvoice.subtotal_heading'] = "Zwischensumme"; //en: "'Subtotal'"
+$lang['QuickbooksInvoice.total_heading'] = "Total"; //en: "'Total'"
+$lang['QuickbooksInvoice.lines_description'] = "Beschreibung"; //en: "'Description'"
+$lang['QuickbooksInvoice.lines_quantity'] = "Anzahl"; //en: "'Quantity'"
+$lang['QuickbooksInvoice.lines_unit_price'] = "Preis pro Einheit"; //en: "'Unit Price'"
+$lang['QuickbooksInvoice.lines_cost'] = "Preis"; //en: "'Cost'"
+$lang['QuickbooksInvoice.address_heading'] = "Zahlungsempfänger"; //en: "'Bill To'"
+$lang['QuickbooksInvoice.address_city_state'] = "%2\$s %1\$s %3\$s%4\$s"; // %1$s is the city, %2$s is the state code, %3$s is the zip/postal code, %4$s is the country code"; //en: "'%1$s, %2$s %3$s %4$s'; // %1$s is the city, %2$s is the state code, %3$s is the zip/postal code, %4$s is the country code"
+
+$lang['QuickbooksInvoice.tax_id'] = "Steuernummer / MwSt .: %1\$s"; // %1$s is the tax ID/VATIN"; //en: "'Tax ID/VATIN: %1$s'; // %1$s is the tax ID/VATIN"
+$lang['QuickbooksInvoice.client_tax_id'] = "Kundensteuer-ID / VATIN: %1\$s"; // %1$s is the tax ID/VATIN"; //en: "'Customer Tax ID/VATIN: %1$s'; // %1$s is the tax ID/VATIN"
+$lang['QuickbooksInvoice.watermark_paid'] = "BEZAHLT"; //en: "'PAID'"
+
+$lang['QuickbooksInvoice.payments_heading'] = "Zahlungen"; //en: "'Payments'"
+$lang['QuickbooksInvoice.payments_applied_date'] = "Datum angewendet"; //en: "'Date Applied'"
+$lang['QuickbooksInvoice.payments_type_name'] = "Typ"; //en: "'Type'"
+$lang['QuickbooksInvoice.payments_transaction_id'] = "Transaktionsnummer"; //en: "'Transaction Number'"
+$lang['QuickbooksInvoice.payments_applied_amount'] = "Betrag angewendet"; //en: "'Amount Applied'"
+$lang['QuickbooksInvoice.balance_heading'] = "Saldo"; //en: "'Balance'"
