@@ -42,21 +42,36 @@ def kopiere_uebersetzungen_in_datei(quelldatei, zieldatei):
                 englischer_string = uebersetzungsteil[0].strip()
                 deutscher_string = uebersetzungsteil[1].strip().strip(";").strip('"')
 
-                for index, zeile in enumerate(zielinhalt):
-                    if englischer_string in zeile:
-                        originaler_englischer_string = (
-                            zeile.split("= ")[1].strip().strip(";").strip('"')
-                        )
-                        zielinhalt[
-                            index
-                        ] = f'{englischer_string} = "{deutscher_string}"; //en: "{originaler_englischer_string}"\n'
-                        break
+                json_pfad = extract_json_pfad(englischer_string)
+                zielzeile = find_zielzeile(zielinhalt, json_pfad)
+
+                if zielzeile is not None:
+                    originaler_englischer_string = (
+                        zielzeile.split("= ")[1].strip().strip(";").strip('"')
+                    )
+                    zielinhalt[
+                        zielinhalt.index(zielzeile)
+                    ] = f'{englischer_string} = "{deutscher_string}"; //en: "{originaler_englischer_string}"\n'
 
         ziel.writelines(zielinhalt)
         ziel.truncate()
 
 
+def extract_json_pfad(englischer_string):
+    start_index = englischer_string.find("['") + 2
+    end_index = englischer_string.rfind("']")
+    return englischer_string[start_index:end_index]
+
+
+def find_zielzeile(zielinhalt, json_pfad):
+    for zeile in zielinhalt:
+        if zeile.startswith(f"$lang['{json_pfad}']"):
+            return zeile
+    return None
+
+
 # Beispielaufruf
 kopiere_uebersetzungen(
-    "de_de-7.7.7/public_html", "deutsch_neu/public_html"  # Quellordner  # Zielordner
+    "de_de-7.7.7/public_html",  # Quellordner
+    "deutsch_neu/public_html",  # Zielordner
 )
